@@ -742,7 +742,16 @@ Segmento objetivo 2: Maria Sanchez
 ### Capítulo V: Product Implementation, Validation & Deployment
 - 5.1. Software Configuration Management
   - 5.1.1. Software Development Environment Configuration
+    En nuestro proceso de gestión de requisitos, nos apoyamos en una variedad de herramientas que aseguran una organización efectiva y transparente. Empleamos Trello para supervisar el flujo de trabajo, lo que nos permite visualizar y mantener actualizado el estado de las tareas y las historias de usuario en los sprints en desarrollo. Para el diseño de la experiencia de usuario (UX), confiamos en Figma, una plataforma versátil que nos permite crear y revisar los diseños de la aplicación en sus diferentes versiones, desde escritorio hasta dispositivos móviles. Complementamos este proceso de diseño con el uso de Lucidchart, que nos ayuda a diagramar flujos y estructuras clave, proporcionando una comprensión clara de la arquitectura del proyecto.
+
+    En el ámbito del testing de software, utilizamos Gherkin como nuestro sistema de etiquetado para describir los criterios de aceptación de las historias de usuario. Este enfoque nos permite realizar una verificación estructurada y exhaustiva de cada funcionalidad desarrollada, garantizando la calidad del producto final.
+
+    Para el desarrollo de software, confiamos en Rider como nuestro entorno de desarrollo integrado (IDE) preferido. Rider ofrece un conjunto de herramientas robusto y eficaz que nos permite elaborar y compilar el código con eficiencia, con soporte completo para una amplia gama de lenguajes de programación, incluido C#. Durante el desarrollo, utilizamos HTML5 y CSS para la presentación y el diseño de la aplicación web, mientras que C# se emplea para desarrollar la interfaz de usuario, aprovechando su orientación a objetos y su integración perfecta con Rider.
+
+    Para el control de versiones y el despliegue del software, hacemos uso de Git y GitHub. Git nos permite gestionar los repositorios del proyecto, mientras que GitHub nos proporciona una plataforma basada en la nube que facilita la colaboración en tiempo real y la revisión de contribuciones entre los miembros del equipo. Esto asegura un desarrollo y despliegue eficientes del proyecto en su totalidad.
   - 5.1.2. Source Code Management
+
+
   - 5.1.3. Source Code Style Guide & Conventions
 
     Convenciones de Nomenclatura:
