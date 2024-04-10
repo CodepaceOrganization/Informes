@@ -669,8 +669,67 @@ Segmento objetivo 2: Maria Sanchez
 - 4.7. Software Object-Oriented Design
   - 4.7.1. Class Diagrams
 
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/e4c0be0b-e400-46cd-a807-f632fed90743)
 
   - 4.7.2. Class Dictionary
+
+  **User**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|id|int|The unique identifier for the user|
+|name|string|The user's first name|
+|lastName|string|The user's last name|
+|email|string|The user's email address|
+|password|string|The user's password|
+
+**Interviewer**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|interviewerId|int|The unique identifier for the interviewer|
+|department|string|The department to which the interviewer belongs|
+|bio|string|The biography or description of the interviewer|
+|expertiseAreas|string[]|An array of expertise areas of the interviewer|
+
+**Student**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|studentId|int|Identifier for the student.|
+|career|string|Field of study or career path of the student.|
+|year|int|Current academic year of the student.|
+|gpa|float|Grade Point Average (GPA) of the student.|
+|skills|string[]|Array of skills possessed by the student.|
+|experience|string|Previous experience or work history of the student.|
+|projects|string[]|Array of projects undertaken by the student.|
+
+**CurrentSubscription**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|id|int|Unique identifier for the current subscription|
+|subscription|int|Identifier indicating the type of subscription|
+
+**SubcriptionExpire**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|expire\_date|Date|Date indicating the expiration of the subscription.|
+
+**PaymentMethod**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|id|int|Identifier for the payment method.|
+|price|float|Price associated with the payment method.|
+
 
 
 - 4.8. Database Design
@@ -678,7 +737,7 @@ Segmento objetivo 2: Maria Sanchez
 
   - 4.8.1. Database Diagram
 
-
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/3cb9ee4b-ba67-433d-9e12-90a25b7aa150)
 
 ### Capítulo V: Product Implementation, Validation & Deployment
 - 5.1. Software Configuration Management
