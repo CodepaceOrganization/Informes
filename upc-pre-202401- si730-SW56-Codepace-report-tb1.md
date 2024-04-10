@@ -730,6 +730,51 @@ Segmento objetivo 2: Maria Sanchez
 |id|int|Identifier for the payment method.|
 |price|float|Price associated with the payment method.|
 
+**PriceSubscription**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|id|int|Unique identifier for the price subscription|
+|price|float|Price of the subscription|
+|subscription|CurrentSubscription|Reference to the current subscription associated with this price subscription|
+
+**FeaturesSubscription**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|id|int|Identifier for the features subscription.|
+|features|string|Description of the features included in the subscription.|
+|subscription|current\_subscription|Current subscription associated with the features.|
+
+**MockInterview**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|interviewer|User|The interviewer participating in the interview|
+|student|User|The student being interviewed|
+|questions|List<String>|List of questions asked during the interview|
+|answers|List<String> |List of answers provided by the student|
+|success|boolean|Indicates whether the interview was successful|
+|strategy|InterviewStrategy|The strategy used during the interview|
+
+**MemberList**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|userList|List<User>|List of users who are members.|
+|resourceList|List<Resource>|List of resources associated with members.|
+
+**Resource**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|type|ResourceType|Type of the resource.|
+|content|String|Content of the resource.|
 
 
 - 4.8. Database Design
