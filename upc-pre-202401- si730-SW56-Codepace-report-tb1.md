@@ -47,11 +47,12 @@
 | 1.4       |  2024/03/22    | |Elaboración de user stories, product backlog | Pendiente |
 | 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  | Pendiente |
 | 1.6       |  2024/03/22    | |Redacción de style guidelines e information architecture| Pendiente |
-| 1.7       |  2024/03/22    | |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
+| 1.7       |  2024/03/22    | |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases| Completado |
+| 1.7       |  2024/03/22    |Quispe Andia, Jeremy Joel|Elaboración de diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
 | 1.8       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
 | 1.9       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
 | 2.0       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos| Pendiente |
-| 2.1       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado |
+| 2.1       |  2024/03/22    |  | Redacción de Collaboration Insights| Completado |
 
 ### Project Report Collaboration Insights
 
