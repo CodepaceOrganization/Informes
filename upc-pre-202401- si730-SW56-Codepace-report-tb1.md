@@ -47,11 +47,12 @@
 | 1.4       |  2024/03/22    | |Elaboración de user stories, product backlog | Pendiente |
 | 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  | Pendiente |
 | 1.6       |  2024/03/22    | |Redacción de style guidelines e information architecture| Pendiente |
-| 1.7       |  2024/03/22    | |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
+| 1.7       |  2024/03/22    | |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases| Completado |
+| 1.7       |  2024/03/22    |Quispe Andia, Jeremy Joel|Elaboración de diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
 | 1.8       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
 | 1.9       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
 | 2.0       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos| Pendiente |
-| 2.1       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado |
+| 2.1       |  2024/03/22    |  | Redacción de Collaboration Insights| Completado |
 
 ### Project Report Collaboration Insights
 
@@ -67,11 +68,10 @@
 
 ### Studen Outcome
 
-
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|----------------------|--------------|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Adrián Enrique Jesús Palma Obispo<br><b>TB1</b><br>Para esta entrega comuniqué mis ideas y propuse nuevas soluciones en las llamadas grupales, además de participar activamente en estas.<br><br>Bárbara Antonella Espinoza Delgado<br><b>TB1</b><br>Me mantuve activa en la participación y comunicación oral en las llamadas grupales, dando ideas de mejora y ayuda tanto para el informe como para la Landing Page.<br><br>Jeremy Joel Quispe Andia<br><b>TB1</b><br>Participe en las llamadas grupales de cada semana pidiendo opiniones y nuevas ideas de implementación para la Landing Page. Además, realicé entrevistas a los usuarios para conocer sus opiniones y recomendaciones acerca del proyecto.<br><br>Leonel Alfaro Cumba<br><b>TB1</b><br>Estuve presente en las llamadas grupales y comunicaba mis dudas e ideas al grupo sobre los puntos que me tocaba realizar, como las entrevistas, donde me encargue de resumir las respuestas de los usuarios entrevistados.<br><br>Paolo Del Carmen Martinez Villanueva<br><b>TB1</b><br>Comuniqué mi idea de proyecto mediante la primera llamada grupal, la cual quedó como finalista y me encargue de especificar cada punto de la idea a todos los integrantes.|<b>TB1</b><br>Como conclusión para esta primera entrega del proyecto tenemos que la comunicación oral grupal desde el inicio del proyecto es fundamental para un buen inicio de trabajo, tanto para conocernos entre nosotros como para expresar nuestras ideas, dudas y consultas como para tener una buena organización en el proyecto.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Adrián Enrique Jesús Palma Obispo<br><b>TB1</b><br>Realice las partes escritas del informe que me correspondían, en especial los Sprints y las conclusiones, además de ayudar en otras partes a mis compañeros.<br><br>Bárbara Antonella Espinoza Delgado<br><b>TB1</b><br>Realice de manera puntual las partes escritas que me correspondían en el proyecto, además de incluir fuentes bibliográficas que respalden el proyecto e ir comunicando a mis compañeros los avances que tenía y realice las correcciones considerando sus ideas de mejora y nuevas propuestas.<br><br>Jeremy Joel Quispe Andia<br><b>TB1</b><br>Me encargue de redactar el capítulo 2 del informe y colaborar en otros puntos textuales del informe. También fui quien envió la idea finalista al profesor, recibir su retroalimentación y comunicar al resto del grupo.<br><br>Leonel Alfaro Cumba<br><b>TB1</b><br>Realicé una importante sección de la Landing Page en la que tenía que describir resumidamente a la Startup y al grupo en general y me mantuve comunicado mediante el grupo de Whatsapp para hacer mis consultas.<br><br>Paolo Del Carmen Martinez Villanueva<br><b>TB1</b><br>Me encargue de la creación y redacción de los puntos del capítulo 3, además de ayudar en el capítulo 5 y realizar una sección con contenido textual en la Landing Page.|<b>TB1</b><br>La comunicación escrita es imprescindible en un grupo para mantener a todos informados constantemente sobre los avances y dudas. Además, plasmar textualmente nuestras investigaciones y aprendizaje en el informe ayuda a que cualquier usuario pueda entender más a detalle nuestro proyecto.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>Para esta entrega comuniqué mis ideas y propuse nuevas soluciones en las llamadas grupales, además de participar activamente en estas.<br><br>Sebastian Nicolas Cachis Gonzales<br><b>TB1</b><br>Me mantuve activa en la participación y comunicación oral en las llamadas grupales, dando ideas de mejora y ayuda tanto para el informe como para la Landing Page.<br><br>Jeremy Joel Quispe Andia<br><b>TB1</b><br>Participe en las llamadas grupales de cada semana pidiendo opiniones y nuevas ideas de implementación para la Landing Page. Además, realicé entrevistas a los usuarios para conocer sus opiniones y recomendaciones acerca del proyecto.<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>Estuve presente en las llamadas grupales y comunicaba mis dudas e ideas al grupo sobre los puntos que me tocaba realizar, como las entrevistas, donde me encargue de resumir las respuestas de los usuarios entrevistados.<br><br>Elias Yauri Paucar<br><b>TB1</b><br>Comuniqué mi idea de proyecto mediante la primera llamada grupal, la cual quedó como finalista y me encargue de especificar cada punto de la idea a todos los integrantes.|<b>TB1</b><br> Como conclusión para esta primera entrega del proyecto, hemos confirmado que la comunicación oral grupal desde el inicio del proyecto es fundamental para un buen inicio de trabajo. No solo nos ha permitido conocernos entre nosotros, sino que también ha servido como plataforma para expresar nuestras ideas, dudas y consultas de manera efectiva, lo cual ha contribuido significativamente a la organización y la claridad en el desarrollo del proyecto. Al participar activamente en las llamadas grupales, hemos establecido una base sólida de comprensión mutua y confianza, lo que facilita la asignación de tareas y la colaboración en equipo. Además, estas interacciones nos han permitido identificar áreas clave que requieren atención y enfoque, asegurando que abordemos los desafíos de manera proactiva y eficiente. En resumen, la comunicación oral grupal no solo es esencial para compartir información, sino que también es fundamental para construir relaciones sólidas y establecer una estructura organizativa efectiva que guiará nuestro progreso en las siguientes etapas del proyecto.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>Realice las partes escritas del informe que me correspondían, en especial los Sprints y las conclusiones, además de ayudar en otras partes a mis compañeros.<br><br>Sebastian Nicolas Cachis Gonzales<br><b>TB1</b><br>Realice de manera puntual las partes escritas que me correspondían en el proyecto, además de incluir fuentes bibliográficas que respalden el proyecto e ir comunicando a mis compañeros los avances que tenía y realice las correcciones considerando sus ideas de mejora y nuevas propuestas.<br><br>Jeremy Joel Quispe Andia<br><b>TB1</b><br>Me encargue de redactar el capítulo 2 del informe y colaborar en otros puntos textuales del informe. También fui quien envió la idea finalista al profesor, recibir su retroalimentación y comunicar al resto del grupo.<br><br>Elias Yauri Paucar<br><b>TB1</b><br>Realicé una importante sección de la Landing Page en la que tenía que describir resumidamente a la Startup y al grupo en general y me mantuve comunicado mediante el grupo de Whatsapp para hacer mis consultas.<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>Me encargue de la creación y redacción de los puntos del capítulo 3, además de ayudar en el capítulo 5 y realizar una sección con contenido textual en la Landing Page.|<b>TB1</b><br>La comunicación escrita desempeña un papel insustituible en nuestro equipo, actuando como un medio vital para mantenernos informados de manera constante sobre los progresos y las inquietudes que surgen en el transcurso del proyecto. A través de la documentación escrita, no solo consolidamos y compartimos nuestras investigaciones y aprendizajes, sino que también creamos un registro detallado y accesible de nuestro trabajo. Esta transcripción minuciosa no solo refleja nuestro compromiso con la transparencia y la organización interna, sino que también se erige como un recurso invaluable para cualquier individuo interesado en comprender los detalles y las razones detrás de nuestras decisiones y acciones. En última instancia, esta práctica no solo fortalece la cohesión y la eficacia de nuestro equipo, sino que también garantiza que nuestro proyecto sea accesible y comprensible para una audiencia más amplia, lo que amplifica su impacto y su alcance potencial.|
 
 ### Capítulo I: Introducción
 - 1.1. Startup Profile
@@ -535,6 +535,11 @@ Segmento objetivo 2: Maria Sanchez
 ### Capítulo III: Requirements Specification
 **3.1. To-Be Scenario Mapping**
 
+Segmento objetivo #1: Desarrolladores en búsqueda de empleo
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/5e44de7a-22cb-49ad-b6e6-d233dbf293dc)
+
+Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/4b0ac504-971a-4802-b447-785534a8ec82)
 
@@ -574,13 +579,34 @@ Segmento objetivo 2: Maria Sanchez
 |**US29**|**Preparación para entrevistas técnicas de desarrollo web**|**Como** usuario **quiero** acceder a recursos y entrenamiento específicos para prepararse **para** entrevistas técnicas en desarrollo web, incluyendo tecnologías como HTML, CSS, JavaScript y frameworks populares como React y Angular.|<p>**Escenario 1:**</p><p>**Dado que** un usuario está buscando mejorar sus habilidades en el desarrollo web para entrevistas técnicas,</p><p>**Cuando** accede a la sección de preparación para entrevistas técnicas de desarrollo web en la plataforma,</p><p>**Entonces** encuentra una serie de cursos, ejercicios y proyectos prácticos que cubren los fundamentos y las tecnologías avanzadas del desarrollo web.</p><p></p><p>**Escenario 2:**</p><p>**Dado que** un usuario desea familiarizarse con proyectos prácticos relevantes para entrevistas técnicas de desarrollo web,</p><p>**Cuando** accede a la sección de proyectos prácticos en la plataforma,</p><p>**Entonces** encuentra una variedad de proyectos simulados que simulan situaciones reales de desarrollo web, como la creación de una aplicación de comercio electrónico o una aplicación de redes sociales, con guías paso a paso para completar cada proyecto.</p><p></p>|
 |**US30**|**Evaluación de habilidades antes de la preparación**|**Como** usuario **quiero** realizar una evaluación inicial de mis habilidades técnicas para identificar las áreas de fortaleza y debilidad antes de comenzar mi preparación **para** entrevistas técnicas.|<p>**Escenario 1:**</p><p>**Dado que** un usuario está interesado en conocer su nivel de competencia técnica antes de comenzar su preparación,</p><p>**Cuando** accede a la sección de evaluación de habilidades en la plataforma,</p><p>**Entonces** completa una serie de pruebas que cubren diversos temas como algoritmos, estructuras de datos y desarrollo web, y recibe un informe detallado que destaca sus fortalezas y áreas de mejora.</p><p></p><p>**Escenario 2:**</p><p>**Dado que** un usuario ha completado una evaluación inicial de habilidades,</p><p>**Cuando** revisa el informe de resultados proporcionado por la plataforma,</p><p>**Entonces** la aplicación sugiere un plan de estudio personalizado basado en las áreas identificadas como áreas de mejora, proporcionando recomendaciones específicas de recursos y cursos para abordar esas áreas débiles.</p><p></p>|
 
+**Technical User Stories**
+
+|**Technical story ID**|**Título**|**Descripción**|**Escenario**|
+| :- | :- | :- | :- |
+|TS01|Registrar Usuario|**Como** desarrollador que trabaja en la aplicación de CodePace **Quiero** poder registrar a un nuevo usuario mediante una API <br>**Para** permitir que los usuarios se inscriban en nuestra plataforma y accedan a nuestros recursos de preparación para entrevistas técnicas.|**Dado que** el usuario proporciona información válida de registro **Cuando** se envía una solicitud POST a /api/users con los detalles del usuario **Entonces** la API responde con un código de estado 201 (Created) Y el cuerpo de la respuesta contiene los detalles del usuario recién registrado|
+|TS02|Iniciar Sesión de Usuario|**Como** desarrollador que trabaja en la aplicación de CodePace **Quiero** proporcionar una API para que los usuarios inicien sesión en sus cuentas **Para** permitirles acceder a su contenido personalizado y continuar con sus actividades de preparación para entrevistas técnicas|**Dado que** el usuario proporciona credenciales de inicio de sesión válidas **Cuando** se envía una solicitud POST a /api/login con las credenciales del usuario **Entonces** la API responde con un código de estado 200 (OK) Y el cuerpo de la respuesta contiene un token de autenticación válido para el usuario|
+|TS03|Obtener Detalles del Usuario|**Como** desarrollador que trabaja en la aplicación de CodePace <br>**Quiero** proporcionar una API<br>` `**para** que los usuarios recuperen sus detalles de perfil Para que puedan ver y actualizar su información personal cuando sea necesario|**Dado que** el usuario proporciona un token de autenticación válido **Cuando** se envía una solicitud GET a /api/profile con el token de autenticación **Entonces** la API responde con un código de estado 200 (OK) Y el cuerpo de la respuesta contiene los detalles del perfil del usuario|
+|TS04|Actualizar Detalles del Usuario|**Como** desarrollador que trabaja en la aplicación de CodePace <br>**Quiero** proporcionar una API<br>` `**para** que los usuarios actualicen su información de perfil Para que puedan mantener sus datos personales actualizados en nuestra plataforma|**Dado que** el usuario proporciona un token de autenticación válido y los nuevos detalles del perfil **Cuando** se envía una solicitud PUT a /api/profile con el token de autenticación y los nuevos detalles **Entonces** la API responde con un código de estado 200 (OK) Y el cuerpo de la respuesta contiene los detalles actualizados del perfil del usuario|
+|TS05|Cerrar Sesión de Usuario|**Como** desarrollador que trabaja en la aplicación de CodePace <br>**Quiero** proporcionar una API para que los usuarios cierren sesión en sus cuentas<br>` `**Para** garantizar la seguridad y la privacidad de sus datos cuando finalicen su sesión en la plataforma|**Dado que** el usuario proporciona un token de autenticación válido **Cuando** se envía una solicitud DELETE a /api/logout con el token de autenticación **Entonces** la API responde con un código de estado 204 (No Content) Y el usuario es desconectado exitosamente de su sesión en la plataforma|
+|<p>TS06</p><p></p>|Recuperar Contraseña Olvidada|**Como** desarrollador que trabaja en la aplicación de CodePace <br>**Quiero** proporcionar una API<br>` `**para** que los usuarios puedan restablecer su contraseña en caso de olvidarla Para permitir que los usuarios recuperen el acceso a sus cuentas en caso de olvidar su contraseña|**Dado que** el usuario proporciona su correo electrónico registrado **Cuando** se envía una solicitud POST a /api/reset-password con el correo electrónico del usuario **Entonces** la API responde con un código de estado 200 (OK) Y se envía un correo electrónico al usuario con un enlace para restablecer su contraseña|
+|TS07|Verificar Correo Electrónico|**Como** desarrollador que trabaja en la aplicación de CodePace <br>**Quiero** proporcionar una API<br>` `**para** que los usuarios puedan verificar su dirección de correo electrónico después del registro Para garantizar la autenticidad de las cuentas de usuario en nuestra plataforma|**Dado que** el usuario proporciona un token de verificación válido **Cuando** se envía una solicitud POST a /api/verify-email con el token de verificación del usuario **Entonces** la API responde con un código de estado 200 (OK) Y la cuenta de usuario se marca como verificada en nuestra base de datos|
+|TS08|Recuperar Preguntas de Entrevista|**Como** desarrollador que trabaja en la aplicación de CodePace <br>**Quiero** proporcionar una API <br>**para** que los usuarios puedan recuperar preguntas de entrevista técnicas Para ayudar a los usuarios en su preparación para entrevistas técnicas|**Dado que** el usuario proporciona un token de autenticación válido **Cuando** se envía una solicitud GET a /api/interview-questions con el token de autenticación del usuario **Entonces** la API responde con un código de estado 200 (OK) Y el cuerpo de la respuesta contiene una lista de preguntas de entrevista técnica|
+|TS09|Registrar Actividad de Usuario|**Como** desarrollador que trabaja en la aplicación de CodePace **Quiero** proporcionar una API **para** que podamos registrar la actividad de los usuarios en la plataforma Para analizar el compromiso de los usuarios y mejorar la experiencia del usuario|**Dado que** se realiza una acción por parte del usuario en la plataforma **Cuando** se envía una solicitud POST a /api/activity-log con los detalles de la acción y el token de autenticación del usuario **Entonces** la API responde con un código de estado 201 (Created) Y la actividad del usuario se registra correctamente en nuestra base de datos|
+|TS10|Eliminar Cuenta de Usuario|**Como** desarrollador que trabaja en la aplicación de CodePace <br>**Quiero** proporcionar una API<br>` `**para** que los usuarios puedan eliminar permanentemente sus cuentas Para permitir a los usuarios retirarse completamente de nuestra plataforma si así lo desean|**Dado que** el usuario confirma su intención de eliminar su cuenta **Cuando** se envía una solicitud DELETE a /api/delete-account con el token de autenticación del usuario y la confirmación de eliminación **Entonces** la API responde con un código de estado 204 (No Content) Y la cuenta de usuario se elimina permanentemente de nuestra base de datos|
+
+
 
 
 **3.3. Impact Mapping**
 
+Segmento objetivo #1: Desarrolladores en búsqueda de empleo
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/170d76de-fc2f-4bb2-bb61-f1c9eb922ec2)
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/45040204-0233-4b19-ab5f-a447ac95f3a2)
 
+
+Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/73a4794a-efe6-4ace-a82f-8e4a0327eded)
 
 
 **3.4. Product Backlog**
@@ -621,11 +647,41 @@ Segmento objetivo 2: Maria Sanchez
 
 
 
-
-
 ### Capítulo IV: Product Design
 - 4.1. Style Guidelines
   - 4.1.1. General Style Guidelines
+    
+    **Paleta de colores:** Nuestra aplicación web y landing page, al estar dirigida a desarrolladores y estudiantes, cuenta con colores que denoten confianza, sean sobrios y formales,        por lo     que los colores principales que usaremos para GetWorkserán el blanco, Rojo, el negro y el gris. El blanco en representación del orden y limpieza, el azul la tranquilidad y     relajación      y el gris para la seriedad y modestia. El color principal de las letras será el negro para la formalidad pero también usaremos letras en color blano para un buen          contraste con el          fondo en donde se encuentra.
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/bd62e087-a892-49b5-adb1-1bcffdb070ad)
+    
+    **Tipografía:** La tipografía de nuestra aplicación será fácilmente legible y estética, por lo que se hará uso de la fuente Roboto para botones y títulos y Asap para textos, con          interlineado 1.15 con tamaño base 18px para desktop y para móvil tamaño 16px, no obstante, decidimos hacer uso de la unidad de medida “em” para que las letras sean escalables y           responsivas a la variedad de tamaños de pantalla. Los tamaños variarán según si son títulos principales, subtítulos o textos.
+
+    -Base: 18px
+    -Fuente principal: "Roboto", que es una fuente sans-serif.
+    -Se establecen varios tamaños de texto para diferentes elementos:
+    -Tamaño de encabezado 1: 2.5 rem.
+    -Tamaño de encabezado 2: 2 rem.
+    -Tamaño de encabezado 3: 1.5 rem.
+    -Tamaño de encabezado 4: 1.125 rem.
+    -Tamaño de párrafo: 1 rem.
+    -Tamaño de texto pequeño: 0.875 rem.
+    Estos ajustes de tamaño de texto proporcionan coherencia en el diseño y la presentación de la página web. La fuente "Roboto" es ampliamente utilizada por su      legibilidad y versatilidad, lo que la hace adecuada para una variedad de contextos en el diseño web.
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/52cdc829-e776-497a-b2c5-06ddda625f2f)
+
+    **Misión:**
+    Revolucionar la preparación para entrevistas técnicas ofreciendo una plataforma integral que equipa a los programadores con las herramientas, conocimientos y     confianza necesarios para lograr el éxito.
+    
+    **Visión:**
+    En el lapso de los próximos tres años, Getwork aspira a consolidarse como la plataforma líder y de referencia en el mercado para la preparación de                entrevistas técnicas, siendo reconocida por su enfoque innovador, sostenibilidad y compromiso con la calidad y el éxito de sus usuarios.
+    
+    **Brand Name:**
+    El nombre "Getwork" se deriva de la idea de obtener (get) trabajo (work), enfocándose en el objetivo final de los usuarios: asegurar una posición en el campo     de la tecnología. Este nombre refleja directamente la misión y los valores de la plataforma, haciendo énfasis en la acción y los resultados concretos.
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c1be0b9b-36e2-40d8-83ae-8f0dc9a30717)
+
+
   - 4.1.2. Web Style Guidelines
 - 4.2. Information Architecture
 - 4.2.1. Organization Systems
@@ -730,9 +786,58 @@ Segmento objetivo 2: Maria Sanchez
 |id|int|Identifier for the payment method.|
 |price|float|Price associated with the payment method.|
 
+**PriceSubscription**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|id|int|Unique identifier for the price subscription|
+|price|float|Price of the subscription|
+|subscription|CurrentSubscription|Reference to the current subscription associated with this price subscription|
+
+**FeaturesSubscription**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|id|int|Identifier for the features subscription.|
+|features|string|Description of the features included in the subscription.|
+|subscription|current\_subscription|Current subscription associated with the features.|
+
+**MockInterview**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|interviewer|User|The interviewer participating in the interview|
+|student|User|The student being interviewed|
+|questions|List<String>|List of questions asked during the interview|
+|answers|List<String> |List of answers provided by the student|
+|success|boolean|Indicates whether the interview was successful|
+|strategy|InterviewStrategy|The strategy used during the interview|
+
+**MemberList**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|userList|List<User>|List of users who are members.|
+|resourceList|List<Resource>|List of resources associated with members.|
+
+**Resource**
+
+
+|**Atribute**|**Type**|**Description**|
+| :- | :- | :- |
+|type|ResourceType|Type of the resource.|
+|content|String|Content of the resource.|
 
 
 - 4.8. Database Design
+
+  En nuestro proyecto, hemos optado por utilizar SQL (Structured Query Language) como el lenguaje principal para interactuar con la base de datos. SQL es un lenguaje estándar ampliamente reconocido y utilizado en la gestión de bases de datos relacionales.
+  Para la gestión de nuestras bases de datos, hemos elegido Microsoft SQL Server como nuestro sistema de gestión de bases de datos (DBMS). Microsoft SQL Server es una opción confiable y robusta que ofrece una amplia gama de características y herramientas para el diseño, desarrollo y administración de bases de datos.
+  Al utilizar Microsoft SQL Server, podemos aprovechar su capacidad para manejar grandes volúmenes de datos de manera eficiente y segura. Además, nos brinda herramientas para la administración de usuarios, la configuración de permisos de acceso y la implementación de medidas de seguridad avanzadas para proteger la integridad y confidencialidad de nuestros datos.
 
 
   - 4.8.1. Database Diagram
@@ -750,6 +855,48 @@ Segmento objetivo 2: Maria Sanchez
 
     Para el control de versiones y el despliegue del software, hacemos uso de Git y GitHub. Git nos permite gestionar los repositorios del proyecto, mientras que GitHub nos proporciona una plataforma basada en la nube que facilita la colaboración en tiempo real y la revisión de contribuciones entre los miembros del equipo. Esto asegura un desarrollo y despliegue eficientes del proyecto en su totalidad.
   - 5.1.2. Source Code Management
+    En nuestro proyecto, hemos adoptado una estrategia que utiliza GitFlow para la gestión altamente eficiente del código fuente, junto con GitHub para el registro de versiones. A continuación, se detalla cómo hemos implementado GitFlow en nuestro flujo de trabajo:
+
+    Implementación de GitFlow:
+    
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/130623774/f2be5d26-18f7-4c6f-a51e-2a06e7579726)
+    Ramas Principales:
+
+    Main: Esta rama contiene la versión más estable y lista para producción de nuestro proyecto.
+    Develop: En esta rama se integran todas las características finalizadas, representando así la versión en desarrollo del proyecto.
+    Ramas de Funcionalidades (Feature Branches):
+
+    Cada nueva característica o cambio importante se desarrolla en su propia rama de funcionalidades, creada a partir de develop.
+
+    Una vez completada y probada la funcionalidad, se fusiona nuevamente en develop.
+
+    Ramas de Publicación (Release Branches):
+
+    Cuando se alcanza un conjunto de características suficientemente estable en develop, se crea una rama de publicación.
+
+    En esta rama, se realizan las últimas pruebas y ajustes antes de lanzar una nueva versión.
+
+    Posteriormente, la rama de publicación se fusiona en master y develop, etiquetándola con el número de versión correspondiente.
+
+    Ramas de Corrección de Errores (Hotfix Branches):
+
+    Si surge un problema crítico en la versión en producción, se crea una rama de corrección de errores desde master.
+
+    La solución se implementa en esta rama y luego se fusiona en master y develop.
+
+    Repositorio en GitHub:
+
+    Estos enlaces proporcionan acceso directo a nuestros repositorios:
+
+    Enlace de Organización: https://github.com/CodepaceOrganization
+
+    Enlace de Landing Page:https://github.com/CodepaceOrganization/GetWork-LandingPage
+
+    Enlace de Frontend Web Application:https://github.com/CodepaceOrganization/Frontend-Web-Applicacion
+
+    Commits: 
+    
+    Para los commits que realicemos en nuestro proyecto utilizaremos Conventional Commits. Esta convención nos permite estructurar mejor los mensajes de commits de manera clara y consistente, lo que facilita la comprensión en los cambios realizados en el repositorio
 
 
   - 5.1.3. Source Code Style Guide & Conventions
