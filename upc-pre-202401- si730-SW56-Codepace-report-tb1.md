@@ -750,6 +750,48 @@ Segmento objetivo 2: Maria Sanchez
 
     Para el control de versiones y el despliegue del software, hacemos uso de Git y GitHub. Git nos permite gestionar los repositorios del proyecto, mientras que GitHub nos proporciona una plataforma basada en la nube que facilita la colaboración en tiempo real y la revisión de contribuciones entre los miembros del equipo. Esto asegura un desarrollo y despliegue eficientes del proyecto en su totalidad.
   - 5.1.2. Source Code Management
+    En nuestro proyecto, hemos adoptado una estrategia que utiliza GitFlow para la gestión altamente eficiente del código fuente, junto con GitHub para el registro de versiones. A continuación, se detalla cómo hemos implementado GitFlow en nuestro flujo de trabajo:
+
+    Implementación de GitFlow:
+    
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/130623774/f2be5d26-18f7-4c6f-a51e-2a06e7579726)
+    Ramas Principales:
+
+    Main: Esta rama contiene la versión más estable y lista para producción de nuestro proyecto.
+    Develop: En esta rama se integran todas las características finalizadas, representando así la versión en desarrollo del proyecto.
+    Ramas de Funcionalidades (Feature Branches):
+
+    Cada nueva característica o cambio importante se desarrolla en su propia rama de funcionalidades, creada a partir de develop.
+
+    Una vez completada y probada la funcionalidad, se fusiona nuevamente en develop.
+
+    Ramas de Publicación (Release Branches):
+
+    Cuando se alcanza un conjunto de características suficientemente estable en develop, se crea una rama de publicación.
+
+    En esta rama, se realizan las últimas pruebas y ajustes antes de lanzar una nueva versión.
+
+    Posteriormente, la rama de publicación se fusiona en master y develop, etiquetándola con el número de versión correspondiente.
+
+    Ramas de Corrección de Errores (Hotfix Branches):
+
+    Si surge un problema crítico en la versión en producción, se crea una rama de corrección de errores desde master.
+
+    La solución se implementa en esta rama y luego se fusiona en master y develop.
+
+    Repositorio en GitHub:
+
+    Estos enlaces proporcionan acceso directo a nuestros repositorios:
+
+    Enlace de Organización: https://github.com/CodepaceOrganization
+
+    Enlace de Landing Page:https://github.com/CodepaceOrganization/GetWork-LandingPage
+
+    Enlace de Frontend Web Application:https://github.com/CodepaceOrganization/Frontend-Web-Applicacion
+
+    Commits: 
+    
+    Para los commits que realicemos en nuestro proyecto utilizaremos Conventional Commits. Esta convención nos permite estructurar mejor los mensajes de commits de manera clara y consistente, lo que facilita la comprensión en los cambios realizados en el repositorio
 
 
   - 5.1.3. Source Code Style Guide & Conventions
