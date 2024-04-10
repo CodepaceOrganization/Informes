@@ -648,11 +648,41 @@ Segmento objetivo 2: Maria Sanchez
 
 
 
-
-
 ### Capítulo IV: Product Design
 - 4.1. Style Guidelines
   - 4.1.1. General Style Guidelines
+    
+    **Paleta de colores:** Nuestra aplicación web y landing page, al estar dirigida a desarrolladores y estudiantes, cuenta con colores que denoten confianza, sean sobrios y formales,        por lo     que los colores principales que usaremos para GetWorkserán el blanco, Rojo, el negro y el gris. El blanco en representación del orden y limpieza, el azul la tranquilidad y     relajación      y el gris para la seriedad y modestia. El color principal de las letras será el negro para la formalidad pero también usaremos letras en color blano para un buen          contraste con el          fondo en donde se encuentra.
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/bd62e087-a892-49b5-adb1-1bcffdb070ad)
+    
+    **Tipografía:** La tipografía de nuestra aplicación será fácilmente legible y estética, por lo que se hará uso de la fuente Roboto para botones y títulos y Asap para textos, con          interlineado 1.15 con tamaño base 18px para desktop y para móvil tamaño 16px, no obstante, decidimos hacer uso de la unidad de medida “em” para que las letras sean escalables y           responsivas a la variedad de tamaños de pantalla. Los tamaños variarán según si son títulos principales, subtítulos o textos.
+
+    -Base: 18px
+    -Fuente principal: "Roboto", que es una fuente sans-serif.
+    -Se establecen varios tamaños de texto para diferentes elementos:
+    -Tamaño de encabezado 1: 2.5 rem.
+    -Tamaño de encabezado 2: 2 rem.
+    -Tamaño de encabezado 3: 1.5 rem.
+    -Tamaño de encabezado 4: 1.125 rem.
+    -Tamaño de párrafo: 1 rem.
+    -Tamaño de texto pequeño: 0.875 rem.
+    Estos ajustes de tamaño de texto proporcionan coherencia en el diseño y la presentación de la página web. La fuente "Roboto" es ampliamente utilizada por su      legibilidad y versatilidad, lo que la hace adecuada para una variedad de contextos en el diseño web.
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/52cdc829-e776-497a-b2c5-06ddda625f2f)
+
+    **Misión:**
+    Revolucionar la preparación para entrevistas técnicas ofreciendo una plataforma integral que equipa a los programadores con las herramientas, conocimientos y     confianza necesarios para lograr el éxito.
+    
+    **Visión:**
+    En el lapso de los próximos tres años, Getwork aspira a consolidarse como la plataforma líder y de referencia en el mercado para la preparación de                entrevistas técnicas, siendo reconocida por su enfoque innovador, sostenibilidad y compromiso con la calidad y el éxito de sus usuarios.
+    
+    **Brand Name:**
+    El nombre "Getwork" se deriva de la idea de obtener (get) trabajo (work), enfocándose en el objetivo final de los usuarios: asegurar una posición en el campo     de la tecnología. Este nombre refleja directamente la misión y los valores de la plataforma, haciendo énfasis en la acción y los resultados concretos.
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c1be0b9b-36e2-40d8-83ae-8f0dc9a30717)
+
+
   - 4.1.2. Web Style Guidelines
 - 4.2. Information Architecture
 - 4.2.1. Organization Systems
