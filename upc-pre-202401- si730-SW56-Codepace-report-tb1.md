@@ -533,21 +533,15 @@ Segmento objetivo 2: Maria Sanchez
 
 
 ### Capítulo III: Requirements Specification
-**3.1. To-Be Scenario Mapping -  Segmento objetivo #1: Desarrolladores en búsqueda de empleo** 
+**3.1. To-Be Scenario Mapping**
+
+Segmento objetivo #1: Desarrolladores en búsqueda de empleo
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/5e44de7a-22cb-49ad-b6e6-d233dbf293dc)
 
-
-
-
-
-
-
-
-**3.1. To-Be Scenario Mapping -  Segmento objetivo #2: Estudiantes de informática y carreras relacionadas**
+Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/4b0ac504-971a-4802-b447-785534a8ec82)
-
 
 
 **3.2. User Stories**
@@ -605,9 +599,14 @@ Segmento objetivo 2: Maria Sanchez
 
 **3.3. Impact Mapping**
 
+Segmento objetivo #1: Desarrolladores en búsqueda de empleo
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/142842509/170d76de-fc2f-4bb2-bb61-f1c9eb922ec2)
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/45040204-0233-4b19-ab5f-a447ac95f3a2)
 
+
+Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/73a4794a-efe6-4ace-a82f-8e4a0327eded)
 
 
 **3.4. Product Backlog**
