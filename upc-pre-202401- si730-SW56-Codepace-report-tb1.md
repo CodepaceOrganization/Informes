@@ -804,10 +804,10 @@ Segmento objetivo 2: Maria Sanchez
       - Implementar estrategias de almacenamiento en caché para activos estáticos para reducir la carga del servidor.
 
 - 5.2. Landing Page, Services & Applications Implementation
-  - 5.2.X. Sprintn
-    - 5.2.X.1. Sprint Planningn
-    - 5.2.X.2. Sprint Backlogn
-    - 5.2.X.3. Development Evidence for Sprint Review
+  - 5.2.1. Sprint 1
+    - 5.2.1.1. Sprint Planningn
+    - 5.2.1.2. Sprint Backlogn
+    - 5.2.1.3. Development Evidence for Sprint Review
 
 |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
@@ -839,11 +839,24 @@ Segmento objetivo 2: Maria Sanchez
 |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|e1c853cc6799df0b0dbde55decb0304cf17544eb|feat: add readme of the landingpage|-|09/04/2024|
 |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|1d0488b8aba5f29604ce136470fc2a9ffa09667f|fix: route the images|-|09/04/2024|
 
-  - 5.2.X.4. Testing Suite Evidence for Sprint Review
-  - 5.2.X.5. Execution Evidence for Sprint Review
-  - 5.2.X.6. Services Documentation Evidence for Sprint Review
-  - 5.2.X.7. Software Deployment Evidence for Sprint Review
-  - 5.2.X.8. Team Collaboration Insights during Sprint
+  - 5.2.1.4. Testing Suite Evidence for Sprint Review
+  - 5.2.1.5. Execution Evidence for Sprint Review
+  - 5.2.1.6. Services Documentation Evidence for Sprint Review
+  - 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint, se ha realizado una serie de actividades relacionadas con el despliegue de nuestros productos, incluyendo la creación de cuentas, configuración de recursos en proveedores de servicios en la nube y la implementación de proyectos de desarrollo para integrar y automatizar el proceso de despliegue. Como parte de estas actividades, hemos creado un repositorio en GitHub para gestionar el código fuente de nuestros productos. Este repositorio nos proporciona un entorno colaborativo donde los miembros del equipo pueden trabajar en conjunto y realizar un seguimiento de las versiones del código.
+
+Además, hemos desarrollado una Landing Page como parte de nuestra estrategia de despliegue. La Landing Page es una interfaz inicial que proporciona información relevante sobre nuestros productos y servicios. Para su implementación, hemos utilizado tecnologías web modernas y hemos seguido prácticas de diseño centradas en el usuario para garantizar una experiencia atractiva y funcional para nuestros visitantes. La creación de la Landing Page ha sido un paso crucial en nuestra estrategia de despliegue, ya que sirve como punto de entrada para los usuarios interesados en nuestros productos y servicios.
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/4d85bf19-b26f-4f95-9b0e-6f8b4e5fed46)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/dcfe81d3-c078-48ed-be78-b9c6c6d5685c)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/5cb5af11-b798-476b-a860-b5fd6b00fdbe)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/1d7dbcd2-0dbf-44c1-95cc-ef76fa6d2ab8)
+
+  - 5.2.1.8. Team Collaboration Insights during Sprint
 
 **Conclusiones**
 - Conclusiones y recomendaciones
