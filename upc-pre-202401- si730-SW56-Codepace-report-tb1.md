@@ -779,6 +779,10 @@ Segmento objetivo 2: Maria Sanchez
 
 - 4.8. Database Design
 
+  En nuestro proyecto, hemos optado por utilizar SQL (Structured Query Language) como el lenguaje principal para interactuar con la base de datos. SQL es un lenguaje estándar ampliamente reconocido y utilizado en la gestión de bases de datos relacionales.
+  Para la gestión de nuestras bases de datos, hemos elegido Microsoft SQL Server como nuestro sistema de gestión de bases de datos (DBMS). Microsoft SQL Server es una opción confiable y robusta que ofrece una amplia gama de características y herramientas para el diseño, desarrollo y administración de bases de datos.
+  Al utilizar Microsoft SQL Server, podemos aprovechar su capacidad para manejar grandes volúmenes de datos de manera eficiente y segura. Además, nos brinda herramientas para la administración de usuarios, la configuración de permisos de acceso y la implementación de medidas de seguridad avanzadas para proteger la integridad y confidencialidad de nuestros datos.
+
 
   - 4.8.1. Database Diagram
 
