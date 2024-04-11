@@ -990,7 +990,7 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
   - 5.2.1.5. Execution Evidence for Sprint Review
   - 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-
+Para esta entrea no fue contemplada la evidencia de documentación de los servicios
 
   - 5.2.1.7. Software Deployment Evidence for Sprint Review
 
