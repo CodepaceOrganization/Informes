@@ -952,8 +952,8 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 
 - 5.2. Landing Page, Services & Applications Implementation
   - 5.2.1. Sprint 1
-    - 5.2.1.1. Sprint Planningn
-    - 5.2.1.2. Sprint Backlogn
+    - 5.2.1.1. Sprint Planning 1
+    - 5.2.1.2. Sprint Backlog 1
     - 5.2.1.3. Development Evidence for Sprint Review
 
 |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
@@ -989,6 +989,9 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
   - 5.2.1.4. Testing Suite Evidence for Sprint Review
   - 5.2.1.5. Execution Evidence for Sprint Review
   - 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
+
   - 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Durante este sprint, se ha realizado una serie de actividades relacionadas con el despliegue de nuestros productos, incluyendo la creación de cuentas, configuración de recursos en proveedores de servicios en la nube y la implementación de proyectos de desarrollo para integrar y automatizar el proceso de despliegue. Como parte de estas actividades, hemos creado un repositorio en GitHub para gestionar el código fuente de nuestros productos. Este repositorio nos proporciona un entorno colaborativo donde los miembros del equipo pueden trabajar en conjunto y realizar un seguimiento de las versiones del código.
@@ -1004,6 +1007,18 @@ Además, hemos desarrollado una Landing Page como parte de nuestra estrategia de
 ![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/1d7dbcd2-0dbf-44c1-95cc-ef76fa6d2ab8)
 
   - 5.2.1.8. Team Collaboration Insights during Sprint
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/2fe68b4b-6b4a-48a8-b532-9bfa7be080f9)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/61ff531b-412a-4874-b976-b9b9c21633ce)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/2feb9298-0526-424b-ab9a-4888e3fcfb61)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/f2475d0f-19c2-4dae-bd5d-d7f7cf3206a4)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/94f061fe-b7e9-4c07-87ef-f50e645e4042)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/f39be6eb-4baf-4e18-b88c-1e28470f4d8c)
 
 **Conclusiones**
 - Conclusiones y recomendaciones
