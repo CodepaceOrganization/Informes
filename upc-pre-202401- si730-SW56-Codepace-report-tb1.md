@@ -1045,9 +1045,8 @@ pantalla.
 ![image49](https://github.com/CodepaceOrganization/Informes/assets/133830443/68a6c50f-ec8f-4b7c-85f2-8fb11d32f7af)
 ![image34](https://github.com/CodepaceOrganization/Informes/assets/133830443/3d803b81-3f06-4ffc-a7e9-7e973b6c04d5)
   - 4.3.2. Landing Page Mock-up
-  ![image36](https://github.com/CodepaceOrganization/Informes/assets/133830443/dfa391b0-52a6-443e-9aa5-798a4c026cfa)
 
-![image36](https://github.com/CodepaceOrganization/Informes/assets/133830443/dfa391b0-52a6-443e-9aa5-798a4c026cfa)
+  ![image36](https://github.com/CodepaceOrganization/Informes/assets/133830443/dfa391b0-52a6-443e-9aa5-798a4c026cfa)
 
 **Landing Page para Mobile Mock-up**
 
@@ -1191,7 +1190,7 @@ pantalla.
 ![image72](https://github.com/CodepaceOrganization/Informes/assets/133830443/3821cbfc-cdbc-4fe8-9e57-a9116b54087d)
 ![image8](https://github.com/CodepaceOrganization/Informes/assets/133830443/d5d6ce07-2e38-4123-982f-e6c339e3e5cc)
   - 4.4.4. Web Applications User Flow Diagrams
-  
+
   **Enlace para acceder al**
 [**<u>Lucidchart</u>**](https://lucid.app/lucidchart/80cf9743-81db-40e0-84e8-50e9ca926967/edit?viewport_loc=-9706%2C-2705%2C18465%2C9375%2C0_0&invitationId=inv_8255df90-1551-4474-bb4a-348c48e2e553)
 
