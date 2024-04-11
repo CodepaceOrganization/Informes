@@ -1034,7 +1034,15 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 
 **Bibliografía**
 
+- Apliint, (2024), 10 principales tecnologías frontend para usar en 2022, https://apliint.com/2022/03/15/10-principales-tecnologias-frontend-para-usar-en-2022/
 
+- HackerRank, (2024), Skills speak louder than words, https://www.hackerrank.com/
+
+- LeetCode, (2024), A New Way to Learn, https://leetcode.com/
+
+- Indeed, (2023), Las 10 mejores aplicaciones para buscar trabajo por internet, https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/mejores-aplicaciones-buscar-trabajo-internet
+
+- Interviewbit, (2024), Everything you need to crack your Next Tech Interview, https://www.interviewbit.com/
 
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
