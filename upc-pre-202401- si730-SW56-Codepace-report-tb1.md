@@ -915,9 +915,6 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
       - Seguir las mejores prácticas para la estructura HTML, incluyendo la indentación y comentarios.
       - Utilizar elementos HTML semánticos cuando sea apropiado.
 
-
-
-
     - Guía de Estilo de Google para HTML/CSS:
       - Mantener un formato y una indentación consistentes.
       - Utilizar preprocesadores CSS como Sass para organizar y modularizar el código.
@@ -990,13 +987,13 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
   - 5.2.1.5. Execution Evidence for Sprint Review
   - 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Para esta entrea no fue contemplada la evidencia de documentación de los servicios
+  Para esta entrea no fue contemplada la evidencia de documentación de los servicios
 
   - 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Durante este sprint, se ha realizado una serie de actividades relacionadas con el despliegue de nuestros productos, incluyendo la creación de cuentas, configuración de recursos en proveedores de servicios en la nube y la implementación de proyectos de desarrollo para integrar y automatizar el proceso de despliegue. Como parte de estas actividades, hemos creado un repositorio en GitHub para gestionar el código fuente de nuestros productos. Este repositorio nos proporciona un entorno colaborativo donde los miembros del equipo pueden trabajar en conjunto y realizar un seguimiento de las versiones del código.
-
-Además, hemos desarrollado una Landing Page como parte de nuestra estrategia de despliegue. La Landing Page es una interfaz inicial que proporciona información relevante sobre nuestros productos y servicios. Para su implementación, hemos utilizado tecnologías web modernas y hemos seguido prácticas de diseño centradas en el usuario para garantizar una experiencia atractiva y funcional para nuestros visitantes. La creación de la Landing Page ha sido un paso crucial en nuestra estrategia de despliegue, ya que sirve como punto de entrada para los usuarios interesados en nuestros productos y servicios.
+    Durante este sprint, se ha realizado una serie de actividades relacionadas con el despliegue de nuestros productos, incluyendo la creación de cuentas, configuración de recursos en        proveedores de servicios en la nube y la implementación de proyectos de desarrollo para integrar y automatizar el proceso de despliegue. Como parte de estas actividades, hemos creado     un repositorio en GitHub para gestionar el código fuente de nuestros productos. Este repositorio nos proporciona un entorno colaborativo donde los miembros del equipo pueden trabajar     en conjunto y realizar un seguimiento de las versiones del código.
+    
+    Además, hemos desarrollado una Landing Page como parte de nuestra estrategia de despliegue. La Landing Page es una interfaz inicial que proporciona información relevante sobre            nuestros productos y servicios. Para su implementación, hemos utilizado tecnologías web modernas y hemos seguido prácticas de diseño centradas en el usuario para garantizar una           experiencia atractiva y funcional para nuestros visitantes. La creación de la Landing Page ha sido un paso crucial en nuestra estrategia de despliegue, ya que sirve como punto de         entrada para los usuarios interesados en nuestros productos y servicios.
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/4d85bf19-b26f-4f95-9b0e-6f8b4e5fed46)
 
@@ -1036,7 +1033,6 @@ Además, hemos desarrollado una Landing Page como parte de nuestra estrategia de
 
       
 **Conclusiones**
-- Conclusiones y recomendaciones
 
 El proyecto "GetWork" de la startup CodePace se presenta como una solución innovadora y necesaria para abordar un desafío comúnmente enfrentado por los estudiantes universitarios: la falta de preparación adecuada para enfrentar entrevistas técnicas y el mercado laboral en el campo de la tecnología. Mediante una cuidadosa investigación y análisis de las necesidades de los estudiantes y las demandas de la industria, CodePace ha desarrollado una plataforma integral que tiene como objetivo cerrar la brecha entre la educación académica y las expectativas del mundo laboral. Esta iniciativa demuestra un profundo compromiso de la startup con el éxito y el crecimiento profesional de los estudiantes, así como con la creación de una fuerza laboral altamente calificada en el campo de la tecnología.
 
