@@ -1008,18 +1008,33 @@ Además, hemos desarrollado una Landing Page como parte de nuestra estrategia de
 
   - 5.2.1.8. Team Collaboration Insights during Sprint
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/2fe68b4b-6b4a-48a8-b532-9bfa7be080f9)
+    | Alumno                              | Actividad                                                  |
+      |-------------------------------------|------------------------------------------------------------|
+      | Cruz Palomino, Adriano Sebastian   | Implementación de la base y los archivos de la landing page     |
+      | Cachis Gonzales, Sebastian Nicolas| Implementación de la sección de Feautures de la empresa   |
+      | Quispe Andia, Jeremy Joel      | Implementación del responsive, form registro y footer     |
+      | Cabanillas Gora, Andrea Milagros 	| Implementación de la sección testimonos           |
+      | Yauri Paucar, Elias| Implementación Form Registro       |
+      | Castillo Castillo, Alexander Jair| Implementación Form Contact |
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/61ff531b-412a-4874-b976-b9b9c21633ce)
+ 
+      Hemos desarrollado en conjunto un total de 38 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+ 
+      Tabla para poder identificarnos:
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/2feb9298-0526-424b-ab9a-4888e3fcfb61)
+      |Username (Github)                    | Nombre                                                  |
+      |-------------------------------------|------------------------------------------------------------|
+      | FlowerPowerA  | Cabanillas Gora, Andrea Milagros      |
+      | AdrianoSCruzP       | Cruz Palomino, Adriano Sebastian   |
+      | Jemisas      | Quispe Andia, Jeremy Joel      |
+      | Dark7YT 	| Cachis Gonzales, Sebastian Nicolas           |
+      | U202211390 | Castillo Castillo, Alexander Jair    |
+      | EliasYP  | Yauri Paucar, Elias |
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/f2475d0f-19c2-4dae-bd5d-d7f7cf3206a4)
+      ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/713c0172-ed8c-4a00-85b3-5a28ce2b0106)
+      ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b06f9713-607c-4f7b-b801-78f06ab88b04)
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/94f061fe-b7e9-4c07-87ef-f50e645e4042)
-
-![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/f39be6eb-4baf-4e18-b88c-1e28470f4d8c)
-
+      
 **Conclusiones**
 - Conclusiones y recomendaciones
 
