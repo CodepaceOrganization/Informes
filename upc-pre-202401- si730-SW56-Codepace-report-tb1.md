@@ -683,24 +683,577 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 
 
   - 4.1.2. Web Style Guidelines
+  La plataforma Getwork ofrecería recursos y entrenamiento crucial para
+programadores y desarrolladores que buscan prepararse para entrevistas
+técnicas en el sector tecnológico. Su diseño web debe reflejar la
+claridad, accesibilidad y la relevancia del contenido para los usuarios
+aspirantes a roles técnicos.
+
+**Tarjetas de Servicios**
+
+Preguntas Frecuentes de Entrevistas: Tarjetas que enumeran preguntas
+comunes en entrevistas técnicas, con respuestas detalladas y consejos
+para responder adecuadamente.
+
+Ejercicios de Codificación Práctica: Presentación de desafíos de
+codificación para practicar, con niveles de dificultad variados y
+soluciones disponibles para miembros premium.
+
+Simulacros de Entrevistas en Vivo: Información sobre cómo participar en
+simulacros de entrevistas con expertos, incluyendo detalles sobre la
+reserva de sesiones y temas cubiertos.
+
+Tutoriales sobre Temas Comunes de Entrevistas: Acceso a tutoriales que
+cubren áreas clave frecuentes en entrevistas técnicas, desde estructuras
+de datos hasta algoritmos complejos.
+
+![image79](https://github.com/CodepaceOrganization/Informes/assets/133830443/2b90a28b-5e45-4550-8187-a46d4b81db7f)
+  
+![image48](https://github.com/CodepaceOrganization/Informes/assets/133830443/0c3ff570-f5e2-4006-85f5-35a56498600a)
+
+![image41](https://github.com/CodepaceOrganization/Informes/assets/133830443/862e6b68-4c9a-460a-bd09-3058b551a28f)
+
+**Imágenes**
+
+Imágenes descriptivas y motivacionales: Utilizar imágenes que reflejen
+el ambiente de una entrevista de trabajo técnica, así como la
+satisfacción de superar desafíos de codificación.
+
+Representación Visual de Servicios: Imágenes que simbolizan cada uno de
+los servicios principales, ayudando a la identificación rápida por parte
+del usuario.  
+  
+![image61](https://github.com/CodepaceOrganization/Informes/assets/133830443/e2b89f50-cbc8-4c75-9a18-2c6562ff87f2)
+![image30](https://github.com/CodepaceOrganization/Informes/assets/133830443/560792d4-43b1-488e-8d50-04e088c54b4e)
+![image58](https://github.com/CodepaceOrganization/Informes/assets/133830443/e3d860c7-0f2a-4945-aa4a-4be6c1d18e37)
+
+**Botones**
+
+Acciones decisivas: Botones situados estratégicamente para fomentar la
+inscripción a la plataforma, participación en ejercicios y simulacros, y
+acceso a contenido premium.
+
+Estilo y color distintivo: Los botones diseñados para resaltar y
+provocar acciones positivas (ej., verde para continuar o confirmar) y
+precaución (ej., rojo para cancelaciones o advertencias).
+
+![image43](https://github.com/CodepaceOrganization/Informes/assets/133830443/5724ccf1-98b3-4abe-8412-0cf99e3abfea)
+
+![image46](https://github.com/CodepaceOrganization/Informes/assets/133830443/4c2ab3cd-4f26-4bad-9d6f-2594ac9146be)
+
+**Formularios**
+
+**Organización de Contenido:** Uso de formularios para estructurar
+listas de recursos disponibles, ejercicios por dificultad, y horarios
+para simulacros de entrevistas, facilitando la visualización y selección
+por parte de los usuarios.
+
+![image57](https://github.com/CodepaceOrganization/Informes/assets/133830443/af434b00-d053-4b24-80dd-6352eb625b23)
+
+![image4](https://github.com/CodepaceOrganization/Informes/assets/133830443/df5aa401-d1e7-45e7-a729-f91f6acd85f2)
+
+**Principios Generales**
+
+**Claridad y Accesibilidad:** Asegurar que el diseño general permita una
+navegación intuitiva y un fácil acceso a todos los recursos.
+
+**Motivación y Empoderamiento:** A través del diseño visual y la
+estructura del contenido, inspirar confianza y motivación entre los
+usuarios para prepararse y tener éxito en sus entrevistas técnicas.
 - 4.2. Information Architecture
+**Página de inicio:**
+
+**\*\*Contenido destacado:\*\* Artículos y guías sobre moda sostenible,
+incluyendo consejos para elegir prendas de calidad y cómo reducir el
+impacto ambiental de la moda.**
+
+**\*\*Marcas destacadas:\*\* Lista de marcas asociadas que ofrecen
+prendas de moda sostenible y oportunidades de alquiler en EventWear.**
+
+**\*\*Registrarse/Iniciar sesión:\*\* Botones destacados para que los
+usuarios se registren y comiencen a explorar la plataforma de EventWear,
+o inicien sesión en sus cuentas existentes.**
+
+**Categorías:**
+
+**\*\*Tendencias de moda:\*\* Una sección donde los usuarios pueden
+descubrir las últimas tendencias en moda sostenible y cómo integrarlas
+en su estilo personal.**
+
+**\*\*Guía de estilo:\*\* Recursos y consejos para ayudar a los usuarios
+a crear looks únicos y conscientes para eventos especiales.**
+
+**\*\*Intercambio de prendas:\*\* Una sección dedicada a facilitar el
+intercambio de prendas entre usuarios, promoviendo así la reutilización
+y reduciendo el desperdicio de moda.**
+
+**Páginas:**
+
+**Acerca de nosotros:** Una página que destaca la misión, los valores y
+el equipo detrás de EventWear, así como su compromiso con la moda
+sostenible y la comunidad.
+
+**Blog:** Una página donde los usuarios pueden encontrar artículos sobre
+moda sostenible, consejos de estilo y entrevistas con diseñadores
+comprometidos con la sostenibilidad.
+
+**Preguntas frecuentes:** Una página con respuestas a preguntas comunes
+sobre EventWear, el proceso de alquiler de prendas y cómo funciona la
+plataforma.
+
+**Cuenta de usuario:**
+
+**Perfil:** Una página donde los usuarios pueden ver y editar su
+información personal, incluyendo sus preferencias de estilo y las
+prendas que han alquilado o intercambiado.
+
+**Actividad:** Una página donde los usuarios pueden realizar un
+seguimiento de su actividad en la plataforma, incluyendo las prendas que
+han compartido, las que han alquilado y los eventos a los que han
+asistido.
+
+**Prendas:** Una página donde los usuarios pueden explorar las prendas
+disponibles para alquilar o intercambiar, filtrando por estilo, tamaño y
+marca.
+
+**Detalles de la prenda:**
+
+**Detalles de la prenda:** Una página que proporciona información
+detallada sobre cada prenda disponible, incluyendo su descripción,
+medidas y fotos.
+
+**Perfiles de la marca:**
+
+**Marcas asociadas:** Una página que muestra una lista de todas las
+marcas asociadas con EventWear, destacando su compromiso con la moda
+sostenible y las prendas que ofrecen en la plataforma.
+
+**Detalles de la marca:** Una página que proporciona información
+detallada sobre cada marca asociada, incluyendo su historia, valores y
+productos disponibles en EventWear.
+
+**Alquileres:**
+
+**Catálogo de prendas:** Una página donde los usuarios pueden explorar
+todas las prendas disponibles para alquilar en EventWear, filtrando por
+tipo de evento, tamaño y estilo.
+
+**Detalles de la transacción:** Una página que proporciona información
+detallada sobre cada transacción de alquiler, incluyendo el período de
+alquiler, el costo y los términos y condiciones.
 - 4.2.1. Organization Systems
+**Declaración de misión:**
 
+Getwork se dedica a revolucionar el espacio de preparación laboral al
+proporcionar una plataforma integral que ayuda a los programadores a
+tener éxito en sus entrevistas técnicas y conseguir los trabajos de sus
+sueños.
+
+**Declaración de visión:**
+
+Nuestra visión es convertirnos en la plataforma de referencia para
+programadores y empresas de tecnología de todo el mundo, proporcionando
+un proceso ágil y eficaz para la preparación y contratación de puestos
+de trabajo.
+
+**Valores fundamentales:**
+
+Empatía: Priorizar las necesidades e inquietudes de los usuarios y
+clientes.
+
+Innovación: Buscar continuamente nuevas y mejores formas de resolver
+problemas y mejorar la plataforma.
+
+Integridad: Actuar siempre con honestidad, transparencia y
+comportamiento ético en todas nuestras interacciones.
+
+Experiencia de usuario: céntrese en brindar una experiencia de usuario
+excepcional que supere las expectativas.
+
+**Indicadores clave de rendimiento:**
+
+Crecimiento de usuarios: usuarios activos mensuales y tasa de
+adquisición de nuevos usuarios.
+
+Satisfacción del cliente: comentarios de los usuarios y calificaciones
+de satisfacción.
+
+Crecimiento de ingresos: Crecimiento de ingresos mensuales y anuales.
+
+Tasa de finalización de desafíos de codificación: porcentaje de usuarios
+que completan desafíos de codificación.
+
+Progreso de preparación de la entrevista: porcentaje de usuarios que
+progresan en su trabajo de preparación de la entrevista.
+
+**Gestión de Proyectos:**
+
+Planificación de proyectos: Definir el alcance, los objetivos, los
+cronogramas y las tareas del proyecto.
+
+Asignación de tareas: Asignar las tareas específicas a los miembros del
+equipo en función de sus fortalezas y experiencia.
+
+Seguimiento del proyecto: Supervisar el progreso y ajuste las tareas
+según sea necesario.
+
+Informes del proyecto: Proporcionar actualizaciones periódicas a las
+partes interesadas sobre el estado, el progreso y los resultados del
+proyecto.
 - 4.2.2. Labeling Systems
-
+Los sistemas de etiquetado están presentes en pantallas que no forman
+parte del proceso principal de la aplicación. Cada uno resume
+apropiadamente el contenido de la vista actual. Además de las imágenes,
+las secciones del panel de control están asociadas a etiquetas que
+informan al usuario del contenido que puede visualizar si accede a
+dichas secciones. Es por eso que todas las tarjetas presentadas en esta
+vista también tienen sus respectivos títulos. En la barra de navegación,
+las etiquetas brindan una explicación clara y concisa del contenido de
+cada sección, facilitando a los usuarios la navegación y la búsqueda de
+la información que necesitan. Aplicando esta estructura a "Getwork", las
+etiquetas podrían usarse para proporcionar una explicación clara y
+concisa del contenido de cada sección de la plataforma, como "Empleos",
+"Candidatos", etc.  
+  
+Esto ayudará a los usuarios. para comprender rápidamente el propósito de
+cada sección y encontrar la información que necesitan. En la barra de
+navegación, las etiquetas se pueden utilizar para proporcionar una breve
+explicación del contenido de cada sección, como "Empleos: encuentre y
+solicite ofertas de trabajo", "Candidatos: administre su proceso de
+búsqueda y solicitud de empleo", "Empleadores: Publica ofertas de
+trabajo y gestiona tu proceso de contratación".
 
 - 4.2.3. SEO Tags and Meta Tags
+Metadatos o meta tags en HTML son etiquetas invisiblemente introducidas
+en un documento HTML para proporcionar información relevante a los
+navegadores y motores de búsqueda sobre la contenida y el estructura de
+una página web. Estas etiquetas no están visibles para los usuarios pero
+sirven para mejorar la comprensión y el análisis de los archivos HTML,
+facilitando la gestión del contenido de una página web.
+
+Las meta etiquetas que usaremos:
+
+**Title**
+
+Técnicamente hablando, <span class="mark">este</span> no es una
+metaetiqueta, sino una etiqueta HTML que sirve como elemento obligatorio
+en el encabezado de un documento HTML. Sin embargo, debido a su función
+de interacción con los agentes de usuario, a menudo se menciona como
+parte de los metadatos. Como elemento de encabezado, generalmente
+aparece encima de todas las demás etiquetas del documento.
+
+\<title\>Welcome to Getwork\</title\>
+
+**Codificación de caracteres**
+
+Si la codificación de caracteres no está definida en el encabezado HTTP,
+es necesario definirla en el propio documento HTML utilizando la
+etiqueta \<meta\>. Esto se hace para garantizar que los caracteres
+especiales como la tilde (~) o el acento grave (é) se muestren
+correctamente. La etiqueta \<meta\> que usaremos es la siguiente:
+
+\<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /\>
+
+**Description  
+**  
+La metaetiqueta description proporciona un breve resumen del contenido
+de una página web, que se muestra como un fragmento en motores de
+búsqueda como Google o Bing. Esta información es crucial ya que influye
+en la decisión del usuario de elegir el mejor resultado de búsqueda que
+coincida con su consulta. Dado que desempeña un papel central en la
+optimización de la clasificación de los motores de búsqueda, esta
+metaetiqueta se considera una de las más importantes para mejorar la
+visibilidad y relevancia de una página web en los resultados de
+búsqueda.
+
+\<meta name="description" content="Getwork is a platform that offers
+resources and training to help programmers prepare for technical
+interviews at technology companies."/\>
+
+**Keywords**
+
+Con esta metaetiqueta, los administradores pueden definir palabras clave
+para el motor de búsqueda. Las palabras clave son los criterios que
+utiliza un motor de búsqueda para ofrecer al usuario páginas HTML como
+respuesta, donde dichas palabras clave forman parte de las
+metaetiquetas.
+
+\<meta name="keywords" content="process, management, application,
+records"/\>
+
+**Autor y copyright  
+**
+
+Estas dos metaetiquetas, que son opcionales desde un punto de vista
+legal, permiten hacer referencia al diseñador de un sitio web y al
+propietario de los derechos del código fuente de una página HTML.
+
+\<meta name="author" content="Codepace" /\>
+
+\<meta name="copyright" content="Copyright Codepace team" /\>
 - 4.2.4. Searching Systems
+Filtro de fecha: los usuarios pueden buscar registros según la fecha en
+que se registraron.
+
+Filtro de fase: los usuarios pueden buscar registros según la fase en la
+que se encuentran.
+
+Filtro de autor: los usuarios pueden buscar registros según el autor del
+registro.
+
+Filtro de historial general: los usuarios pueden buscar registros según
+varios criterios, como fecha, fase y autor.
+
+Búsqueda de empleados: El sistema de búsqueda también estará presente en
+la visualización de empleados.
+
+Al implementar estos sistemas de búsqueda, los usuarios podrán encontrar
+fácil y rápidamente la información que necesitan dentro de la aplicación
+"Getwork". Esto les ayudará a gestionar y realizar un seguimiento eficaz
+de sus contrataciones y a tomar decisiones informadas basadas en los
+datos proporcionados.
+
 - 4.2.5. Navigation Systems
+Los principales sistemas de navegación en Getwork son los menús superior
+e inferior. Estas etiquetas ayudan a los usuarios a navegar por las
+secciones que desean ver dentro de la página. Si no se utilizan enlaces,
+el usuario verá la página en orden descendente. En la aplicación, los
+usuarios navegan por los recursos y la formación que ofrece Getwork para
+prepararse para entrevistas técnicas en empresas de tecnología. Los
+botones también representan la apertura, confirmación o finalización de
+un registro y permiten a los usuarios seguir el proceso en una nueva
+pantalla.
 - 4.3. Landing Page UI Design
   - 4.3.1. Landing Page Wireframe
+  **Landing Page para Desktop Web Browser**
+
+![image40](https://github.com/CodepaceOrganization/Informes/assets/133830443/d06c68be-d5cf-4109-b4d6-4f14f91e25ea)
+
+![image65](https://github.com/CodepaceOrganization/Informes/assets/133830443/0ecc5f77-f69b-4674-935f-53515a607720)
+
+**Landing Page para Mobile Web Browser**
+
+![image67](https://github.com/CodepaceOrganization/Informes/assets/133830443/e63ea6ad-0dcb-49aa-aee7-239e0537adf8)
+![image32](https://github.com/CodepaceOrganization/Informes/assets/133830443/cb12a0ce-0e03-42b8-a66e-9de4438ceb33)
+![image2](https://github.com/CodepaceOrganization/Informes/assets/133830443/931c1d4b-1e05-4986-b857-424521fc38f4)
+
+![image56](https://github.com/CodepaceOrganization/Informes/assets/133830443/9c2cdc10-7100-4276-8ed6-dd72f87476e3)
+![image59](https://github.com/CodepaceOrganization/Informes/assets/133830443/197dded9-4b8e-4fe8-8d15-78b1f0c4f2ca)
+![image56](https://github.com/CodepaceOrganization/Informes/assets/133830443/9c2cdc10-7100-4276-8ed6-dd72f87476e3)
+
+![image47](https://github.com/CodepaceOrganization/Informes/assets/133830443/12674a09-a40d-426c-b632-23476ba9226e)
+![image49](https://github.com/CodepaceOrganization/Informes/assets/133830443/68a6c50f-ec8f-4b7c-85f2-8fb11d32f7af)
+![image34](https://github.com/CodepaceOrganization/Informes/assets/133830443/3d803b81-3f06-4ffc-a7e9-7e973b6c04d5)
   - 4.3.2. Landing Page Mock-up
+  ![image36](https://github.com/CodepaceOrganization/Informes/assets/133830443/dfa391b0-52a6-443e-9aa5-798a4c026cfa)
+
+![image36](https://github.com/CodepaceOrganization/Informes/assets/133830443/dfa391b0-52a6-443e-9aa5-798a4c026cfa)
+
+**Landing Page para Mobile Mock-up**
+
+![image11](https://github.com/CodepaceOrganization/Informes/assets/133830443/5d564cef-30df-46e2-ad91-52003ad81140)
+![image16](https://github.com/CodepaceOrganization/Informes/assets/133830443/f01902b9-98f9-451d-906c-b3999d1e99ef)![image63](https://github.com/CodepaceOrganization/Informes/assets/133830443/db1ad815-61d8-4838-b353-2357cc6cbc09)
+
+
+![image63](https://github.com/CodepaceOrganization/Informes/assets/133830443/db1ad815-61d8-4838-b353-2357cc6cbc09)
+![image53](https://github.com/CodepaceOrganization/Informes/assets/133830443/e99a2e99-ec26-4222-ab93-90053a46efa2)
+![image3](https://github.com/CodepaceOrganization/Informes/assets/133830443/092ab1e7-a8e2-445f-8e38-3c5b8bf2d683)
+
+![image7](https://github.com/CodepaceOrganization/Informes/assets/133830443/f441b0ec-dc09-4b77-8283-36fc8f604e41)
+![image52](https://github.com/CodepaceOrganization/Informes/assets/133830443/73d029e1-163e-4a05-bd4c-03ca919130da)
+![image14](https://github.com/CodepaceOrganization/Informes/assets/133830443/947603de-6d0e-4039-83ef-f01cdfe8c071)
+
+![image17](https://github.com/CodepaceOrganization/Informes/assets/133830443/fff427fb-0f2c-44a6-af9c-013a2b7c1f82)
 - 4.4. Web Applications UX/UI Design
   - 4.4.1. Web Applications Wireframes
+  **Enlace para acceder al**
+[**<u>Figma</u>**](https://www.figma.com/file/IBYRstHzBvbdgKjdJMCOF7/LandingPage-GetWork?type=design&node-id=1%3A2&mode=design&t=bo7HJOLiUkXbaOlr-1)
+
+**Iniciar sesión**
+
+![image25](https://github.com/CodepaceOrganization/Informes/assets/133830443/cde87525-2ee7-40d0-9db1-5fd3e905593e)
+
+**Crear cuenta**
+
+![image1](https://github.com/CodepaceOrganization/Informes/assets/133830443/abd4ea98-fd21-4ea6-a286-c76f38a33b24)
+
+**Elegir plan de pago**
+
+![image10](https://github.com/CodepaceOrganization/Informes/assets/133830443/712c36cb-c012-4fca-b417-8eae845c6f64)
+
+**Sección de prácticas**
+
+![image20](https://github.com/CodepaceOrganization/Informes/assets/133830443/206d7de3-a355-4da8-9ce0-283233f37730)
+
+![image69](https://github.com/CodepaceOrganization/Informes/assets/133830443/14f6610b-d71e-4302-b4e1-f7b23798325a)
+
+**Sección de contenido**
+
+![image51](https://github.com/CodepaceOrganization/Informes/assets/133830443/6b70a250-b528-4496-8b8a-eabc6037b9b5)
+
+![image12](https://github.com/CodepaceOrganization/Informes/assets/133830443/d9f7e1f1-6d62-4b98-ba18-ac24fc0b1a4e)
+
+**Sección de tutores**
+
+![image31](https://github.com/CodepaceOrganization/Informes/assets/133830443/f35c1a1a-71d8-497d-a1b1-1032f2f7bec0)
+
+**Sección de Simulacro**
+
+![image71](https://github.com/CodepaceOrganization/Informes/assets/133830443/143a22b2-47a7-4372-adbb-0955d1ec6ec5)
+
+**Sección de perfil**
+
+![image80](https://github.com/CodepaceOrganization/Informes/assets/133830443/160b2a0a-6d5b-4c45-bf65-f4ef2cd4e9fe)
+
+**Web Application para Mobile Web Browser**
+
+![image35](https://github.com/CodepaceOrganization/Informes/assets/133830443/1479d76e-37d6-4bc2-8755-bfeab352778d)
+![image50](https://github.com/CodepaceOrganization/Informes/assets/133830443/048bdb72-e411-49e4-bd2a-3108887e243d)
+
+![image39](https://github.com/CodepaceOrganization/Informes/assets/133830443/c5c690a4-ec09-46cc-ae07-21f75ea64e1d)
+![image9](https://github.com/CodepaceOrganization/Informes/assets/133830443/6b668000-7dbc-4465-93fc-cd34bafacb0f)
+![image15](https://github.com/CodepaceOrganization/Informes/assets/133830443/45cf8f26-31ba-4e24-9373-2a16c00d7ed8)
+![image26](https://github.com/CodepaceOrganization/Informes/assets/133830443/6bbb140a-9d75-4c30-bfe6-6e30fdc8c442)
+![image5](https://github.com/CodepaceOrganization/Informes/assets/133830443/f66dd8dc-698c-48e3-9620-2d5f9b195016)
+![image18](https://github.com/CodepaceOrganization/Informes/assets/133830443/4c8b8240-5eb7-465c-871d-886124d6f902)
+
+![image27](https://github.com/CodepaceOrganization/Informes/assets/133830443/4b91dc61-3d86-4a60-9ce1-087438e2b344)
   - 4.4.2. Web Applications Wireflow Diagrams
+  **Enlace para acceder al**
+[**<u>Lucidchart</u>**](https://lucid.app/lucidchart/80cf9743-81db-40e0-84e8-50e9ca926967/edit?viewport_loc=-9706%2C-2705%2C18465%2C9375%2C0_0&invitationId=inv_8255df90-1551-4474-bb4a-348c48e2e553)
+
+**User Goal: Registrar Usuario**
+
+![image60](https://github.com/CodepaceOrganization/Informes/assets/133830443/8ae6dc65-b962-42e2-9cbe-25ec6d3c1796)
+
+**User Goal: Interfaz de practica**
+
+![image66](https://github.com/CodepaceOrganization/Informes/assets/133830443/eaf76378-211e-4ddb-8b4b-c9a38414519e)
+
+**User Goal: Interfaz de contenido**
+
+![image33](https://github.com/CodepaceOrganization/Informes/assets/133830443/effc2165-e386-47ca-b49e-989c6b051269)
+
+**User Goal: Interfaz de tutores**
+
+![image81](https://github.com/CodepaceOrganization/Informes/assets/133830443/56c44e85-6870-40ff-a106-8c8637be6356)
+
+**User Goal: Simulacro de entrevista**
+
+![image74](https://github.com/CodepaceOrganization/Informes/assets/133830443/36d38b49-f1f3-4c38-9948-61114845f84a)
   - 4.4.3. Web Applications Mock-ups
+  **Iniciar sesión**
+
+![image68](https://github.com/CodepaceOrganization/Informes/assets/133830443/43a001a2-5936-4c2a-b14d-a94100c49101)
+
+**Crear cuenta**
+
+![image13](https://github.com/CodepaceOrganization/Informes/assets/133830443/5f876002-8d3e-454c-b03c-68506bc88e79)
+
+**Elegir plan de pago**
+
+![image73](https://github.com/CodepaceOrganization/Informes/assets/133830443/3867d6ca-38c2-44b8-9cb6-818f4c5a79ad)
+
+**Sección de prácticas**
+
+![image64](https://github.com/CodepaceOrganization/Informes/assets/133830443/9953ba87-6d5f-40f8-9e00-99a1af2f75bb)
+
+![image42](https://github.com/CodepaceOrganization/Informes/assets/133830443/e0b0fb52-0e49-4994-981d-b1b271a4565d)
+
+**Sección de contenido**
+
+![image28](https://github.com/CodepaceOrganization/Informes/assets/133830443/facf99ce-eb6b-474c-80fb-0e987d35cc46)
+
+![image44](https://github.com/CodepaceOrganization/Informes/assets/133830443/3827927f-f4f0-4b14-856d-5a0d7aa39e2e)
+
+**Sección de tutores**
+
+![image55](https://github.com/CodepaceOrganization/Informes/assets/133830443/074a2284-0a49-4a03-bda0-25526d84242b)
+
+**Sección de Simulacro**
+
+![image45](https://github.com/CodepaceOrganization/Informes/assets/133830443/7e62c29a-0898-4cac-ae0f-9142ac88bdad)
+
+**Sección de perfil**
+
+![image37](https://github.com/CodepaceOrganization/Informes/assets/133830443/f4903f7a-711d-41c8-b90d-0736d7e2f229)
+
+**Web Application para Mobile Web Browser**
+
+![image75](https://github.com/CodepaceOrganization/Informes/assets/133830443/1bc6b30d-e12d-46c1-9f7f-94cb551c9847)
+![image62](https://github.com/CodepaceOrganization/Informes/assets/133830443/4153ef8d-0faa-4f92-9fce-7650acce1f02)
+
+![image29](https://github.com/CodepaceOrganization/Informes/assets/133830443/1a2b1310-f8e2-486d-8fb8-70f675392502)
+![image6](https://github.com/CodepaceOrganization/Informes/assets/133830443/ba936e42-a01e-4fdf-afb6-2ee386dd9481)
+![image21](https://github.com/CodepaceOrganization/Informes/assets/133830443/dcae70b0-c4c4-4c30-96c0-40cc6b91900c)
+![image19](https://github.com/CodepaceOrganization/Informes/assets/133830443/82fd0e83-6204-4a25-a8d0-4a6753979748)
+
+![image72](https://github.com/CodepaceOrganization/Informes/assets/133830443/3821cbfc-cdbc-4fe8-9e57-a9116b54087d)
+![image8](https://github.com/CodepaceOrganization/Informes/assets/133830443/d5d6ce07-2e38-4123-982f-e6c339e3e5cc)
   - 4.4.4. Web Applications User Flow Diagrams
+  
+  **Enlace para acceder al**
+[**<u>Lucidchart</u>**](https://lucid.app/lucidchart/80cf9743-81db-40e0-84e8-50e9ca926967/edit?viewport_loc=-9706%2C-2705%2C18465%2C9375%2C0_0&invitationId=inv_8255df90-1551-4474-bb4a-348c48e2e553)
+
+**User Goal: Registrar Usuario**
+
+![image23](https://github.com/CodepaceOrganization/Informes/assets/133830443/0b9e3ccd-75bc-473b-acb4-02f7d79e5e92)
+
+**User Goal: Interfaz de practica**
+
+![image78](https://github.com/CodepaceOrganization/Informes/assets/133830443/0a439f1d-225b-4265-abee-24a911d7c01a)
+
+**User Goal: Interfaz de contenido**
+
+![image70](https://github.com/CodepaceOrganization/Informes/assets/133830443/0498fd55-196a-4c42-a57d-5b766923c587)
+
+**User Goal: Interfaz de tutores**
+
+![image38](https://github.com/CodepaceOrganization/Informes/assets/133830443/428d4221-02e4-4c57-816b-d4bc059987a6)
+
+**User Goal: Simulacro de entrevista**
+
+![image76](https://github.com/CodepaceOrganization/Informes/assets/133830443/3e24f045-9c84-4a20-aec1-ebdab9642619)
 - 4.5. Web Applications Prototyping
+Al diseñar los prototipos de interfaz de usuario para Desktop y Mobile
+Web Browser, se ha seguido una serie de criterios fundamentales para
+garantizar una experiencia de usuario efectiva y satisfactoria:
+
+Claridad y Facilidad:
+
+- Se ha priorizado la claridad y la facilidad de uso para hacer que la
+  navegación en la aplicación sea intuitiva y comprensible.
+
+- El objetivo es que los usuarios puedan entender completamente las
+  funciones de la aplicación, como el registro de procesos y la
+  visualización de reportes estadísticos.
+
+Diseño Responsive:
+
+- Se ha considerado la importancia del diseño "responsive" para asegurar
+  que la aplicación web sea compatible con una variedad de tamaños de
+  pantalla.
+
+- Esto garantiza que los usuarios no se vean limitados por el
+  dispositivo que estén utilizando, obteniendo una experiencia
+  consistente en distintos dispositivos.
+
+Priorización de Información Relevante:
+
+- El diseño de la aplicación se ha enfocado en mostrar solo la
+  información más relevante para los usuarios pertenecientes al segmento
+  objetivo.
+
+- Se evita la sobrecarga de información y se destaca lo esencial para
+  mejorar la eficiencia y la usabilidad de la interfaz.
+
+![image22](https://github.com/CodepaceOrganization/Informes/assets/133830443/9889696a-d077-43ed-b985-e44df89e6851)
+
+Enlace para acceder al video de explicación del [<u>Web Applications
+Prototyping</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211817_upc_edu_pe/EZp3Qo0XnLdCoBRmMhmBUfIB7_6CEbss59x39MwdOPCSnw?e=NWa7dV)
+
+Enlace para acceder al
+[<u>Flujo</u>](https://www.figma.com/proto/IBYRstHzBvbdgKjdJMCOF7/LandingPage-GetWork?type=design&node-id=137-4273&t=XccoLGwDpLxRJeyh-1&scaling=min-zoom&page-id=1%3A2&mode=design)
 - 4.6. Domain-Driven Software Architecture
   - 4.6.1. Software Architecture Context Diagram
 
