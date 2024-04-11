@@ -392,7 +392,7 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 
 
 
-| Entrevistado N°5: Alex Avila | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/df319732-3e30-4916-b740-59f4bcf9d440" alt="alex" width="200"> |
+| Entrevistado N°5: Alex Avila | <img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/df319732-3e30-4916-b740-59f4bcf9d440" alt="alex" width="230"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Alex Avila                                             |
 | **Edad:**                      | 19                                                       |
