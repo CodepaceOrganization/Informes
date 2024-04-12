@@ -356,7 +356,12 @@ para cada integrante del equipo:
   ¿Cómo debe verse y comportarse nuestro producto?
   El producto debe tener una interfaz intuitiva y fácil de usar, con acceso rápido y sencillo a todos los recursos de preparación. Además, debe garantizar la privacidad y seguridad de los datos de los usuarios, así como ofrecer una experiencia personalizada y motivadora para el aprendizaje.
 
+  Asimismo, podemos ver una gráfica de los roles más requeridos en el campo y tomamos esto como referencia para capacitar de la mejor manera a nuestros usuarios:
 
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/293834dd-6d81-4f64-8d26-e241b4ab767b)
+
+  Referencia: [Genbeta](https://www.genbeta.com/desarrollo/lenguajes-programacion-puestos-trabajo-para-desarrolladores-demanda-que-mejor-pagan)
+  
   - 1.2.2.3. Lean UX Hypothesis Statements
 
   **Hypothesis Statement 01:**
@@ -385,6 +390,12 @@ para cada integrante del equipo:
 
 **1.3. Segmentos objetivo**
 
+  Para el desarrollo de este punto hemos recolectado información del cuadro estadístico de Kinst, donde se muestra la edad de los developer que buscan entrevistas técnicas.
+
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/fd0d1d47-9496-4ba8-8422-edf13993ab08)
+
+  Referencia: [Kinsta](https://kinsta.com/es/estadisticas-ingenieria-software/)
+  
   **Segmento objetivo #1: Desarrolladores en búsqueda de empleo**
   
   Descripción: Este segmento objetivo está compuesto por programadores y desarrolladores de software que están activamente buscando oportunidades laborales en empresas de tecnología.
@@ -1092,7 +1103,9 @@ propietario de los derechos del código fuente de una página HTML.
 \<meta name="author" content="Codepace" /\>
 
 \<meta name="copyright" content="Copyright Codepace team" /\>
+
 - 4.2.4. Searching Systems
+
 Filtro de fecha: los usuarios pueden buscar registros según la fecha en
 que se registraron.
 
@@ -1115,6 +1128,7 @@ de sus contrataciones y a tomar decisiones informadas basadas en los
 datos proporcionados.
 
 - 4.2.5. Navigation Systems
+
 Los principales sistemas de navegación en Getwork son los menús superior
 e inferior. Estas etiquetas ayudan a los usuarios a navegar por las
 secciones que desean ver dentro de la página. Si no se utilizan enlaces,
