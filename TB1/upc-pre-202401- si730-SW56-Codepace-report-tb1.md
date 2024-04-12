@@ -1669,6 +1669,8 @@ Enlace para acceder al
 |US21|Ver testimonios de clientes en la landing page|W05|Crear la seccion testimonios|Implementar sección de testimonios|2|<p>Andrea</p><p>Cabanillas</p>|Done|
 |US07|<p>Interfaz </p><p>sencilla</p>|W06|Implementar una interfaz sencilla|Implementar un sistema de mensajería interna para permitir la comunicación entre usuarios.|3|Elias<br>Yauri|Done|
 
+Sprint en trello: [Ver enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf77758198087805f0691dd9c443d0bc2AD611CA/sprint-1)
+
 
   - 5.2.1.3. Development Evidence for Sprint Review
 
