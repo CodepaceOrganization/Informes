@@ -674,11 +674,12 @@ Segmento objetivo 2: Maria Sanchez
 
   Segmento objetivo 1: Leticia Cassanova
 
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b0ebab82-8db5-4940-816c-dcbae8207719)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/ae9248cc-8f2d-474c-bc9c-f1dc040d12e2)
+
 
   Segmento objetivo 2: Maria Sanchez
 
-  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e10a7b87-9f2c-4cd3-81c4-9c140353212a)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/1d14233e-a3c4-4110-bc97-43d20c1e5e66)
 
 **2.4. Ubiquitous Language**
   
