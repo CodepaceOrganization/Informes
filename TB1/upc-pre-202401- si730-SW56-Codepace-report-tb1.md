@@ -69,6 +69,9 @@ para cada integrante del equipo:
 | Elias Yauri Paucar     | Capitulo IV, implementar form registro  |
 | Alexander Jair Castillo Castillo     | Capítulo III, implementar form contacto |
 
+Evidencias del Insights Contributos de los commits del informe:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/f9afac6a-1133-4364-af91-3df3351cf313)
 
 ### Tabla de contenidos
 - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
