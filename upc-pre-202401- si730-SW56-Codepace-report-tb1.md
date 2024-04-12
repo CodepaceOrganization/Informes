@@ -44,19 +44,29 @@
 | 1.1       |  2024/03/22    | Quispe Andia, Jeremy Joel  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
 | 1.2       |  2024/03/22    | Cabanillas Gora, Andrea Milagros |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
 | 1.3       |  2024/03/22    | Cabanillas Gora, Andrea Milagros|Elaboración de user personas, impact mapping, as-is y to-be | Completado |
-| 1.4       |  2024/03/22    |  |Elaboración de user stories, product backlog | Pendiente |
-| 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  | Pendiente |
-| 1.6       |  2024/03/22    | |Redacción de style guidelines e information architecture| Pendiente |
-| 1.7       |  2024/03/22    | |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases| Completado |
+| 1.4       |  2024/03/22    | Castillo Castillo, Alexander Jair |Elaboración de user stories, product backlog | Completado |
+| 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  | Completado |
+| 1.6       |  2024/03/22    | Yauri Paucar, Elias|Redacción de style guidelines e information architecture| Completado |
+| 1.7       |  2024/03/22    | Cruz Palomino, Adriano Sebastian|Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases| Completado |
 | 1.7       |  2024/03/22    |Quispe Andia, Jeremy Joel|Elaboración de diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
-| 1.8       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
-| 1.9       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
-| 2.0       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos| Pendiente |
-| 2.1       |  2024/03/22    |  | Redacción de Collaboration Insights| Completado |
+| 1.8       |  2024/03/22    | Quispe Andia, Jeremy Joel |Registro de evidencias del Sprint 1 | Completado |
+| 1.9       |  2024/03/22    | Yauri Paucar, Elias |Rediseño de mockups. Elaboración de wireflows y user-flows| Completado |
+| 2.0       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos| Completado |
+| 2.1       |  2024/03/22    | Cachis Gonzales, Sebastian Nicolas | Redacción de Collaboration Insights| Completado |
 
 ### Project Report Collaboration Insights
 
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
 
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adriano Sebastian Cruz Palomino| Creación de la base de la Landing, Capítulo V, Modelado de Base de Datos   |
+| Sebastian Nicolas Cachis Gonzales | Capitulo V, Diagrama Clases, Landing Page|
+| Jeremy Joel Quispe Andia         | Capitulo I, Implementar Form De Registro, Crear la plantilla en markdown, elaborar conclusiones y anexos, corregir CAPITULO II, III, IV y V |
+| Andrea Milagros Cabanillas Gora    | Capitulo II, Creaación del canva, implementar los planes en la Landing Page   |
+| Elias Yauri Paucar     | Capitulo IV, implementar form registro  |
+| Alexander Jair Castillo Castillo     | Capítulo III, implementar form contacto |
 
 
 ### Tabla de contenidos
