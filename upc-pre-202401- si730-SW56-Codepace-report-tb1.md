@@ -72,10 +72,158 @@ para cada integrante del equipo:
 
 ### Tabla de contenidos
 - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
+  
+  - 1.1. Startup Profile
+  
+  - 1.1.1. Descripción de la Startup
+  
+  - 1.1.2. Perfiles de integrantes del equipo
+  
+  - 1.2. Solution Profile
+  
+  - 1.2.1 Antecedentes y problemática
+  
+  - 1.2.2 Lean UX Process.
+  
+  - 1.2.2.1. Lean UX Problem Statements.
+  
+  - 1.2.2.2. Lean UX Assumptions.
+  
+  - 1.2.2.3. Lean UX Hypothesis Statements.
+  
+  - 1.2.2.4. Lean UX Canvas.
+  
+  - 1.3. Segmentos objetivo.
+
 - [Capítulo II: Requirements Elicitation & Analysis](#cap%C3%ADtulo-ii-requirements-elicitation--analysis)
+
+  - 2.1. Competidores.
+  
+  - 2.1.1. Análisis competitivo.
+  
+  - 2.1.2. Estrategias y tácticas frente a competidores.
+  
+  - 2.2. Entrevistas.
+  
+  - 2.2.1. Diseño de entrevistas.
+  
+  - 2.2.2. Registro de entrevistas.
+  
+  - 2.2.3. Análisis de entrevistas.
+  
+  - 2.3. Needfinding.
+  
+  - 2.3.1. User Personas.
+  
+  - 2.3.2. User Task Matrix.
+  
+  - 2.3.3. User Journey Mapping.
+  
+  - 2.3.4. Empathy Mapping.
+  
+  - 2.3.5. As-is Scenario Mapping.
+  
+  - 2.4. Ubiquitous Language.
+  
 - [Capítulo III: Requirements Specification](#cap%C3%ADtulo-iii-requirements-specification)
+
+  - 3.1. To-Be Scenario Mapping.
+  
+  - 3.2. User Stories.
+  
+  - 3.3. Impact Mapping.
+  
+  - 3.4. Product Backlog.
+  
 - [Capítulo IV: Product Design](#cap%C3%ADtulo-iv-product-design)
+
+  - 4.1. Style Guidelines.
+  
+  - 4.1.1. General Style Guidelines.
+  
+  - 4.1.2. Web Style Guidelines.
+  
+  - 4.2. Information Architecture.
+  
+  - 4.2.1. Organization Systems.
+  
+  - 4.2.2. Labeling Systems.
+  
+  - 4.2.3. SEO Tags and Meta Tags.
+  
+  - 4.2.4. Searching Systems.
+  
+  - 4.2.5. Navigation Systems.
+  
+  - 4.3. Landing Page UI Design.
+  
+  - 4.3.1. Landing Page Wireframe.
+  
+  - 4.3.2. Landing Page Mock-up.
+  
+  - 4.4. Web Applications UX/UI Design.
+  
+  - 4.4.1. Web Applications Wireframes.
+  
+  - 4.4.2. Web Applications Wireflow Diagrams.
+  
+  - 4.4.2. Web Applications Mock-ups.
+  
+  - 4.4.3. Web Applications User Flow Diagrams.
+  
+  - 4.5. Web Applications Prototyping.
+  
+  - 4.6. Domain-Driven Software Architecture.
+  
+  - 4.6.1. Software Architecture Context Diagram.
+  
+  - 4.6.2. Software Architecture Container Diagrams.
+  
+  - 4.6.3. Software Architecture Components Diagrams.
+  
+  - 4.7. Software Object-Oriented Design.
+  
+  - 4.7.1. Class Diagrams.
+  
+  - 4.7.2. Class Dictionary.
+  
+  - 4.8. Database Design.
+  
+  - 4.8.1. Database Diagram.
+  
 - [Capítulo V: Product Implementation, Validation & Deployment](#cap%C3%ADtulo-v-product-implementation-validation--deployment)
+
+  - 5.1. Software Configuration Management.
+  
+  - 5.1.1. Software Development Environment Configuration.
+  
+  - 5.1.2. Source Code Management.
+  
+  - 5.1.3. Source Code Style Guide & Conventions.
+  
+  - 5.1.4. Software Deployment Configuration.
+  
+  - 5.2. Landing Page, Services & Applications Implementation.
+  
+  - 5.2.1. Sprint 1
+  
+  - 5.2.1.1. Sprint Planning 1.
+  
+  - 5.2.1.2. Sprint Backlog 1.
+  
+  - 5.2.1.3. Development Evidence for Sprint Review.
+  
+  - 5.2.1.4. Testing Suite Evidence for Sprint Review.
+  
+  - 5.2.1.5. Execution Evidence for Sprint Review.
+  
+  - 5.2.1.6. Services Documentation Evidence for Sprint Review.
+  
+  - 5.2.1.7. Software Deployment Evidence for Sprint Review.
+  
+  - 5.2.1.8. Team Collaboration Insights during Sprint.
+    
+  - Avance de Conclusiones, Bibliografía y Anexos.
 
 ### Studen Outcome
 
@@ -1284,21 +1432,26 @@ Enlace para acceder al
   - 4.6.1. Software Architecture Context Diagram
 
     ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/0c6edff0-e4e4-4d85-8f21-9ae36604785d)
+    
+    Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
 
   - 4.6.2. Software Architecture Container Diagrams
     
    **Para usuarios de GetWork:**
 
    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/62c40ce8-eae4-48c1-9977-9c06250bb9b0)
+  Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
+
 
   **Para empresas tecnológicas de GetWork:**
 
    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/461e8b1e-76ac-4234-81bb-bd34c60083d9)
-
+  Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
 
   - 4.6.3. Software Architecture Components Diagrams
 
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/6a1e7aab-5339-4f7e-938c-db8fd13faa7d)
+  Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
 
   
 - 4.7. Software Object-Oriented Design
@@ -1618,6 +1771,8 @@ Enlace para acceder al
     |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|631167d|feat: Added US09 "Visualizar la landing page de la empresa"|-|12/04/2024| 
     |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|bd6751|feat: added US13 "Registrarse en la landing page"|-|12/04/2024| 
     |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|e526d|sfeat: added US21: "Ver testimonios de clientes en la landing page"|-|12/04/2024|
+
+    Link para visualizar los acceptance test elaborados en gherkin: [Ver enlace](https://github.com/CodepaceOrganization/Acceptance-Test)
     
   - 5.2.1.5. Execution Evidence for Sprint Review
   
@@ -1662,7 +1817,7 @@ Enlace para acceder al
 
   - 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-  Para esta entrea no fue contemplada la evidencia de documentación de los servicios
+  Para esta entrega no fue contemplada la evidencia de documentación de los servicios
 
   - 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -1740,12 +1895,11 @@ Recuperado de https://www.interviewbit.com/
 - Enlace para acceder la aplicación web: [NO aplica este entregable]()
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video exposición TB1: [Ver enlace]()
-- Enlace para acceder al video About the team subido a Stream: [NO aplica este entregable]()
-- Enlace para acceder al video About the team subido a YouTube: [NO aplica este entregable]()
-- Enlace para acceder al video About the product subido a Stream: [NO aplica este entregable]()
-- Enlace para acceder al video About the product subido a YouTube: [NO aplica este entregable]()
-- Repositorio GitHub LandingPage: [Codepaceganization/LandingPage-GetWork](https://github.com/CodepaceOrganization/GetWork-LandingPage/tree/develop)
-- Repositorio GitHub Informes: [CodepaceOrganization/Informes](https://github.com/CodepaceOrganization/Informes)
+- Repositorio GitHub LandingPage: [Ver enlace](https://github.com/CodepaceOrganization/GetWork-LandingPage/tree/develop)
+- Repositorio GitHub Informes: [Ver enlace](https://github.com/CodepaceOrganization/Informes)
+- Repositorio GitHub Acceptance-Test: [Ver enlace](https://github.com/CodepaceOrganization/Acceptance-Test)
+- Enlace para acceder al figma LandingPage: [Ver enlace](https://www.figma.com/file/IBYRstHzBvbdgKjdJMCOF7/LandingPage-GetWork?type=design&node-id=0%3A3&mode=design&t=Lv20k0Frf2z0vmA0-1)
+- Enlace para acceder al figma Aplicación Web: [Ver enlace](https://www.figma.com/file/fBSQdNJJcBVnOnb3b6qj0t/Web-Application-GetWork?type=design&node-id=0%3A1&mode=design&t=ZWpSGbkUwjfRnrYe-1)
 
 
 </div>
