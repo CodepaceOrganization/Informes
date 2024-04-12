@@ -36,23 +36,23 @@
 
 <div align="justify">
 
-### Registro de Informes
+### Registro de versiones del informe
 
-| Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
-|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completado  |
-| 1.1       |  2024/03/22    | Quispe Andia, Jeremy Joel  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
-| 1.2       |  2024/03/22    | Cabanillas Gora, Andrea Milagros |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
-| 1.3       |  2024/03/22    | Cabanillas Gora, Andrea Milagros|Elaboración de user personas, impact mapping, as-is y to-be | Completado |
-| 1.4       |  2024/03/22    | Castillo Castillo, Alexander Jair |Elaboración de user stories, product backlog | Completado |
-| 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  | Completado |
-| 1.6       |  2024/03/22    | Yauri Paucar, Elias|Redacción de style guidelines e information architecture| Completado |
-| 1.7       |  2024/03/22    | Cruz Palomino, Adriano Sebastian|Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases| Completado |
-| 1.7       |  2024/03/22    |Quispe Andia, Jeremy Joel|Elaboración de diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
-| 1.8       |  2024/03/22    | Quispe Andia, Jeremy Joel |Registro de evidencias del Sprint 1 | Completado |
-| 1.9       |  2024/03/22    | Yauri Paucar, Elias |Rediseño de mockups. Elaboración de wireflows y user-flows| Completado |
-| 2.0       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos| Completado |
-| 2.1       |  2024/03/22    | Cachis Gonzales, Sebastian Nicolas | Redacción de Collaboration Insights| Completado |
+| Versión   | Fecha       | Autor      | Descripción                                                                                      | 
+|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
+| 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. |
+| 1.1       |  2024/03/22    | Quispe Andia, Jeremy Joel  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
+| 1.2       |  2024/03/22    | Cabanillas Gora, Andrea Milagros |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    |
+| 1.3       |  2024/03/22    | Cabanillas Gora, Andrea Milagros|Elaboración de user personas, impact mapping, as-is y to-be |
+| 1.4       |  2024/03/22    | Castillo Castillo, Alexander Jair |Elaboración de user stories, product backlog |
+| 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  |
+| 1.6       |  2024/03/22    | Yauri Paucar, Elias|Redacción de style guidelines e information architecture|
+| 1.7       |  2024/03/22    | Cruz Palomino, Adriano Sebastian|Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases|
+| 1.7       |  2024/03/22    |Quispe Andia, Jeremy Joel|Elaboración de diagramas de contenedores, diagramas de contexto, diagramas de componentes |
+| 1.8       |  2024/03/22    | Quispe Andia, Jeremy Joel |Registro de evidencias del Sprint 1 |
+| 1.9       |  2024/03/22    | Yauri Paucar, Elias |Rediseño de mockups. Elaboración de wireflows y user-flows|
+| 2.0       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos|
+| 2.1       |  2024/03/22    | Cachis Gonzales, Sebastian Nicolas | Redacción de Collaboration Insights|
 
 ### Project Report Collaboration Insights
 
