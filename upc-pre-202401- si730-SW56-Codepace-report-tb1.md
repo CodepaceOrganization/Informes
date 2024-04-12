@@ -42,9 +42,9 @@
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completado  |
 | 1.1       |  2024/03/22    | Quispe Andia, Jeremy Joel  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
-| 1.2       |  2024/03/22    |  |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
-| 1.3       |  2024/03/22    | |Elaboración de user personas, impact mapping, as-is y to-be | Completado |
-| 1.4       |  2024/03/22    | |Elaboración de user stories, product backlog | Pendiente |
+| 1.2       |  2024/03/22    | Cabanillas Gora, Andrea Milagros |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
+| 1.3       |  2024/03/22    | Cabanillas Gora, Andrea Milagros|Elaboración de user personas, impact mapping, as-is y to-be | Completado |
+| 1.4       |  2024/03/22    |  |Elaboración de user stories, product backlog | Pendiente |
 | 1.5       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de prototipos de wireframes y mockups  | Pendiente |
 | 1.6       |  2024/03/22    | |Redacción de style guidelines e information architecture| Pendiente |
 | 1.7       |  2024/03/22    | |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases| Completado |
