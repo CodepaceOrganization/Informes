@@ -1535,37 +1535,50 @@ Enlace para acceder al
 
 
   - 5.2.1.2. Sprint Backlog 1
+  
+| Sprint # | Sprint 1 | | | | | | |
+| :- | :- | :- | :- | :- | :- | :- | :- |
+| User Story | Work-Item / Task | | | | | | |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| US26 | Visualizar features de la aplicación | W-01 | Features | **Como** visitante del landing page **Quiero** visualizar todas las funcionalidades y servicios que brinda TripMate **Para** entender el uso de la aplicación | 3 hours | **Jeremy Quispe** | Done |
+| US27 | Sección "Acerca de nosotros" | W-02 | Sección "Acerca de Nosotros" | **Como** visitante del landing page **Quiero** visualizar una sección que me informe sobre el startup **Para** conocer al equipo de TripMate y su propósito | 3 hours | **Sebastian Cachis** | Done |
+| US28 | Sección "Convenios" | W-03 | Sección "Convenios" | **Como** visitante del landing page **Quiero** visualizar los convenios que tiene TripMate **Para** conocer las distintas empresas asociadas | 3 hours | **Alexander Castillo** | Done |
+| US29 | Sección "Testimonios" | W-04 | Sección "Testimonios" | **Como** visitante del landing page **Quiero** poder ver testimonios y experiencias de otros usuarios **Para** conocer la opinión del público sobre TripMate | 3 hours | **Adriano Cruz** | Done |
+| US30 | Acceder desde cualquier dispositivo a la landing page | W-05 | Accesibilidad | **Como** visitante del landing page **Quiero** que sea accesible desde diferentes dispositivos **Para** poder ingresar al sitio web desde cualquier dispositivo | 3 hours | **Andrea Cabanillas** | Done |
+| US30 | Acceder desde cualquier dispositivo a la landing page | W-05 | Accesibilidad | **Como** visitante del landing page **Quiero** que sea accesible desde diferentes dispositivos **Para** poder ingresar al sitio web desde cualquier dispositivo | 3 hours | **Elias Yauri** | Done |
+
+
   - 5.2.1.3. Development Evidence for Sprint Review
 
   |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
   |----------|------|---------|--------------|-------------------|------------------|
-  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bd35415a70de158448df206203a28b3928499858|feat: add initial version of landing page|-|26/03/2024| 
-  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|0a6658255c117aef8c9b9aa91d25bb8b0d126855|refactor: Replace <div> with <header> for navbar|-|27/03/2024|
-  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|21c0f1852240a18a8f11838c04536f837ee4a462|styles: add styles for navbar|-|27/03/2024| 
-  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|d6d55fc3f83386624168be6cad334d1ef1288060|feat: add in the index the services section and the images|-|27/03/2024| 
-  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|16d3c8f9834f8885ff447f04a4ead43afc075892|refactor: names of the images of services|-|28/03/2024| 
-  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|0452280a622545a4f3b454ae1c09362235594b3f|style: implement the style to the index and the images for the service section|-|28/03/2024| 
-  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|b8bd137ceea62b34d041f3aa4866892313dd0f3e|refactor: variable names instead of color code in the CSS|-|29/03/2024| 
-  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|716c4ec508c1a3ec41cdf75bfb38cb460d2f07e3|feat: add in the index the about section and the style|-|29/03/2024|
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|988016ca40b2f2209781ca7675c1f531720b90f7|feat: Add Login.html Login.css Login.js|-|29/03/2024| 
-  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|fix: the back-button class in login.html|-|23/03/2024| 
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|1069955d1ba273510b2e864b7ce749ece726e0d0|fix: Add link to registration page from login form|-|30/03/2024| 
-  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|ec9602b1229ccfc3181f7244b8af8e98b6ef8fa1|fix: folder structure arrangement|-|30/03/2024|
-  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f3dfcc5fa935ee119644c4d5b7856acea7419322|feat: add contact in the code and their styles|-|30/03/2024| 
-  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f386290611319da884af87c9715b0ea9fd1bf528|fix: ref css login transition|-|30/03/2024| 
-  |EliasYP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|feat: added the register interface and made some changes to the login|-|30/03/2024| 
-  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bd2d6af2f4b0c6c5792d4715ddff21b1805685e8|fix: section plans|-|30/03/2024|  
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bd2d6af2f4b0c6c5792d4715ddff21b1805685e8|feat: add section plans and images|-|30/03/2024|  
-  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|e46b5a0c80b9f4a9640c4e58f9d09515d092b0ae|feat: add contact in the code and their styles|-|02/04/2024| 
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|268ec8c123f953229bcff732f16954eba4148b54|Fix: navbar and plans responsive|-|02/04/2024|
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|32a7bbdf9d904e535b595c8f85368519feb08adf|Feat: add section inicio and ajust navbar responsive|-|04/04/2024|
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|5c5c700eb169731c10fe683654169748e86e485f|Feat: Add footer and styles|-|04/04/2024|
-  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|ae238f8c9188f29d77d38fd4989a2871ed343977|feat: update HTML code with structural changes and fixed links|-|07/04/2024|
-  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bedba2e90fa3d8a7aef1b2ac027c0edffbcd93c4|feat: Add styles and functionality to the navbar|-|07/04/2024|
-  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|e8214c578f8d197343b69075ce69bd405594a142|fix: Fix responsive layout on mobile devices and navbar functionality|-|07/04/2024|
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|c1b2f40dd212946ffbe33ebdd1bd2814fca209f8|fix: the folders|-|09/04/2024|
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|e1c853cc6799df0b0dbde55decb0304cf17544eb|feat: add readme of the landingpage|-|09/04/2024|
-  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|1d0488b8aba5f29604ce136470fc2a9ffa09667f|fix: route the images|-|09/04/2024|
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bd35415a70de158448d<br>f206203a28b3928499858|feat: add initial version of landing page|-|26/03/2024| 
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|0a6658255c117aef8c<br>9b9aa91d25bb8b0d126855|refactor: Replace <div> with <header> for navbar|-|27/03/2024|
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|21c0f1852240a18a8f<br>11838c04536f837ee4a462|styles: add styles for navbar|-|27/03/2024| 
+  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|d6d55fc3f83386624168b<br>e6cad334d1ef1288060|feat: add in the index the services section and the images|-|27/03/2024| 
+  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|16d3c8f9834f8885ff447<br>f04a4ead43afc075892|refactor: names of the images of services|-|28/03/2024| 
+  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|0452280a622545a4f3b45<br>4ae1c09362235594b3f|style: implement the style to the index and the images for the service section|-|28/03/2024| 
+  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|b8bd137ceea62b34d041<br>f3aa4866892313dd0f3e|refactor: variable names instead of color code in the CSS|-|29/03/2024| 
+  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|716c4ec508c1a3ec41cd<br>f75bfb38cb460d2f07e3|feat: add in the index the about section and the style|-|29/03/2024|
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|988016ca40b2f220978<br>1ca7675c1f531720b90f7|feat: Add Login.html Login.css Login.js|-|29/03/2024| 
+  |Dark7YT/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b0<br>3afc44f7c9e50d8b7f2e0|fix: the back-button class in login.html|-|23/03/2024| 
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|1069955d1ba273510b<br>2e864b7ce749ece726e0d0|fix: Add link to registration page from login form|-|30/03/2024| 
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|ec9602b1229cc<br>fc3181f7244b8af8e98b6ef8fa1|fix: folder structure arrangement|-|30/03/2024|
+  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f3dfcc5fa935ee119<br>644c4d5b7856acea7419322|feat: add contact in the code and their styles|-|30/03/2024| 
+  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f386290611319da88<br>4af87c9715b0ea9fd1bf528|fix: ref css login transition|-|30/03/2024| 
+  |EliasYP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|f2dd6d87319d340e8b03<br>afc44f7c9e50d8b7f2e0|feat: added the register interface and made some changes to the login|-|30/03/2024| 
+  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bd2d6af2f4b0c6c5<br>792d4715ddff21b1805685e8|fix: section plans|-|30/03/2024|  
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bd2d6af2f4b0c6c5792d<br>4715ddff21b1805685e8|feat: add section plans and images|-|30/03/2024|  
+  |U202211390/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|e46b5a0c80b9f4a964<br>0c4e58f9d09515d092b0ae|feat: add contact in the code and their styles|-|02/04/2024| 
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|268ec8c123f953229bcff7<br>32f16954eba4148b54|Fix: navbar and plans responsive|-|02/04/2024|
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|32a7bbdf9d904e535b595c<br>8f85368519feb08adf|Feat: add section inicio and ajust navbar responsive|-|04/04/2024|
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|5c5c700eb169731c10fe6<br>83654169748e86e485f|Feat: Add footer and styles|-|04/04/2024|
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|ae238f8c9188f29d<br>77d38fd4989a2871ed343977|feat: update HTML code with structural changes and fixed links|-|07/04/2024|
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bedba2e90fa3d8a7<br>aef1b2ac027c0edffbcd93c4|feat: Add styles and functionality to the navbar|-|07/04/2024|
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|e8214c578f8d1973<br>43b69075ce69bd405594a142|fix: Fix responsive layout on mobile devices and navbar functionality|-|07/04/2024|
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|c1b2f40dd212946ffbe33e<br>bdd1bd2814fca209f8|fix: the folders|-|09/04/2024|
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|e1c853cc6799df0b0dbde5<br>5decb0304cf17544eb|feat: add readme of the landingpage|-|09/04/2024|
+  |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|1d0488b8aba5f29604ce13<br>6470fc2a9ffa09667f|fix: route the images|-|09/04/2024|
 
   - 5.2.1.4. Testing Suite Evidence for Sprint Review
   - 5.2.1.5. Execution Evidence for Sprint Review
