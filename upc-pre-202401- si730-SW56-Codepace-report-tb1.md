@@ -56,6 +56,7 @@
 
 ### Project Report Collaboration Insights
 
+**TB1**
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
 para cada integrante del equipo:
 
@@ -1428,10 +1429,24 @@ Enlace para acceder al
     En nuestro proceso de gestión de requisitos, nos apoyamos en una variedad de herramientas que aseguran una organización efectiva y transparente. Empleamos Trello para supervisar el flujo de trabajo, lo que nos permite visualizar y mantener actualizado el estado de las tareas y las historias de usuario en los sprints en desarrollo. Para el diseño de la experiencia de usuario (UX), confiamos en Figma, una plataforma versátil que nos permite crear y revisar los diseños de la aplicación en sus diferentes versiones, desde escritorio hasta dispositivos móviles. Complementamos este proceso de diseño con el uso de Lucidchart, que nos ayuda a diagramar flujos y estructuras clave, proporcionando una comprensión clara de la arquitectura del proyecto.
 
     En el ámbito del testing de software, utilizamos Gherkin como nuestro sistema de etiquetado para describir los criterios de aceptación de las historias de usuario. Este enfoque nos permite realizar una verificación estructurada y exhaustiva de cada funcionalidad desarrollada, garantizando la calidad del producto final.
+    
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/a860532b-0aa0-4127-8af0-105f7f81d225)
 
     Para el desarrollo de software, confiamos en Rider como nuestro entorno de desarrollo integrado (IDE) preferido. Rider ofrece un conjunto de herramientas robusto y eficaz que nos permite elaborar y compilar el código con eficiencia, con soporte completo para una amplia gama de lenguajes de programación, incluido C#. Durante el desarrollo, utilizamos HTML5 y CSS para la presentación y el diseño de la aplicación web, mientras que C# se emplea para desarrollar la interfaz de usuario, aprovechando su orientación a objetos y su integración perfecta con Rider.
 
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/67d3ae81-7d85-4fb3-9241-a41297bbfb73)
+
     Para el control de versiones y el despliegue del software, hacemos uso de Git y GitHub. Git nos permite gestionar los repositorios del proyecto, mientras que GitHub nos proporciona una plataforma basada en la nube que facilita la colaboración en tiempo real y la revisión de contribuciones entre los miembros del equipo. Esto asegura un desarrollo y despliegue eficientes del proyecto en su totalidad.
+    
+    Git:
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c42fc202-e798-4b91-9b44-bd0d0251b22d)
+
+    Github:
+
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/52f0687d-5f2d-40bd-ac0d-78f37cc35370)
+
+
   - 5.1.2. Source Code Management
     En nuestro proyecto, hemos adoptado una estrategia que utiliza GitFlow para la gestión altamente eficiente del código fuente, junto con GitHub para el registro de versiones. A continuación, se detalla cómo hemos implementado GitFlow en nuestro flujo de trabajo:
 
@@ -1705,15 +1720,20 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 
 **Bibliografía**
 
-- Apliint, (2024), 10 principales tecnologías frontend para usar en 2022, https://apliint.com/2022/03/15/10-principales-tecnologias-frontend-para-usar-en-2022/
+-Apliint. (2024). 10 principales tecnologías frontend para usar en 2022.
+Recuperado de https://apliint.com/2022/03/15/10-principales-tecnologias-frontend-para-usar-en-2022/
 
-- HackerRank, (2024), Skills speak louder than words, https://www.hackerrank.com/
+-HackerRank. (2024). Skills speak louder than words.
+Recuperado de https://www.hackerrank.com/
 
-- LeetCode, (2024), A New Way to Learn, https://leetcode.com/
+-LeetCode. (2024). A New Way to Learn.
+Recuperado de https://leetcode.com/
 
-- Indeed, (2023), Las 10 mejores aplicaciones para buscar trabajo por internet, https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/mejores-aplicaciones-buscar-trabajo-internet
+-Indeed. (2023). Las 10 mejores aplicaciones para buscar trabajo por internet.
+Recuperado de https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/mejores-aplicaciones-buscar-trabajo-internet
 
-- Interviewbit, (2024), Everything you need to crack your Next Tech Interview, https://www.interviewbit.com/
+-Interviewbit. (2024). Everything you need to crack your Next Tech Interview.
+Recuperado de https://www.interviewbit.com/
 
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
