@@ -1553,7 +1553,7 @@ Enlace para acceder al
 
   - 5.2.1.3. Development Evidence for Sprint Review
 
-    |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
+    |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On<br>(Date)|  
     |----------|------|---------|--------------|-------------------|------------------|
     |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|bd35415|feat: add initial version of landing page|-|26/03/2024| 
     |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|0a66582|refactor: Replace <div> with <header> for navbar|-|27/03/2024|
@@ -1585,7 +1585,7 @@ Enlace para acceder al
 
   - 5.2.1.4. Testing Suite Evidence for Sprint Review
     
-    |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
+    |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On<br>(Date)|  
     |----------|------|---------|--------------|-------------------|------------------|
     |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|f10284|feat: added files .feature|-|12/04/2024| 
     |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|47a6e36|feat: added US02 "Vinculación de número de celular a la aplicación"|-|12/04/2024|
