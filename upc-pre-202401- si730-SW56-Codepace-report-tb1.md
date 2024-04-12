@@ -1584,6 +1584,16 @@ Enlace para acceder al
     |Jemisas/<br>CodepaceOrganization<br>/GetWork-LandingPage|Main|1d0488b|fix: route the images|-|09/04/2024|
 
   - 5.2.1.4. Testing Suite Evidence for Sprint Review
+    
+    |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
+    |----------|------|---------|--------------|-------------------|------------------|
+    |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|f10284|feat: added files .feature|-|12/04/2024| 
+    |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|47a6e36|feat: added US02 "Vinculación de número de celular a la aplicación"|-|12/04/2024|
+    |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|3632856|feat: added US07: "Interfaz sencilla"|-|12/04/2024| 
+    |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|631167d|feat: Added US09 "Visualizar la landing page de la empresa"|-|12/04/2024| 
+    |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|bd6751|feat: added US13 "Registrarse en la landing page"|-|12/04/2024| 
+    |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|e526d|sfeat: added US21: "Ver testimonios de clientes en la landing page"|-|12/04/2024|
+    
   - 5.2.1.5. Execution Evidence for Sprint Review
   - 5.2.1.6. Services Documentation Evidence for Sprint Review
 
