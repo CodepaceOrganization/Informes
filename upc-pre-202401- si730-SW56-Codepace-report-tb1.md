@@ -1875,20 +1875,23 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 
 **Bibliografía**
 
--Apliint. (2024). 10 principales tecnologías frontend para usar en 2022.
-Recuperado de https://apliint.com/2022/03/15/10-principales-tecnologias-frontend-para-usar-en-2022/
+  - Apliint. (2024). 10 principales tecnologías frontend para usar en 2022. Recuperado de: [Apliint](https://apliint.com/2022/03/15/10-principales-tecnologias-frontend-para-usar-en-2022/)
+  
+  - HackerRank. (2024). Skills speak louder than words. Recuperado de: [HackerRank](https://www.hackerrank.com/)
+  
+  - LeetCode. (2024). A New Way to Learn. Recuperado de: [LeetCode](https://leetcode.com/)
+  
+  - Indeed. (2023). Las 10 mejores aplicaciones para buscar trabajo por internet. Recuperado de: [Indeed](https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/mejores-aplicaciones-buscar-trabajo-internet)
+  
+  - Interviewbit. (2024). Everything you need to crack your Next Tech Interview. Recuperado de: [Interviewbit](https://www.interviewbit.com/)
+    
+  - The Markdown Guide. (s.f.). Recuperado de: [Markdown Guide](https://www.markdownguide.org/)
 
--HackerRank. (2024). Skills speak louder than words.
-Recuperado de https://www.hackerrank.com/
+  - Mendel, J. (s.f.). Seriously, what’s your (startup’s) problem? Recuperado de: [Medium](https://medium.com/@jakemendel/seriously-whats-your-startup-s-problemb3a884c54ab4)
 
--LeetCode. (2024). A New Way to Learn.
-Recuperado de https://leetcode.com/
+  - Progressa Lean. (s.f.). 5W+2H - Técnica de análisis de problemas. Recuperado de: [ProgessaLean](https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/)
 
--Indeed. (2023). Las 10 mejores aplicaciones para buscar trabajo por internet.
-Recuperado de https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/mejores-aplicaciones-buscar-trabajo-internet
-
--Interviewbit. (2024). Everything you need to crack your Next Tech Interview.
-Recuperado de https://www.interviewbit.com/
+  - Fowler, M. (s.f.). Ubiquitous Language. Recuperado de: [MartinFowler](https://martinfowler.com/bliki/UbiquitousLanguage.html)
 
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
