@@ -1595,6 +1595,46 @@ Enlace para acceder al
     |Jemisas/<br>CodepaceOrganization<br>/Acceptance-Test|Main|e526d|sfeat: added US21: "Ver testimonios de clientes en la landing page"|-|12/04/2024|
     
   - 5.2.1.5. Execution Evidence for Sprint Review
+  
+    Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
+
+    **1. Creación de la base de la Landing Page:**
+    
+    -Se desarrolla la estructura inicial de la página de destino, estableciendo los elementos fundamentales para su funcionamiento y diseño.
+    
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/5fb4496e-9171-4bde-8f8e-909e235aef35)
+
+    **2. Implementar sistema de autenticación:**
+  
+    -Se integra un sistema que permite a los usuarios registrarse e iniciar sesión de manera segura, garantizando la privacidad y la protección de datos.
+      
+    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/bcc08a18-de71-4fec-abd2-ffbecedc0b89)
+
+   **3. Implementar pantalla de registro:**
+   
+   -Se crea una interfaz para que los usuarios puedan registrarse en la plataforma, proporcionando la información necesaria y cumpliendo con los requisitos de seguridad.
+      
+   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/bf76235e-f4e0-4968-8122-ed7af61a84cb)
+
+   **4. Implementar Formulario Contacto:**
+   
+   -Se añade un formulario que permite a los visitantes de la página ponerse en contacto con el equipo a través de mensajes, consultas o comentarios.
+      
+   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/64929c86-c633-4db4-825e-9a1887c03662)
+
+
+   **5. Implementar testimonios:**
+   
+   -Se implementa card en las cuales reflejan la experiencia que tendras los usuarios en nuestra aplicación web.  
+      
+   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/6d8620d4-cab2-47e7-8020-d892e90449ca)
+
+   **6. Implementar una interfaz sencilla:**
+   
+  -Se diseña una interfaz fácil de usar y entender, priorizando la accesibilidad y la experiencia del usuario para garantizar una navegación fluida y agradable.
+      
+   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b96d5875-f55e-48ce-ab3a-a2f0850fe809)
+
   - 5.2.1.6. Services Documentation Evidence for Sprint Review
 
   Para esta entrea no fue contemplada la evidencia de documentación de los servicios
