@@ -233,7 +233,7 @@ para cada integrante del equipo:
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>Me sumerjo en la investigación del sector tecnológico, explorando las demandas y expectativas de las empresas de tecnología en cuanto a habilidades y conocimientos técnicos, para asegurarme de que nuestra plataforma responda de manera efectiva a estas necesidades.<br><br>Sebastian Nicolas Cachis Gonzales<br><b>TB1</b><br>e involucro en conversaciones y colaboraciones con empresas de tecnología para comprender de primera mano lo que están buscando en los candidatos durante las entrevistas técnicas, utilizando esta información para dar forma al contenido y las características de nuestra plataforma.<br><br>Jeremy Joel Quispe Andia<br><b>TB1</b><br>Me enfoqué en crear contenido altamente relevante y práctico para las entrevistas técnicas en el sector tecnológico, ofreciendo preguntas frecuentes, ejercicios de codificación y tutoriales específicamente diseñados para este dominio.<br><br>Elias Yauri Paucar<br><b>TB1</b><br> Implementamos simulacros de entrevistas en vivo con expertos en tecnología, diseñados para reflejar fielmente las situaciones y desafíos que los candidatos enfrentarán en las entrevistas técnicas del mundo real.<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>Consideramos cuidadosamente las opciones de monetización, como membresías premium con acceso a contenido adicional y sesiones de tutoría personalizada, para garantizar un flujo de ingresos sostenible mientras proporcionamos un valor significativo a nuestros usuarios.<br><br>Andrea Cabanillas<br><b>TB1</b><br>Nos comprometemos a mantenernos al tanto de las últimas tendencias y cambios en la industria tecnológica, actualizando y mejorando constantemente nuestra plataforma para garantizar su relevancia y efectividad a largo plazo en la preparación de los candidatos para las entrevistas técnicas.|<b>TB1</b><br>Como equipo, nuestra iniciativa de crear una plataforma de preparación para entrevistas técnicas en el sector tecnológico representa un compromiso sólido con la excelencia y la innovación. A lo largo de este proyecto, hemos demostrado una capacidad excepcional para investigar, colaborar y desarrollar contenido altamente relevante y práctico para nuestros usuarios. Nuestra colaboración estratégica con empresas de tecnología nos ha permitido comprender a fondo las demandas y expectativas del sector, asegurando que nuestra plataforma esté perfectamente alineada con las necesidades del mercado laboral actual. Al mismo tiempo, hemos mantenido un enfoque constante en la mejora continua, utilizando retroalimentación de usuarios y seguimiento de tendencias para actualizar y mejorar constantemente nuestra oferta. En conclusión, como equipo, estamos orgullosos del impacto positivo que nuestra plataforma está teniendo en la preparación de los candidatos para las entrevistas técnicas. Seguiremos trabajando arduamente para mantenernos a la vanguardia de la industria, proporcionando a nuestros usuarios las herramientas y el apoyo que necesitan para alcanzar sus metas profesionales en el mundo tecnológico en constante evolución.|
 
 ### Capítulo I: Introducción
-- 1.1. Startup Profile
+**1.1. Startup Profile**
   - 1.1.1. Descripción de la Startup
  
     *CodePace* es una plataforma especializada en la preparación de programadores para entrevistas técnicas en empresas de tecnología. Nos dedicamos a ofrecer una variedad de recursos y entrenamiento diseñados para ayudar a los usuarios a mejorar sus habilidades de                 codificación, prepararse para entrevistas y asegurar trabajos en la industria tecnológica.
@@ -257,7 +257,8 @@ para cada integrante del equipo:
 | Andrea Milagros Cabanillas Gora (u202211711) <br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/f800cd02-e527-4056-9807-e61dbacd264b" alt="Andrea Cabanillas" style="width: 200px;">| Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta diseñar paginas web, dibujar y bailar marinera.   |
 | Sebastian Nicolas Cachis Gonzales (u202210846) <br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/552d3d92-0a4d-41d8-b90e-3ec504d56c55" alt="Sebastian Cachis" style="width: 200px;">| Tengo 19 años, soy alumno de Ingeniería de Software en la UPC en mi quinto ciclo. Me considero una persona proactiva, organizada, meticulosa y muy enfocada en mis estudios, tanto grupales como individuales. Tengo facilidad para entender y ejemplificar los distintos temas que vemos, teniendo soltura para explicar.  |
 | Adriano Sebastian Cruz Palomino (u202211711) <br><img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/4ea280b1-1aa7-485f-ab81-05404307bf22" alt="Adriano Cruz" style="width: 200px;">|Mi nombre es Adriano Sebastian Cruz Palomino, tengo 19 años, soy alumno de Ingeniería de Software en la UPC, actualmente estoy cursando el 5to ciclo. Soy una persona curiosa, responsable, y comprometida con mis estudios, siempre busco aprender más y mejorar mis habilidades.  |
-- 1.2. Solution Profile
+
+**1.2. Solution Profile**
   - 1.2.1. Antecedentes y problemática
   
     Para comprender las necesidades de nuestros usuarios universitarios en el proyecto GetWork, hemos realizado un estudio utilizando la técnica 5W's & 2H's. Esta metodología, ampliamente utilizada en la gestión empresarial, nos ha permitido identificar los siguientes             aspectos cruciales:
@@ -382,58 +383,55 @@ para cada integrante del equipo:
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/8624af12-9d1f-4638-84cf-f773edc14884)
 
-- 1.3. Segmentos objetivo
+**1.3. Segmentos objetivo**
 
-**Segmento objetivo #1: Desarrolladores en búsqueda de empleo**
-
-Descripción: Este segmento objetivo está compuesto por programadores y desarrolladores de software que están activamente buscando oportunidades laborales en empresas de tecnología.
-
-Aspectos demográficos:
-Sexo: Masculino y Femenino
-Edades: Mayoritariamente entre 18 y 35 años.
-Nivel socioeconómico: Clases A, B, C (Alta, Media-alta y Media)
-
-Aspectos geográficos:
-Nacionalidad: Peruana
-Zona geográfica en la que vive: Urbana
-Departamento: Lima y Callao
-Aspectos psicográficos:
-
-Buscan mejorar sus habilidades técnicas para destacar en el mercado laboral.
-Desean acceder a recursos de preparación para entrevistas de manera conveniente y eficaz.
-Valorizan la seguridad y la privacidad en el almacenamiento de datos.
-Necesidades: Buscan mejorar sus habilidades de codificación, prepararse para entrevistas técnicas y obtener un empleo en el campo tecnológico.
-
-Requisitos: Desean una plataforma que les brinde recursos de calidad, como preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo.
-
-Objetivo: Aumentar sus posibilidades de éxito en el proceso de contratación.
-
-**Segmento objetivo #2: Estudiantes de informática y carreras relacionadas**
-
-Descripción: Este segmento objetivo incluye a estudiantes universitarios y recién graduados de carreras de informática, ingeniería de software y disciplinas afines.
-
-Aspectos demográficos:
-Sexo: Masculino y Femenino
-Edades: Mayoritariamente entre 18 y 25 años.
-Nivel socioeconómico: Clases A, B, C (Alta, Media-alta y Media)
-Aspectos geográficos:
-
-Nacionalidad: Peruana
-Zona geográfica en la que vive: Urbana
-Departamento: Lima y Callao
-
-Aspectos psicográficos:
-Buscan mejorar sus habilidades técnicas y prepararse para su futura inserción laboral.
-Valorizan la facilidad de acceso y la seguridad en el almacenamiento de archivos.
-Prefieren soluciones intuitivas y fáciles de usar para gestionar sus documentos.
-Necesidades: Están interesados en mejorar sus habilidades técnicas y prepararse para futuras entrevistas de trabajo en la industria tecnológica.
-
-Requisitos: Buscan una plataforma que les proporcione tutoriales sobre temas comunes de entrevistas, contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento.
-
-Objetivo: Facilitar su transición al mercado laboral y obtener empleo en empresas líderes del sector tecnológico.
-
-
-    
+  **Segmento objetivo #1: Desarrolladores en búsqueda de empleo**
+  
+  Descripción: Este segmento objetivo está compuesto por programadores y desarrolladores de software que están activamente buscando oportunidades laborales en empresas de tecnología.
+  
+  Aspectos demográficos:
+  Sexo: Masculino y Femenino
+  Edades: Mayoritariamente entre 18 y 35 años.
+  Nivel socioeconómico: Clases A, B, C (Alta, Media-alta y Media)
+  
+  Aspectos geográficos:
+  Nacionalidad: Peruana
+  Zona geográfica en la que vive: Urbana
+  Departamento: Lima y Callao
+  Aspectos psicográficos:
+  
+  Buscan mejorar sus habilidades técnicas para destacar en el mercado laboral.
+  Desean acceder a recursos de preparación para entrevistas de manera conveniente y eficaz.
+  Valorizan la seguridad y la privacidad en el almacenamiento de datos.
+  Necesidades: Buscan mejorar sus habilidades de codificación, prepararse para entrevistas técnicas y obtener un empleo en el campo tecnológico.
+  
+  Requisitos: Desean una plataforma que les brinde recursos de calidad, como preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo.
+  
+  Objetivo: Aumentar sus posibilidades de éxito en el proceso de contratación.
+  
+  **Segmento objetivo #2: Estudiantes de informática y carreras relacionadas**
+  
+  Descripción: Este segmento objetivo incluye a estudiantes universitarios y recién graduados de carreras de informática, ingeniería de software y disciplinas afines.
+  
+  Aspectos demográficos:
+  Sexo: Masculino y Femenino
+  Edades: Mayoritariamente entre 18 y 25 años.
+  Nivel socioeconómico: Clases A, B, C (Alta, Media-alta y Media)
+  Aspectos geográficos:
+  
+  Nacionalidad: Peruana
+  Zona geográfica en la que vive: Urbana
+  Departamento: Lima y Callao
+  
+  Aspectos psicográficos:
+  Buscan mejorar sus habilidades técnicas y prepararse para su futura inserción laboral.
+  Valorizan la facilidad de acceso y la seguridad en el almacenamiento de archivos.
+  Prefieren soluciones intuitivas y fáciles de usar para gestionar sus documentos.
+  Necesidades: Están interesados en mejorar sus habilidades técnicas y prepararse para futuras entrevistas de trabajo en la industria tecnológica.
+  
+  Requisitos: Buscan una plataforma que les proporcione tutoriales sobre temas comunes de entrevistas, contenido exclusivo de empresas de tecnología y oportunidades de reclutamiento.
+  
+  Objetivo: Facilitar su transición al mercado laboral y obtener empleo en empresas líderes del sector tecnológico.
 
 ### Capítulo II: Requirements Elicitation & Analysis
 
@@ -466,7 +464,7 @@ Objetivo: Facilitar su transición al mercado laboral y obtener empleo en empres
 </table>
 
 
-  - 2.2. Entrevistas
+  **2.2. Entrevistas**
   
   Las entrevistas van dirigidas a desarrolladores, estudiantes y programadores ya que son el público objetivo principal de la plataforma, entrevistarlos permitirá comprender sus necesidades específicas en términos de preparación para entrevistas técnicas, qué recursos encuentran más útiles, qué áreas considera más desafiantes y qué características valorarán en la plataforma.
 
@@ -598,16 +596,18 @@ Los entrevistados, Marcelo, Alex, Hernán, Andrés, Diego y Bárbara, demandan u
 
 - 2.3. Needfinding
 
-- 2.3.1. User Personas
+**2.3.1. User Personas**
   
   Segmento objetivo 1: Leticia Cassanova
+  
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c6d2950b-7f93-4562-8f4a-7a9f089c93a9)
   
   Segmento objetivo 2: Maria Sanchez
+  
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/3ff745a7-66bd-4319-9ff1-60104ad00ae7)
 
   
-- 2.3.2. User Task Matrix
+**2.3.2. User Task Matrix**
   
 Segmento objetivo 1: Leticia Cassanova
 
@@ -638,19 +638,18 @@ Segmento objetivo 2: Maria Sanchez
 | Actualizarse sobre tendencias y noticias del mercado laboral y tecnológico.                                | Con Frecuencia   | Alta        |
 
 
-- 2.3.3. User Journey Mapping
+**2.3.3. User Journey Mapping**
 
   Segmento objetivo 1: Leticia Cassanova
 
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/d99113c8-1dc3-4129-aafd-38589607439b)
-
 
   Segmento objetivo 2: Maria Sanchez
 
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/a8e6f328-6069-4355-8be1-1fe952fe34b5)
 
 
-- 2.3.4. Empathy Mapping
+**2.3.4. Empathy Mapping**
 
   Segmento objetivo 1: Leticia Cassanova
 
@@ -660,18 +659,17 @@ Segmento objetivo 2: Maria Sanchez
   
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/a0b23c5e-93ad-4829-9b14-9602232c4641)
 
-- 2.3.5. As-is Scenario Mapping
+**2.3.5. As-is Scenario Mapping**
 
   Segmento objetivo 1: Leticia Cassanova
 
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b0ebab82-8db5-4940-816c-dcbae8207719)
 
-
   Segmento objetivo 2: Maria Sanchez
 
   ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/e10a7b87-9f2c-4cd3-81c4-9c140353212a)
 
-- 2.4. Ubiquitous Language
+**2.4. Ubiquitous Language**
   
   **Entrevistas Técnicas:** Procesos de evaluación utilizados por las empresas de tecnología para evaluar las habilidades técnicas y la idoneidad de los candidatos para un puesto.
   
@@ -821,7 +819,7 @@ Segmento objetivo #2: Estudiantes de informática y carreras relacionadas
 Link en Pivotal Tracker: [Ver enlace]("https://www.pivotaltracker.com/n/projects/2700961")
 
 ### Capítulo IV: Product Design
-- 4.1. Style Guidelines
+**4.1. Style Guidelines**
   - 4.1.1. General Style Guidelines
     
     **Paleta de colores:** Nuestra aplicación web y landing page, al estar dirigida a desarrolladores y estudiantes, cuenta con colores que denoten confianza, sean sobrios y formales,        por lo     que los colores principales que usaremos para GetWorkserán el blanco, Rojo, el negro y el gris. El blanco en representación del orden y limpieza, el azul la tranquilidad y     relajación      y el gris para la seriedad y modestia. El color principal de las letras será el negro para la formalidad pero también usaremos letras en color blano para un buen          contraste con el          fondo en donde se encuentra.
@@ -830,15 +828,24 @@ Link en Pivotal Tracker: [Ver enlace]("https://www.pivotaltracker.com/n/projects
     
     **Tipografía:** La tipografía de nuestra aplicación será fácilmente legible y estética, por lo que se hará uso de la fuente Roboto para botones y títulos y Asap para textos, con          interlineado 1.15 con tamaño base 18px para desktop y para móvil tamaño 16px, no obstante, decidimos hacer uso de la unidad de medida “em” para que las letras sean escalables y           responsivas a la variedad de tamaños de pantalla. Los tamaños variarán según si son títulos principales, subtítulos o textos.
 
-    -Base: 18px
-    -Fuente principal: "Roboto", que es una fuente sans-serif.
-    -Se establecen varios tamaños de texto para diferentes elementos:
-    -Tamaño de encabezado 1: 2.5 rem.
-    -Tamaño de encabezado 2: 2 rem.
-    -Tamaño de encabezado 3: 1.5 rem.
-    -Tamaño de encabezado 4: 1.125 rem.
-    -Tamaño de párrafo: 1 rem.
-    -Tamaño de texto pequeño: 0.875 rem.
+    - Base: 18px
+    
+    - Fuente principal: "Roboto", que es una fuente sans-serif.
+    
+    - Se establecen varios tamaños de texto para diferentes elementos:
+    
+    - Tamaño de encabezado 1: 2.5 rem.
+    
+    - Tamaño de encabezado 2: 2 rem.
+    
+    - Tamaño de encabezado 3: 1.5 rem.
+    
+    - Tamaño de encabezado 4: 1.125 rem.
+    
+    - Tamaño de párrafo: 1 rem.
+    
+    - Tamaño de texto pequeño: 0.875 rem.
+    
     Estos ajustes de tamaño de texto proporcionan coherencia en el diseño y la presentación de la página web. La fuente "Roboto" es ampliamente utilizada por su      legibilidad y versatilidad, lo que la hace adecuada para una variedad de contextos en el diseño web.
 
     ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/52cdc829-e776-497a-b2c5-06ddda625f2f)
@@ -855,7 +862,9 @@ Link en Pivotal Tracker: [Ver enlace]("https://www.pivotaltracker.com/n/projects
     ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c1be0b9b-36e2-40d8-83ae-8f0dc9a30717)
 
 
-  - 4.1.2. Web Style Guidelines
+**4.1.2. Web Style Guidelines**
+
+
   La plataforma Getwork ofrecería recursos y entrenamiento crucial para
 programadores y desarrolladores que buscan prepararse para entrevistas
 técnicas en el sector tecnológico. Su diseño web debe reflejar la
@@ -925,178 +934,96 @@ por parte de los usuarios.
 
 ![image4](https://github.com/CodepaceOrganization/Informes/assets/133830443/df5aa401-d1e7-45e7-a729-f91f6acd85f2)
 
-**Principios Generales**
+**4.2. Information Architecture**
 
-**Claridad y Accesibilidad:** Asegurar que el diseño general permita una
-navegación intuitiva y un fácil acceso a todos los recursos.
-
-**Motivación y Empoderamiento:** A través del diseño visual y la
-estructura del contenido, inspirar confianza y motivación entre los
-usuarios para prepararse y tener éxito en sus entrevistas técnicas.
-- 4.2. Information Architecture
-  
 **Página de inicio:**
 
-**Contenido destacado:** Artículos y guías sobre moda sostenible,
-incluyendo consejos para elegir prendas de calidad y cómo reducir el
-impacto ambiental de la moda.**
+- Contenido Especializado: Encuentra artículos y guías sobre preparación para entrevistas técnicas en GetWork. Obtén consejos sobre cómo abordar preguntas comunes, mejorar tus habilidades de codificación y navegar por el proceso de entrevista técnica.
 
-**Marcas destacadas:** Lista de marcas asociadas que ofrecen
-prendas de moda sostenible y oportunidades de alquiler en EventWear.**
+- Registro/Inicio de Sesión: Regístrate ahora o inicia sesión para comenzar a explorar la plataforma de GetWork y acceder a todas las funciones disponibles. Únete a nuestra comunidad comprometida con la preparación para entrevistas técnicas y el crecimiento profesional.
 
-**Registrarse/Iniciar sesión:** Botones destacados para que los
-usuarios se registren y comiencen a explorar la plataforma de EventWear,
-o inicien sesión en sus cuentas existentes.**
+**Recursos y Entrenamiento:**
 
-**Categorías:**
+- Una sección donde los usuarios pueden acceder a una variedad de recursos diseñados para ayudarlos a prepararse para entrevistas técnicas. Esto incluirá preguntas frecuentes de entrevistas, ejercicios de codificación práctica, simulacros de entrevistas en vivo con expertos y tutoriales sobre temas comunes de entrevistas en empresas de tecnología.
 
-**Tendencias de moda:** Una sección donde los usuarios pueden
-descubrir las últimas tendencias en moda sostenible y cómo integrarlas
-en su estilo personal.**
+**Blog:** 
 
-**Guía de estilo:** Recursos y consejos para ayudar a los usuarios
-a crear looks únicos y conscientes para eventos especiales.**
+- Un espacio donde los usuarios pueden encontrar artículos informativos y útiles relacionados con la preparación para entrevistas técnicas. Nuestro blog incluirá publicaciones sobre consejos de entrevistas, tendencias en la industria tecnológica, perfiles de empresas de tecnología y entrevistas con profesionales del sector.
 
-**Intercambio de prendas:** Una sección dedicada a facilitar el
-intercambio de prendas entre usuarios, promoviendo así la reutilización
-y reduciendo el desperdicio de moda.**
+**Preguntas Frecuentes:** 
 
-**Páginas:**
-
-**Acerca de nosotros:** Una página que destaca la misión, los valores y
-el equipo detrás de EventWear, así como su compromiso con la moda
-sostenible y la comunidad.
-
-**Blog:** Una página donde los usuarios pueden encontrar artículos sobre
-moda sostenible, consejos de estilo y entrevistas con diseñadores
-comprometidos con la sostenibilidad.
-
-**Preguntas frecuentes:** Una página con respuestas a preguntas comunes
-sobre EventWear, el proceso de alquiler de prendas y cómo funciona la
-plataforma.
+- Una sección dedicada a proporcionar respuestas claras y completas a preguntas comunes sobre GetWork y el proceso de preparación para entrevistas técnicas. Aquí, los usuarios encontrarán información sobre cómo funciona la plataforma, cómo acceder a los recursos disponibles y cómo aprovechar al máximo su experiencia de preparación para entrevistas técnicas con GetWork.
 
 **Cuenta de usuario:**
 
-**Perfil:** Una página donde los usuarios pueden ver y editar su
-información personal, incluyendo sus preferencias de estilo y las
-prendas que han alquilado o intercambiado.
+- Recursos Complejos: Desde preguntas frecuentes de entrevistas hasta ejercicios de codificación práctica, ofrecemos una amplia gama de recursos para que los usuarios se preparen adecuadamente.
 
-**Actividad:** Una página donde los usuarios pueden realizar un
-seguimiento de su actividad en la plataforma, incluyendo las prendas que
-han compartido, las que han alquilado y los eventos a los que han
-asistido.
+- Simulacros de Entrevistas en Vivo: Nada supera la práctica real. Ofrecemos simulacros de entrevistas en vivo con expertos para que los usuarios se familiaricen con el ambiente de una entrevista técnica real.
 
-**Prendas:** Una página donde los usuarios pueden explorar las prendas
-disponibles para alquilar o intercambiar, filtrando por estilo, tamaño y
-marca.
+- Colaboración con Empresas de Tecnología: Trabajamos en estrecha colaboración con empresas de tecnología para ofrecer contenido exclusivo y oportunidades de reclutamiento para los usuarios de nuestra plataforma.
 
-**Detalles de la prenda:**
-
-**Detalles de la prenda:** Una página que proporciona información
-detallada sobre cada prenda disponible, incluyendo su descripción,
-medidas y fotos.
-
-**Perfiles de la marca:**
-
-**Marcas asociadas:** Una página que muestra una lista de todas las
-marcas asociadas con EventWear, destacando su compromiso con la moda
-sostenible y las prendas que ofrecen en la plataforma.
-
-**Detalles de la marca:** Una página que proporciona información
-detallada sobre cada marca asociada, incluyendo su historia, valores y
-productos disponibles en EventWear.
-
-**Alquileres:**
-
-**Catálogo de prendas:** Una página donde los usuarios pueden explorar
-todas las prendas disponibles para alquilar en EventWear, filtrando por
-tipo de evento, tamaño y estilo.
-
-**Detalles de la transacción:** Una página que proporciona información
-detallada sobre cada transacción de alquiler, incluyendo el período de
-alquiler, el costo y los términos y condiciones.
-- 4.2.1. Organization Systems
+- Membresías Premium: Para aquellos que buscan un nivel adicional de preparación, ofrecemos membresías premium que brindan acceso a contenido exclusivo, sesiones de tutoría personalizada y garantías de devolución de dinero para aquellos que no logren resultados satisfactorios en sus entrevistas.
 
 **Declaración de misión:**
 
-Getwork se dedica a revolucionar el espacio de preparación laboral al
+- Getwork se dedica a revolucionar el espacio de preparación laboral al
 proporcionar una plataforma integral que ayuda a los programadores a
 tener éxito en sus entrevistas técnicas y conseguir los trabajos de sus
 sueños.
 
 **Declaración de visión:**
 
-Nuestra visión es convertirnos en la plataforma de referencia para
+- Nuestra visión es convertirnos en la plataforma de referencia para
 programadores y empresas de tecnología de todo el mundo, proporcionando
 un proceso ágil y eficaz para la preparación y contratación de puestos
 de trabajo.
 
 **Valores fundamentales:**
 
-Empatía: Priorizar las necesidades e inquietudes de los usuarios y
+- Empatía: Priorizar las necesidades e inquietudes de los usuarios y
 clientes.
 
-Innovación: Buscar continuamente nuevas y mejores formas de resolver
+- Innovación: Buscar continuamente nuevas y mejores formas de resolver
 problemas y mejorar la plataforma.
 
-Integridad: Actuar siempre con honestidad, transparencia y
+- Integridad: Actuar siempre con honestidad, transparencia y
 comportamiento ético en todas nuestras interacciones.
 
-Experiencia de usuario: céntrese en brindar una experiencia de usuario
+- Experiencia de usuario: céntrese en brindar una experiencia de usuario
 excepcional que supere las expectativas.
 
 **Indicadores clave de rendimiento:**
 
-Crecimiento de usuarios: usuarios activos mensuales y tasa de
+- Crecimiento de usuarios: usuarios activos mensuales y tasa de
 adquisición de nuevos usuarios.
 
-Satisfacción del cliente: comentarios de los usuarios y calificaciones
+- Satisfacción del cliente: comentarios de los usuarios y calificaciones
 de satisfacción.
 
-Crecimiento de ingresos: Crecimiento de ingresos mensuales y anuales.
-
-Tasa de finalización de desafíos de codificación: porcentaje de usuarios
-que completan desafíos de codificación.
-
-Progreso de preparación de la entrevista: porcentaje de usuarios que
-progresan en su trabajo de preparación de la entrevista.
+- Crecimiento de ingresos: Crecimiento de ingresos mensuales y anuales.
 
 **Gestión de Proyectos:**
 
-Planificación de proyectos: Definir el alcance, los objetivos, los
+- Planificación de proyectos: Definir el alcance, los objetivos, los
 cronogramas y las tareas del proyecto.
 
-Asignación de tareas: Asignar las tareas específicas a los miembros del
+- Asignación de tareas: Asignar las tareas específicas a los miembros del
 equipo en función de sus fortalezas y experiencia.
 
-Seguimiento del proyecto: Supervisar el progreso y ajuste las tareas
+- Seguimiento del proyecto: Supervisar el progreso y ajuste las tareas
 según sea necesario.
 
 Informes del proyecto: Proporcionar actualizaciones periódicas a las
 partes interesadas sobre el estado, el progreso y los resultados del
 proyecto.
+
 - 4.2.2. Labeling Systems
-Los sistemas de etiquetado están presentes en pantallas que no forman
-parte del proceso principal de la aplicación. Cada uno resume
-apropiadamente el contenido de la vista actual. Además de las imágenes,
-las secciones del panel de control están asociadas a etiquetas que
-informan al usuario del contenido que puede visualizar si accede a
-dichas secciones. Es por eso que todas las tarjetas presentadas en esta
-vista también tienen sus respectivos títulos. En la barra de navegación,
-las etiquetas brindan una explicación clara y concisa del contenido de
-cada sección, facilitando a los usuarios la navegación y la búsqueda de
-la información que necesitan. Aplicando esta estructura a "Getwork", las
-etiquetas podrían usarse para proporcionar una explicación clara y
-concisa del contenido de cada sección de la plataforma, como "Empleos",
-"Candidatos", etc.  
-  
-Esto ayudará a los usuarios. para comprender rápidamente el propósito de
-cada sección y encontrar la información que necesitan. En la barra de
-navegación, las etiquetas se pueden utilizar para proporcionar una breve
-explicación del contenido de cada sección, como "Empleos: encuentre y
-solicite ofertas de trabajo", "Candidatos: administre su proceso de
-búsqueda y solicitud de empleo", "Empleadores: Publica ofertas de
-trabajo y gestiona tu proceso de contratación".
+
+En GetWork, hemos implementado sistemas de etiquetado para mejorar la experiencia del usuario y facilitar la navegación dentro de la plataforma. Estas etiquetas están presentes en diferentes partes de la aplicación, proporcionando una descripción clara y concisa del contenido de cada sección.
+
+Panel de Control: Cada sección del panel de control está asociada con etiquetas que resumen el contenido disponible. Esto ayuda a los usuarios a comprender rápidamente qué pueden encontrar en cada área y facilita la navegación hacia la información relevante.
+
+Tarjetas y Navegación: Además, todas las tarjetas presentadas en la plataforma incluyen títulos descriptivos para que los usuarios puedan identificar fácilmente el contenido que están visualizando. En la barra de navegación, las etiquetas proporcionan una breve explicación del contenido de cada sección, como "Empleos: Encuentra y solicita ofertas de trabajo", "Candidatos: Administra tu proceso de búsqueda y solicitud de empleo", "Empleadores: Publica ofertas de trabajo y gestiona tu proceso de contratación".
 
 - 4.2.3. SEO Tags and Meta Tags
   
@@ -1577,7 +1504,7 @@ Enlace para acceder al
 ![image](https://github.com/CodepaceOrganization/Informes/assets/130580982/3cb9ee4b-ba67-433d-9e12-90a25b7aa150)
 
 ### Capítulo V: Product Implementation, Validation & Deployment
-- 5.1. Software Configuration Management
+**5.1. Software Configuration Management**
   - 5.1.1. Software Development Environment Configuration
     En nuestro proceso de gestión de requisitos, nos apoyamos en una variedad de herramientas que aseguran una organización efectiva y transparente. Empleamos Trello para supervisar el flujo de trabajo, lo que nos permite visualizar y mantener actualizado el estado de las tareas y las historias de usuario en los sprints en desarrollo. Para el diseño de la experiencia de usuario (UX), confiamos en Figma, una plataforma versátil que nos permite crear y revisar los diseños de la aplicación en sus diferentes versiones, desde escritorio hasta dispositivos móviles. Complementamos este proceso de diseño con el uso de Lucidchart, que nos ayuda a diagramar flujos y estructuras clave, proporcionando una comprensión clara de la arquitectura del proyecto.
 
@@ -1600,7 +1527,8 @@ Enlace para acceder al
     ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/52f0687d-5f2d-40bd-ac0d-78f37cc35370)
 
 
-  - 5.1.2. Source Code Management
+  - **5.1.2. Source Code Management**
+    
     En nuestro proyecto, hemos adoptado una estrategia que utiliza GitFlow para la gestión altamente eficiente del código fuente, junto con GitHub para el registro de versiones. A continuación, se detalla cómo hemos implementado GitFlow en nuestro flujo de trabajo:
 
     Implementación de GitFlow:
@@ -1608,7 +1536,7 @@ Enlace para acceder al
     ![image](https://github.com/CodepaceOrganization/Informes/assets/130623774/f2be5d26-18f7-4c6f-a51e-2a06e7579726)
     Ramas Principales:
 
-    Main: Esta rama contiene la versión más estable y lista para producción de nuestro proyecto.
+    **Main:** Esta rama contiene la versión más estable y lista para producción de nuestro proyecto.
     Develop: En esta rama se integran todas las características finalizadas, representando así la versión en desarrollo del proyecto.
     Ramas de Funcionalidades (Feature Branches):
 
@@ -1616,7 +1544,7 @@ Enlace para acceder al
 
     Una vez completada y probada la funcionalidad, se fusiona nuevamente en develop.
 
-    Ramas de Publicación (Release Branches):
+    **Ramas de Publicación (Release Branches):**
 
     Cuando se alcanza un conjunto de características suficientemente estable en develop, se crea una rama de publicación.
 
@@ -1624,30 +1552,28 @@ Enlace para acceder al
 
     Posteriormente, la rama de publicación se fusiona en master y develop, etiquetándola con el número de versión correspondiente.
 
-    Ramas de Corrección de Errores (Hotfix Branches):
+    **Ramas de Corrección de Errores (Hotfix Branches):**
 
     Si surge un problema crítico en la versión en producción, se crea una rama de corrección de errores desde master.
 
     La solución se implementa en esta rama y luego se fusiona en master y develop.
 
-    Repositorio en GitHub:
+    **Repositorio en GitHub:**
 
     Estos enlaces proporcionan acceso directo a nuestros repositorios:
 
-    Enlace de Organización: https://github.com/CodepaceOrganization
+    Enlace de Organización: [Ver enlace](https://github.com/CodepaceOrganization)
 
-    Enlace de Landing Page:https://github.com/CodepaceOrganization/GetWork-LandingPage
+    Enlace de Landing Page: [Ver enlace](https://github.com/CodepaceOrganization/GetWork-LandingPage)
 
-    Enlace de Frontend Web Application:https://github.com/CodepaceOrganization/Frontend-Web-Applicacion
-
-    Commits: 
+    **Commits:**
     
     Para los commits que realicemos en nuestro proyecto utilizaremos Conventional Commits. Esta convención nos permite estructurar mejor los mensajes de commits de manera clara y consistente, lo que facilita la comprensión en los cambios realizados en el repositorio
 
 
-  - 5.1.3. Source Code Style Guide & Conventions
+  - **5.1.3. Source Code Style Guide & Conventions**
 
-    Convenciones de Nomenclatura:
+    **Convenciones de Nomenclatura:**
 
     - HTML, CSS, JavaScript:
       - Utilizar camelCase para nombres de variables y funciones.
@@ -1655,7 +1581,7 @@ Enlace para acceder al
       - Evitar abreviaturas a menos que estén ampliamente aceptadas o estandarizadas.
       - Utilizar letras minúsculas para nombres de archivos y carpetas.
 
-    Convenciones de Codificación:
+    **Convenciones de Codificación:**
 
     - Guía de Estilo y Convenciones de Codificación HTML:
       - Seguir las mejores prácticas para la estructura HTML, incluyendo la indentación y comentarios.
@@ -1678,7 +1604,7 @@ Enlace para acceder al
 
   - 5.1.4. Software Deployment Configuration
 
-    Pasos de Implementación:
+    **Pasos de Implementación:**
 
     - Página de Aterrizaje:
       - Asegurar que todos los archivos HTML, CSS y JavaScript estén minimizados para una carga eficiente.
@@ -1693,7 +1619,7 @@ Enlace para acceder al
       - Utilizar CDNs para servir bibliotecas y frameworks y mejorar los tiempos de carga.
       - Implementar estrategias de almacenamiento en caché para activos estáticos para reducir la carga del servidor.
 
-- 5.2. Landing Page, Services & Applications Implementation
+  **5.2. Landing Page, Services & Applications Implementation**
   - 5.2.1. Sprint 1
     - 5.2.1.1. Sprint Planning 1
       
