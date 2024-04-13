@@ -1333,7 +1333,9 @@ pantalla.
 **User Goal: Simulacro de entrevista**
 
 ![image76](https://github.com/CodepaceOrganization/Informes/assets/133830443/3e24f045-9c84-4a20-aec1-ebdab9642619)
+
 - 4.5. Web Applications Prototyping
+  
 Al diseñar los prototipos de interfaz de usuario para Desktop y Mobile
 Web Browser, se ha seguido una serie de criterios fundamentales para
 garantizar una experiencia de usuario efectiva y satisfactoria:
@@ -1843,12 +1845,12 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
 - Enlace para acceder la aplicación web: [NO aplica este entregable]()
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Video exposición TB1: [Ver enlace]()
+- Video exposición TB1: [Ver enlace](https://upcedupe-my.sharepoint.com/personal/u202210846_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210846%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2D%20si730%2DSW56%2DGetWork%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/CodepaceOrganization/GetWork-LandingPage/tree/develop)
 - Repositorio GitHub Informes: [Ver enlace](https://github.com/CodepaceOrganization/Informes)
 - Repositorio GitHub Acceptance-Test: [Ver enlace](https://github.com/CodepaceOrganization/Acceptance-Test)
 - Enlace para acceder al figma LandingPage: [Ver enlace](https://www.figma.com/file/IBYRstHzBvbdgKjdJMCOF7/LandingPage-GetWork?type=design&node-id=0%3A3&mode=design&t=Lv20k0Frf2z0vmA0-1)
 - Enlace para acceder al figma Aplicación Web: [Ver enlace](https://www.figma.com/file/fBSQdNJJcBVnOnb3b6qj0t/Web-Application-GetWork?type=design&node-id=0%3A1&mode=design&t=ZWpSGbkUwjfRnrYe-1)
-
+- Enlace para acceder al video de explicación del [<u>Web ApplicationsPrototyping</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211817_upc_edu_pe/EZp3Qo0XnLdCoBRmMhmBUfIB7_6CEbss59x39MwdOPCSnw?e=NWa7dV)
 
 </div>
