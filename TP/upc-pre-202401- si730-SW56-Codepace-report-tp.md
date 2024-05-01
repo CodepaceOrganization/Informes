@@ -1830,11 +1830,59 @@ Sprint en trello: [Ver enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf777581
 
 **5.2.2.5.Execution Evidence for Sprint Review.**
 
+En el sprint 2 se alcanzó a implementra el desarrollo completo del despliegue de nuestra landing page. La cual muestra al usuario una interfaz llamativa donde puede vizualizar nuestra información como empresa, que servicio le ofrecemos, y demás información importante de nuestro startup. Ademas implementamos su versión responsive y tambien el inicio de sesión y Crear nueva cuenta.
+
+Lading page en español:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/b2a1b204-82f7-4b05-8cbc-ba76c08e6c0c)
+
+Servicios del startup:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/e6d3c8a7-47f1-467f-b962-ebbd49131b3d)
+
+Sobre nosotros:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/efafa8c0-9504-496f-b40b-5ed94ee793bd)
+
+Contactanos: 
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/40bf76ff-e8f8-43e7-bf6a-78a2f86472d4)
+
+Iniciar Sesión:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/b73cf240-afa7-42f3-b48a-4be4079c65c3)
+
+Crear Cuenta:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/18557c61-791c-4115-99e8-49af790b0d5c)
+
+Metodo responsive:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/57c338d8-f6a7-4809-bc2f-e9da3601e96e)
+
+
 **5.2.2.6.Services Documentation Evidence for Sprint Review.**
 
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
 **5.2.2.8.Team Collaboration Insights during Sprint.**
+| Alumno                             | Actividad                                                             |
+|------------------------------------|-----------------------------------------------------------------------|
+| Cruz Palomino, Adriano Sebastian   | Implementación de la sección Planes y Gestión de perfil de la web app |
+| Cachis Gonzales, Sebastian Nicolas | Implementación de la sección de Problems y derivados de la web app    |
+| Quispe Andia, Jeremy Joel          | Implementación de la sección simulacrum y tutors de la web app        |
+| Cabanillas Gora, Andrea Milagros   | Implementación de sección de Problems y derivados de la web app       |
+| Yauri Paucar, Elias                | Implementación de la sección Contest y derivados de la web app        |
+| Castillo Castillo, Alexander Jair  | Implementación de la sección Contest y derivados de la web app        |
+
+Repositorio Landing:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/575ffa4e-d4f6-4da9-8b67-6ce4e791eefc)
+
+Repositorio Web App:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/aeeb9d0b-9bd4-427a-9de1-172181125ff9)
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/73f85868-3e30-4938-8099-4c630903fb3f)
 
       
 **Conclusiones**
