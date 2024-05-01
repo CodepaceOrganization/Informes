@@ -1806,18 +1806,18 @@ Hemos desarrollado en conjunto un total de 38 commits para el desarrollo de nues
  
 Tabla para poder identificarnos:
 
-|Username (Github)                    | Nombre                                                  |
-      |-------------------------------------|------------------------------------------------------------|
-      | FlowerPowerA  | Cabanillas Gora, Andrea Milagros      |
-      | AdrianoSCruzP       | Cruz Palomino, Adriano Sebastian   |
-      | Jemisas      | Quispe Andia, Jeremy Joel      |
-      | Dark7YT 	| Cachis Gonzales, Sebastian Nicolas           |
-      | U202211390 | Castillo Castillo, Alexander Jair    |
-      | EliasYP  | Yauri Paucar, Elias |
+  |Username (Github)                    | Nombre                                                  |
+  |-------------------------------------|------------------------------------------------------------|
+  | FlowerPowerA  | Cabanillas Gora, Andrea Milagros      |
+  | AdrianoSCruzP       | Cruz Palomino, Adriano Sebastian   |
+  | Jemisas      | Quispe Andia, Jeremy Joel      |
+  | Dark7YT 	| Cachis Gonzales, Sebastian Nicolas           |
+  | U202211390 | Castillo Castillo, Alexander Jair    |
+  | EliasYP  | Yauri Paucar, Elias |
 
-      ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/713c0172-ed8c-4a00-85b3-5a28ce2b0106)
-      ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b06f9713-607c-4f7b-b801-78f06ab88b04)
-
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/713c0172-ed8c-4a00-85b3-5a28ce2b0106)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b06f9713-607c-4f7b-b801-78f06ab88b04)
+  
 **5.2.2. Sprint 2**
 
 **5.2.2.1.Sprint Planning 2.**
