@@ -1802,11 +1802,11 @@ Sprint en trello: [Ver enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf777581
       | Castillo Castillo, Alexander Jair| Implementación Form Contact |
 
  
-      Hemos desarrollado en conjunto un total de 38 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+Hemos desarrollado en conjunto un total de 38 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
  
-      Tabla para poder identificarnos:
+Tabla para poder identificarnos:
 
-      |Username (Github)                    | Nombre                                                  |
+|Username (Github)                    | Nombre                                                  |
       |-------------------------------------|------------------------------------------------------------|
       | FlowerPowerA  | Cabanillas Gora, Andrea Milagros      |
       | AdrianoSCruzP       | Cruz Palomino, Adriano Sebastian   |
@@ -1822,7 +1822,44 @@ Sprint en trello: [Ver enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf777581
 
 **5.2.2.1.Sprint Planning 2.**
 
+Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías             ágiles como Scrum. El           Sprint #2         tiene como fecha de inicio el 25/03/2024 y plantea elaborar una landing page atractiva para TripMate que capte la atención de los usuarios                 visitantes y comunique los principales                beneficios de nuestro        producto.
+
+| Sprint #2                          | **Sprint 2**                                                                                                                                                                                                                                                                                  |
+      |:-----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                               |
+      | Date                               | 25/03/2024                                                                                                                                                                                                                                                                                    |
+      | Time                               | 8:00 PM - 11:00 PM                                                                                                                                                                                                                                                                            |
+      | Location                           | Google Meet                                                                                                                                                                                                                                                                                   |
+      | **Prepared By**                    | Quispe Andia, Jeremy Joel                                                                                                                                                                                                                                                                     |
+      | Attendees                          | - Cachis Gonzales, Sebastian Nicolas (u202210846)<br>- Cruz Palomino, Adriano Sebastian (u202210697)<br>- Castillo Castillo, Alexander Jair (u202211390)<br>- Quispe Andia, Jeremy Joel (u202216279)<br>- Cabanillas Gora, Andrea Milagros (u202211711)<br>- Yauri Paucar, Elias (u202211817) |
+      | **Sprint 2 Review Summary**        | Diseño y desarrollo del FrontEnd de la Aplicación Web en Vue.JS                                                                                                                                                                                                                               |
+      | **Sprint 2 Retrospective Summary** | Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación de la aplicación web                                                                                                                                                                                   |
+      | **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                               |
+      | **Sprint 2 Goal**                  | Elaborar, diseñar y desplegar una Aplicacion Web atractiva para la aplicación GetWork, de acuerdo con el diseño de nustro Figma                                                                                                                                                               |
+      | **Sprint 2 Velocity**              | 15                                                                                                                                                                                                                                                                                            |
+      | **Sum of Story Points**            | 15                                                                                                                                                                                                                                                                                            |
+
 **5.2.2.2.Sprint Backlog 2.**
+
+|**Sprint 2**|**Sprint 2**||||                           |||
+| :- | :- | :- | :- | :- |:--------------------------| :- | :- |
+|**User Story**|**Work-Item / Task**||||                           |||
+|<p>** </p><p>**Id**</p>|<p>** </p><p>**Title**</p>|<p>** </p><p>**Id**</p>|<p>** </p><p>**Title**</p>|<p>** </p><p>**Description**</p>| **Estimation<br>(Hours)** |<p>** </p><p>**Assigned To**</p>|**Status(To do/In process/To review/Done)**|
+|US02|<p>**Realizar reserva**</p><p></p><p></p>|W01|Implementar el botón “reservar” en “tutors” para poder reservar tutorías.|Desarrollar en Webstorm El botón para poder realizar reservas.| 3                         |Jeremy Quispe|Done|
+|US05|**Visualización de calendario de entrevistas y anotaciones**|W02|Visualización de calendario de entrevistas y anotaciones|Diseñar e implementar un calendario interactivo que permita a los usuarios visualizar y gestionar sus entrevistas programadas, así como realizar anotaciones importantes relacionadas con las mismas.| 2                         |Sebastian Cachis|To review|
+|US08|<p>**Participación en GetWork Contest**</p><p></p><p></p>|W03|Participación en GetWork Contest|Preparar y participar en el concurso GetWork, una competencia que destaca las habilidades y el talento de los participantes en el campo de la tecnología y el desarrollo de software.| 1                         |<p>Jeremy</p><p>Quispe</p>|Done|
+|US11|<p>**Entrenamiento especializado en desarrollo de algoritmo**</p><p></p><p></p>|W04|Entrenamiento especializado en desarrollo de algoritmo|Ofrecer un programa de entrenamiento especializado centrado en el desarrollo y la optimización de algoritmos, con el objetivo de mejorar las habilidades de resolución de problemas de los participantes.| 3                         |<p>Alexander</p><p>Castillo</p>|Done|
+|US12|**Práctica de simulacros de entrevistas técnicas**|W05|Práctica de simulacros de entrevistas técnicas|Organizar y llevar a cabo sesiones de práctica de entrevistas técnicas simuladas, con el fin de ayudar a los candidatos a familiarizarse con el proceso y mejorar su desempeño en las entrevistas reales.| 2                         |` `Jeremy Quispe|Done|
+|US14|**Entrenamiento en resolución de problemas de lógica**|W06|Entrenamiento en resolución de problemas de lógica|Desarrollar una serie de desafíos y ejercicios de lógica y razonamiento para ayudar a los usuarios a mejorar sus habilidades de pensamiento crítico y resolución de problemas.| 3                         |Elias Yauri|Done|
+|US15|**Acceso a tutores especializados**|W07|Acceso a tutores especializados|Brindar a los usuarios acceso a una red de tutores especializados en una variedad de temas y materias, con el objetivo de ofrecer apoyo y orientación personalizada en sus áreas de interés.| 3                         |Elias Yauri|Done|
+|US16|**Planificación de estudio personalizado**|W08|Planificación de estudio personalizado|Diseñar una herramienta de planificación de estudios personalizada que permita a los usuarios crear horarios de estudio adaptados a sus necesidades individuales, maximizando su eficiencia y productividad.| 3                         |Adriano Cruz|Done|
+|US17|**Visualización de datos de usuario**|W09|Visualización de datos de usuario|Desarrollar funcionalidades para visualizar y analizar los datos del usuario de manera clara y concisa, proporcionando información valiosa sobre su progreso y rendimiento en la plataforma.| 3                         |Andrea Cabanillas|Done|
+|US18|**Simulacros de entrevistas en grupo**|W10|Simulacros de entrevistas en grupo|Proporcionar recursos y entrenamiento específico para ayudar a los usuarios a prepararse para entrevistas grupales, con el objetivo de mejorar su confianza y desempeño en este tipo de situaciones.| 2                         |Jeremy Quispe|Done|
+|<p></p><p>**US22**</p><p></p>|<p></p><p>**Entrenamiento en resolución de problemas de codificación en tiempo real**</p>|W11|<p></p><p>Entrenamiento en resolución de problemas de codificación en tiempo real</p>|Crear una serie de desafíos y ejercicios de codificación en tiempo real que permitan a los usuarios poner a prueba sus habilidades de programación y resolver problemas prácticos de manera efectiva.| 4                         |Jair Castillo|Done|
+|<p>US30</p><p></p><p></p>|**Evaluación de habilidades antes de la preparación**|W12|Evaluación de habilidades antes de la preparación|Realizar una evaluación exhaustiva de las habilidades y conocimientos previos de los usuarios, con el fin de identificar áreas de mejora y proporcionar recomendaciones personalizadas para su desarrollo profesional.| 2                         |Jeremy Quispe|<p>Done</p><p></p>|
+
+
+Sprint en trello: [Ver enlace](https://trello.com/invite/b/0VRSpXPE/ATTI56817f64b08d85f13a59c30f92ec2e57ED02F151/sprint-2)
 
 **5.2.2.3.Development Evidence for Sprint Review.**
 
