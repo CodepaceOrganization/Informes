@@ -1563,6 +1563,7 @@ Enlace para acceder al
     Implementación de GitFlow:
     
     ![image](https://github.com/CodepaceOrganization/Informes/assets/130623774/f2be5d26-18f7-4c6f-a51e-2a06e7579726)
+
     Ramas Principales:
 
     **Main:** Esta rama contiene la versión más estable y lista para producción de nuestro proyecto.
@@ -1864,7 +1865,41 @@ Sprint en trello: [Ver enlace](https://trello.com/invite/b/0VRSpXPE/ATTI56817f64
 
 **5.2.2.3.Development Evidence for Sprint Review.**
 
+| Repository                                            | Branch | Commit ID | Commit Message                                                                                                        | Commit Message Body | Commited On (Date) |
+|-------------------------------------------------------|--------|-----------|-----------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| Jemisas/ CodepaceOrganization /GetWork-Frontend       | Main   | bfcabeb   | Initial commit                                                                                                        | -                   | 23/04/2024         |
+| U202211390/ CodepaceOrganization /GetWork-Frontend    | Main   | f019b6d   | chore: added dependencies,added folder pages whit contest-content and home content,added folder router whit index.js. | -                   | 25/04/2024         |
+| EliasYP/ CodepaceOrganization /GetWork-Frontend       | Main   | e0e03d6   | change: moved the app.vue content to header-content.component.                                                        | -                   | 25/04/2024         |
+| EliasYP/ CodepaceOrganization /GetWork-Frontend       | Main   | 6b21d06   | feat: complete the toolbar and agregated content about problems.component                                             | -                   | 26/04/2024         |
+| Jemisas/ CodepaceOrganization /GetWork-Frontend       | Main   | 1b21930   | feat: added seection "Simulacrum"                                                                                     | -                   | 26/04/2024         |
+| FlowerpowerA/ CodepaceOrganization /GetWork-Frontend  | Main   | 769d7f2   | Update app.vue                                                                                                        | -                   | 27/04/2024         |
+| AdrianoSCruzP/ CodepaceOrganization /GetWork-Frontend | Main   | f217141   | feat: added technical-test-list                                                                                       | -                   | 29/04/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | a4265f5   | feat: added technical list study plan, technical test api, env's and server directory                                 | -                   | 29/04/2024         |
+| EliasYP/ CodepaceOrganization /GetWork-Frontend       | Main   | e23c820   | feat:added the contest section                                                                                        | -                   | 30/04/2024         |
+| AdrianoSCruzP/ CodepaceOrganization /GetWork-Frontend | Main   | 12f1189   | feat: added technical-test-detail                                                                                     | -                   | 30/04/2024         |
+| Jemisas/ CodepaceOrganization /GetWork-Frontend       | Main   | 2f12045   | feat: added tutors                                                                                                    | -                   | 30/04/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | 1a17c4f   | fix: fixed technical test detail list                                                                                 | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | 6bcfb5e   | Merge branch 'main' of https://github.com/CodepaceOrganization/GetWork-Frontend                                       | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | f12cbba   | style: added in technical test detail list and technical test detail card                                             | -                   | 01/05/2024         |
+
 **5.2.2.4.Testing Suite Evidence for Sprint Review.**
+
+| Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
+|------------------------------------------------|--------|-----------|--------------------------------------------------------------------------------------------|---------------------|--------------------|
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 8d63f1e   | fix: added US02 "Realizar reserva"                                                         | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 6bba898   | feat: added US05 "Visualización de calendario de entrevistas y anotaciones"                | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | d0f8ddb   | feat: added US08 "Participación en GetWork Contest"                                        | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 1f74f14   | feat: added US11 "Entrenamiento especializado en desarrollo de algoritmo"                  | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 6f5876c   | feat: added US12 "Práctica de simulacros de entrevistas técnicas"                          | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 152b7f3   | feat: added US14 "Entrenamiento en resolución de problemas de lógica"                      | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 23e7ebe   | feat: added US15 "Acceso a tutores especializados"                                         | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 1793a36   | feat: added US16 "Planificación de estudio personalizado"                                  | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 52bdc40   | feat: added US17 "Visualización de datos de usuario"                                       | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | c2e90bb   | feat: added US18 "Simulacros de entrevistas en grupo"                                      | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | b7a8590   | feat: added US22 "Entrenamiento en resolución de problemas de codificación en tiempo real" | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 926c3a1   | feat: added US30 "Evaluación de habilidades antes de la preparación"                       | -                   | 01/05/2024         |
+
+Link para visualizar los acceptance test elaborados en gherkin: [Ver enlace](https://github.com/CodepaceOrganization/Acceptance-Test)
 
 **5.2.2.5.Execution Evidence for Sprint Review.**
 
