@@ -56,6 +56,7 @@
 | 2.2       |  2024/03/22    | Quispe Andia, Jeremy Joel| Redacción de conclusiones, biblografía y anexos|
 | 2.3       |  2024/05/02    | Quispe Andia, Jeremy Joel|Elaboración de Sprint 2, Sprint Planning 2, Sprint Backlog 2 y el deployement de la Aplicación Web|
 | 2.4       |  2024/05/02    | Cachis Gonzales, Sebastian Nicolas | Elaboración de Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review.|
+| 1.3       |  2024/03/22    | Cabanillas Gora, Andrea Milagros|Elaboración de Services Documentation Evidence for Sprint Review |
 | 2.5       |  2024/05/02    | Yauri Paucar, Elias| Elaboración de Software Deployment Evidence for Sprint Review|
 | 2.6       |  2024/05/02     |  Castillo Castillo, Alexander Jair  |Elaboración de Team Collaboration Insights during Sprint|
 | 2.7       |  2024/05/02     | Cruz Palomino, Adriano Sebastian | Elaboración de Avance de Conclusiones, Bibliografía y Anexos.|
@@ -79,6 +80,24 @@ para cada integrante del equipo:
 Evidencias del Insights Contributos de los commits del informe:
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/f9afac6a-1133-4364-af91-3df3351cf313)
+
+**TP**
+Para el desarrollo del informe perteneciente a la entrega TP, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adriano Sebastian Cruz Palomino| Elaboración de Avance de Conclusiones, Bibliografía y Anexos.  |
+| Sebastian Nicolas Cachis Gonzales | Elaboración de Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review.|
+| Jeremy Joel Quispe Andia         |Elaboración de Sprint 2, Sprint Planning 2, Sprint Backlog 2 y el deployement de la Aplicación Web |
+| Andrea Milagros Cabanillas Gora    |Elaboración de Services Documentation Evidence for Sprint Review   |
+| Elias Yauri Paucar     |  Elaboración de Software Deployment Evidence for Sprint Review |
+| Alexander Jair Castillo Castillo     | Elaboración de Team Collaboration Insights during Sprint |
+
+Evidencias del Insights Contributos de los commits del informe:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/70eac177-d9bc-4b18-a112-28efd9e76e57)
+
 
 ### Tabla de contenidos
 - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
