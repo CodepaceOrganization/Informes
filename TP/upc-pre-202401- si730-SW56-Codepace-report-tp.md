@@ -1967,6 +1967,7 @@ Responsive:
 
 
 **5.2.2.6.Services Documentation Evidence for Sprint Review.**
+
 En el sprint 2 hicimos un enntregable con el landing page complento , en esta el usuario encuentra la informacion del producto y startup, tambien desarrollamos la app web, donde el usuario puede usar algunas funcionalidades.
 Para esta entrega hicimos la landing page y frontented , utilizamos un fake Api , primero trabajamos en un json server local y luego se implemento en My Json server.
 
