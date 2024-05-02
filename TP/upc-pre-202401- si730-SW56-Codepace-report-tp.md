@@ -1975,6 +1975,45 @@ Enlace My Json :  [Ver enlace](https://my-json-server.typicode.com/jemisas/APIS_
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/130100844/f9748cf0-b7f0-41cd-9e49-3cf2be076f7e)
 
+|**Endpoint**|**Details**|
+| :- | :- |
+|/tutors|Este endpoint podría usarse para mostrar una lista de todos los tutores disponibles para los estudiantes, junto con sus detalles, permitiendo a los estudiantes seleccionar un tutor y programar una sesión de tutoría en uno de los horarios disponibles.|
+|/ technical-tests-30-days-of|Devuelve una lista de programas de estudio de 30 días centrados en tecnologías específicas. Cada elemento de la lista contiene información sobre un programa, incluyendo su título, descripción y una imagen que lo representa|
+|/ technical-tests-study-plan|Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas. Cada plan de estudio incluye un título, una descripción y una imagen representativa.|
+|/ "details-3|Ofrece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio, como su descripción, dificultad, progreso y estado. El estado puede indicar si el ejercicio está en progreso, completado o si todavía no se ha comenzado. Además, el progreso puede indicar el nivel de finalización del ejercicio, y la dificultad proporciona una indicación de la complejidad del ejercicio.|
+|||
+|||
+|||
+![](Aspose.Words.506abd6a-ea3e-4496-87e8-e09871669337.001.png)
+
+
+![](Aspose.Words.506abd6a-ea3e-4496-87e8-e09871669337.002.png)![ref1]
+
+
+
+
+
+
+
+
+
+
+![ref1]
+
+![](Aspose.Words.506abd6a-ea3e-4496-87e8-e09871669337.004.png)
+
+
+
+
+
+
+
+
+
+
+[ref1]: Aspose.Words.506abd6a-ea3e-4496-87e8-e09871669337.003.png
+
+
 
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
