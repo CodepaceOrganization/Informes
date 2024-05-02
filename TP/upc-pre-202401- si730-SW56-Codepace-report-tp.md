@@ -1994,45 +1994,6 @@ Enlace My Json :  [Ver enlace](https://my-json-server.typicode.com/jemisas/APIS_
 
 
 
-
-
-<table><tr><th colspan="1" valign="top"><b>Endpoint</b></th><th colspan="1" valign="top"><b>Operaciones</b></th><th colspan="1" valign="top"><b>Parametros</b></th><th colspan="1" valign="top"><b>URL</b></th></tr>
-<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/bunkers/{id}</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p></p><p></p><p></p><p>Companies</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/companies</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/companies</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/companies/{id}</td></tr>
-<tr><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/companies/{id}</td></tr>
-<tr><td colspan="1" valign="top">CompanyEmployees</td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">{companyId}</td><td colspan="1" valign="top">api/v1/companies/{comapnyId}/employees</td></tr>
-<tr><td colspan="1" valign="top">CropPhases</td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">{phaseId}</td><td colspan="1" valign="top">api/v1/phases/{phaseId}/crops</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p></p><p></p><p></p><p>Crops</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/crops</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/crops</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/crops/{id}</td></tr>
-<tr><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/crops/{id}</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p></p><p></p><p></p><p>Employees</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/employees</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/employees</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/employees/{id}</td></tr>
-<tr><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/employees/{id}</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p></p><p></p><p></p><p>Formulas</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/formulas</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/formulas</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/formulas/{id}</td></tr>
-<tr><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/forumals/{id}</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p></p><p></p><p></p><p>GrowRoomRecords</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/growroomrecords</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/growroomrecords</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/growroomrecord/{id}</td></tr>
-<tr><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/growroomrecords/{id}</td></tr>
-<tr><td colspan="1" rowspan="2" valign="top"><p></p><p>Phases</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/phases</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/phases/{id}</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p></p><p></p><p></p><p>PreparationAreas</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/preparationareas</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/preparationareas</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/preparationareas/{id}</td></tr>
-<tr><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/preparationareas/{id}</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p></p><p></p><p></p><p>Tunnels</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/tunnels</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">api/v1/tunnels</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/tunnels/{id}</td></tr>
-<tr><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/tunnels/{id}</td></tr>
-</table>
-
-
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
 Para este entregable hemos hecho uso de uno de los recursos del curso, "Firebase", con ella pudimos desplegar nuestra Aplicación Web, la cual ofrece distintos enrutamientos y muestra secciones prinicipales de nuestro proyecto.
