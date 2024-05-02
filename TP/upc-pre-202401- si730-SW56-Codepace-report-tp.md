@@ -1830,35 +1830,37 @@ Sprint en trello: [Ver enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf777581
 
 **5.2.2.5.Execution Evidence for Sprint Review.**
 
-En el sprint 2 se alcanzó a implementra el desarrollo completo del despliegue de nuestra landing page. La cual muestra al usuario una interfaz llamativa donde puede vizualizar nuestra información como empresa, que servicio le ofrecemos, y demás información importante de nuestro startup. Ademas implementamos su versión responsive y tambien el inicio de sesión y Crear nueva cuenta.
+En el sprint 2 se alcanzó a implementra el desarrollo completo del despliegue de nuestra app web. La cual muestra al usuario una interfaz llamativa donde puede vizualizar nuestras diferentes secciones donde podra realizar practicas de codificación, simulacro de entrevistas, etc.
 
-Lading page en español:
+Sección Technical Tests:
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/b2a1b204-82f7-4b05-8cbc-ba76c08e6c0c)
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/cc06cbd0-ee61-4286-9b91-618fb63e3444)
 
-Servicios del startup:
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/63335c9a-9619-4fa3-9da7-30ad9adad485)
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/e6d3c8a7-47f1-467f-b962-ebbd49131b3d)
+Sección Contest:
 
-Sobre nosotros:
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/143aaee5-0a61-4fd1-9cad-429851091ad0)
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/efafa8c0-9504-496f-b40b-5ed94ee793bd)
+Sección Simulacrum:
 
-Contactanos: 
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/62800727-4d37-4884-9a6c-e4cfce0e85c1)
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/40bf76ff-e8f8-43e7-bf6a-78a2f86472d4)
+Sección Tutors:
 
-Iniciar Sesión:
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/9a29ae85-ddbb-4fab-9268-0d7c4e4678b9)
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/b73cf240-afa7-42f3-b48a-4be4079c65c3)
+Sección User:
 
-Crear Cuenta:
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/247b1980-c753-4021-bad6-be5175977fa9)
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/18557c61-791c-4115-99e8-49af790b0d5c)
+Sección Premium:
 
-Metodo responsive:
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/ac5d3c5b-82f6-426d-a4cb-56a32d6d1e21)
 
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/57c338d8-f6a7-4809-bc2f-e9da3601e96e)
+Responsive: 
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/ae16f66d-a3b5-473a-ba60-a3fc7bc7f55f)
 
 
 **5.2.2.6.Services Documentation Evidence for Sprint Review.**
@@ -1874,10 +1876,6 @@ Metodo responsive:
 | Cabanillas Gora, Andrea Milagros   | Implementación de sección de Problems y derivados de la web app       |
 | Yauri Paucar, Elias                | Implementación de la sección Contest y derivados de la web app        |
 | Castillo Castillo, Alexander Jair  | Implementación de la sección Contest y derivados de la web app        |
-
-Repositorio Landing:
-
-![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/575ffa4e-d4f6-4da9-8b67-6ce4e791eefc)
 
 Repositorio Web App:
 
