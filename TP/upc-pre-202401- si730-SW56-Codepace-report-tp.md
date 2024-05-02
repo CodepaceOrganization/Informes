@@ -1939,6 +1939,7 @@ Sección Technical Tests:
 
 Sección Contest:
 
+
 ![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/143aaee5-0a61-4fd1-9cad-429851091ad0)
 
 Sección Simulacrum:
@@ -1963,6 +1964,17 @@ Responsive:
 
 
 **5.2.2.6.Services Documentation Evidence for Sprint Review.**
+En el sprint 2 hicimos un enntregable con el landing page complento , en esta el usuario encuentra la informacion del producto y startup, tambien desarrollamos la app web, donde el usuario puede usar algunas funcionalidades.
+Para esta entrega hicimos la landing page y frontented , utilizamos un fake Api , primero trabajamos en un json server local y luego se implemento en My Json server.
+
+Enlace My Json :  [Ver enlace](https://my-json-server.typicode.com/jemisas/APIS_AppWeb) [Ver enlace](https://my-json-server.typicode.com/Dark7YT/CodepaceOrganization-SW56) 
+
+**README.md**
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130100844/4afe6d86-4b2e-4f20-8b3d-b7471b2ab8ac)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130100844/f9748cf0-b7f0-41cd-9e49-3cf2be076f7e)
+
 
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
