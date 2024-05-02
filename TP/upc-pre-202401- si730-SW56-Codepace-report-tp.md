@@ -1940,6 +1940,18 @@ Responsive:
 
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
+Para este entregable hemos hecho uso de uno de los recursos del curso, "Firebase", con ella pudimos desplegar nuestra Aplicación Web, la cual ofrece distintos enrutamientos y muestra secciones prinicipales de nuestro proyecto.
+
+Dashboard de Firebase:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/370a7495-61bb-4f97-9a4a-ce49c3d208b0)
+
+Evidencia de la aplicación desplegada:
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/c5c66d6f-fc6f-4c07-a569-9e9d80d614b4)
+
+
+
 **5.2.2.8.Team Collaboration Insights during Sprint.**
 | Alumno                             | Actividad                                                             |
 |------------------------------------|-----------------------------------------------------------------------|
@@ -1996,7 +2008,7 @@ La documentación detallada generada durante el Sprint, incluyendo informes de d
 
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
-- Enlace para acceder la aplicación web: [NO aplica este entregable]()
+- Enlace para acceder la aplicación web: [Ver enlace](https://getwork-1b139.web.app/technical-tests)
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EaamMTLNLXFIkqSN91zWbcoB50FCtcaRcFfin2Tb9V2gkA?e=eoOsSh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video exposición TB1: [Ver enlace](https://upcedupe-my.sharepoint.com/personal/u202210846_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210846%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2D%20si730%2DSW56%2DGetWork%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/CodepaceOrganization/GetWork-LandingPage/tree/develop)
