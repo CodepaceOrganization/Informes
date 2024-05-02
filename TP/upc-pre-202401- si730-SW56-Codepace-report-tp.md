@@ -1563,6 +1563,7 @@ Enlace para acceder al
     Implementación de GitFlow:
     
     ![image](https://github.com/CodepaceOrganization/Informes/assets/130623774/f2be5d26-18f7-4c6f-a51e-2a06e7579726)
+
     Ramas Principales:
 
     **Main:** Esta rama contiene la versión más estable y lista para producción de nuestro proyecto.
@@ -1802,31 +1803,103 @@ Sprint en trello: [Ver enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf777581
       | Castillo Castillo, Alexander Jair| Implementación Form Contact |
 
  
-      Hemos desarrollado en conjunto un total de 38 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+Hemos desarrollado en conjunto un total de 38 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
  
-      Tabla para poder identificarnos:
+Tabla para poder identificarnos:
 
-      |Username (Github)                    | Nombre                                                  |
-      |-------------------------------------|------------------------------------------------------------|
-      | FlowerPowerA  | Cabanillas Gora, Andrea Milagros      |
-      | AdrianoSCruzP       | Cruz Palomino, Adriano Sebastian   |
-      | Jemisas      | Quispe Andia, Jeremy Joel      |
-      | Dark7YT 	| Cachis Gonzales, Sebastian Nicolas           |
-      | U202211390 | Castillo Castillo, Alexander Jair    |
-      | EliasYP  | Yauri Paucar, Elias |
+  |Username (Github)                    | Nombre                                                  |
+  |-------------------------------------|------------------------------------------------------------|
+  | FlowerPowerA  | Cabanillas Gora, Andrea Milagros      |
+  | AdrianoSCruzP       | Cruz Palomino, Adriano Sebastian   |
+  | Jemisas      | Quispe Andia, Jeremy Joel      |
+  | Dark7YT 	| Cachis Gonzales, Sebastian Nicolas           |
+  | U202211390 | Castillo Castillo, Alexander Jair    |
+  | EliasYP  | Yauri Paucar, Elias |
 
-      ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/713c0172-ed8c-4a00-85b3-5a28ce2b0106)
-      ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b06f9713-607c-4f7b-b801-78f06ab88b04)
-
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/713c0172-ed8c-4a00-85b3-5a28ce2b0106)
+  ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/b06f9713-607c-4f7b-b801-78f06ab88b04)
+  
 **5.2.2. Sprint 2**
 
 **5.2.2.1.Sprint Planning 2.**
 
+Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías             ágiles como Scrum. El           Sprint #2         tiene como fecha de inicio el 25/03/2024 y plantea elaborar una landing page atractiva para TripMate que capte la atención de los usuarios                 visitantes y comunique los principales                beneficios de nuestro        producto.
+
+| Sprint #2                          | **Sprint 2**                                                                                                                                                                                                      |
+|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |                                                                                                                                                                                                                   |
+| Date                               | 25/03/2024                                                                                                                                                                                                        |
+| Time                               | 8:00 PM - 11:00 PM                                                                                                                                                                                                |
+| Location                           | Google Meet                                                                                                                                                                                                       |
+| **Prepared By**                    | Quispe Andia, Jeremy Joel                                                                                                                                                                                        |
+| Attendees                          | - Cachis Gonzales, Sebastian Nicolas (u202210846)<br>- Cruz Palomino, Adriano Sebastian (u202210697)<br>- Castillo Castillo, Alexander Jair (u202211390)<br>- Quispe Andia, Jeremy Joel (u202216279)<br>- Cabanillas Gora, Andrea Milagros (u202211711)<br>- Yauri Paucar, Elias (u202211817) |
+| **Sprint 2 Review Summary**        | Diseño y desarrollo del FrontEnd de la Aplicación Web en Vue.JS                                                                                                                                                  |
+| **Sprint 2 Retrospective Summary** | Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación de la aplicación web                                                                                                      |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                   |
+| **Sprint 2 Goal**                  | Elaborar, diseñar y desplegar una Aplicacion Web atractiva para la aplicación GetWork, de acuerdo con el diseño de nustro Figma                                                                                  |
+| **Sprint 2 Velocity**              | 15                                                                                                                                                                                                                |
+| **Sum of Story Points**            | 15                                                                                                                                                                                                                |
+
+
 **5.2.2.2.Sprint Backlog 2.**
+
+|**Sprint 2**|**Sprint 2**||||                           |||
+| :- | :- | :- | :- | :- |:--------------------------| :- | :- |
+|**User Story**|**Work-Item / Task**||||                           |||
+|<p>** </p><p>**Id**</p>|<p>** </p><p>**Title**</p>|<p>** </p><p>**Id**</p>|<p>** </p><p>**Title**</p>|<p>** </p><p>**Description**</p>| **Estimation<br>(Hours)** |<p>** </p><p>**Assigned To**</p>|**Status(To do/In process/To review/Done)**|
+|US02|<p>**Realizar reserva**</p><p></p><p></p>|W01|Implementar el botón “reservar” en “tutors” para poder reservar tutorías.|Desarrollar en Webstorm El botón para poder realizar reservas.| 3                         |Jeremy Quispe|Done|
+|US05|**Visualización de calendario de entrevistas y anotaciones**|W02|Visualización de calendario de entrevistas y anotaciones|Diseñar e implementar un calendario interactivo que permita a los usuarios visualizar y gestionar sus entrevistas programadas, así como realizar anotaciones importantes relacionadas con las mismas.| 2                         |Sebastian Cachis|To review|
+|US08|<p>**Participación en GetWork Contest**</p><p></p><p></p>|W03|Participación en GetWork Contest|Preparar y participar en el concurso GetWork, una competencia que destaca las habilidades y el talento de los participantes en el campo de la tecnología y el desarrollo de software.| 1                         |<p>Jeremy</p><p>Quispe</p>|Done|
+|US11|<p>**Entrenamiento especializado en desarrollo de algoritmo**</p><p></p><p></p>|W04|Entrenamiento especializado en desarrollo de algoritmo|Ofrecer un programa de entrenamiento especializado centrado en el desarrollo y la optimización de algoritmos, con el objetivo de mejorar las habilidades de resolución de problemas de los participantes.| 3                         |<p>Alexander</p><p>Castillo</p>|Done|
+|US12|**Práctica de simulacros de entrevistas técnicas**|W05|Práctica de simulacros de entrevistas técnicas|Organizar y llevar a cabo sesiones de práctica de entrevistas técnicas simuladas, con el fin de ayudar a los candidatos a familiarizarse con el proceso y mejorar su desempeño en las entrevistas reales.| 2                         |` `Jeremy Quispe|Done|
+|US14|**Entrenamiento en resolución de problemas de lógica**|W06|Entrenamiento en resolución de problemas de lógica|Desarrollar una serie de desafíos y ejercicios de lógica y razonamiento para ayudar a los usuarios a mejorar sus habilidades de pensamiento crítico y resolución de problemas.| 3                         |Elias Yauri|Done|
+|US15|**Acceso a tutores especializados**|W07|Acceso a tutores especializados|Brindar a los usuarios acceso a una red de tutores especializados en una variedad de temas y materias, con el objetivo de ofrecer apoyo y orientación personalizada en sus áreas de interés.| 3                         |Elias Yauri|Done|
+|US16|**Planificación de estudio personalizado**|W08|Planificación de estudio personalizado|Diseñar una herramienta de planificación de estudios personalizada que permita a los usuarios crear horarios de estudio adaptados a sus necesidades individuales, maximizando su eficiencia y productividad.| 3                         |Adriano Cruz|Done|
+|US17|**Visualización de datos de usuario**|W09|Visualización de datos de usuario|Desarrollar funcionalidades para visualizar y analizar los datos del usuario de manera clara y concisa, proporcionando información valiosa sobre su progreso y rendimiento en la plataforma.| 3                         |Andrea Cabanillas|Done|
+|US18|**Simulacros de entrevistas en grupo**|W10|Simulacros de entrevistas en grupo|Proporcionar recursos y entrenamiento específico para ayudar a los usuarios a prepararse para entrevistas grupales, con el objetivo de mejorar su confianza y desempeño en este tipo de situaciones.| 2                         |Jeremy Quispe|Done|
+|<p></p><p>**US22**</p><p></p>|<p></p><p>**Entrenamiento en resolución de problemas de codificación en tiempo real**</p>|W11|<p></p><p>Entrenamiento en resolución de problemas de codificación en tiempo real</p>|Crear una serie de desafíos y ejercicios de codificación en tiempo real que permitan a los usuarios poner a prueba sus habilidades de programación y resolver problemas prácticos de manera efectiva.| 4                         |Jair Castillo|Done|
+|<p>US30</p><p></p><p></p>|**Evaluación de habilidades antes de la preparación**|W12|Evaluación de habilidades antes de la preparación|Realizar una evaluación exhaustiva de las habilidades y conocimientos previos de los usuarios, con el fin de identificar áreas de mejora y proporcionar recomendaciones personalizadas para su desarrollo profesional.| 2                         |Jeremy Quispe|<p>Done</p><p></p>|
+
+
+Sprint en trello: [Ver enlace](https://trello.com/invite/b/0VRSpXPE/ATTI56817f64b08d85f13a59c30f92ec2e57ED02F151/sprint-2)
 
 **5.2.2.3.Development Evidence for Sprint Review.**
 
+| Repository                                            | Branch | Commit ID | Commit Message                                                                                                        | Commit Message Body | Commited On (Date) |
+|-------------------------------------------------------|--------|-----------|-----------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| Jemisas/ CodepaceOrganization /GetWork-Frontend       | Main   | bfcabeb   | Initial commit                                                                                                        | -                   | 23/04/2024         |
+| U202211390/ CodepaceOrganization /GetWork-Frontend    | Main   | f019b6d   | chore: added dependencies,added folder pages whit contest-content and home content,added folder router whit index.js. | -                   | 25/04/2024         |
+| EliasYP/ CodepaceOrganization /GetWork-Frontend       | Main   | e0e03d6   | change: moved the app.vue content to header-content.component.                                                        | -                   | 25/04/2024         |
+| EliasYP/ CodepaceOrganization /GetWork-Frontend       | Main   | 6b21d06   | feat: complete the toolbar and agregated content about problems.component                                             | -                   | 26/04/2024         |
+| Jemisas/ CodepaceOrganization /GetWork-Frontend       | Main   | 1b21930   | feat: added seection "Simulacrum"                                                                                     | -                   | 26/04/2024         |
+| FlowerpowerA/ CodepaceOrganization /GetWork-Frontend  | Main   | 769d7f2   | Update app.vue                                                                                                        | -                   | 27/04/2024         |
+| AdrianoSCruzP/ CodepaceOrganization /GetWork-Frontend | Main   | f217141   | feat: added technical-test-list                                                                                       | -                   | 29/04/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | a4265f5   | feat: added technical list study plan, technical test api, env's and server directory                                 | -                   | 29/04/2024         |
+| EliasYP/ CodepaceOrganization /GetWork-Frontend       | Main   | e23c820   | feat:added the contest section                                                                                        | -                   | 30/04/2024         |
+| AdrianoSCruzP/ CodepaceOrganization /GetWork-Frontend | Main   | 12f1189   | feat: added technical-test-detail                                                                                     | -                   | 30/04/2024         |
+| Jemisas/ CodepaceOrganization /GetWork-Frontend       | Main   | 2f12045   | feat: added tutors                                                                                                    | -                   | 30/04/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | 1a17c4f   | fix: fixed technical test detail list                                                                                 | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | 6bcfb5e   | Merge branch 'main' of https://github.com/CodepaceOrganization/GetWork-Frontend                                       | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /GetWork-Frontend       | Main   | f12cbba   | style: added in technical test detail list and technical test detail card                                             | -                   | 01/05/2024         |
+
 **5.2.2.4.Testing Suite Evidence for Sprint Review.**
+
+| Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
+|------------------------------------------------|--------|-----------|--------------------------------------------------------------------------------------------|---------------------|--------------------|
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 8d63f1e   | fix: added US02 "Realizar reserva"                                                         | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 6bba898   | feat: added US05 "Visualización de calendario de entrevistas y anotaciones"                | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | d0f8ddb   | feat: added US08 "Participación en GetWork Contest"                                        | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 1f74f14   | feat: added US11 "Entrenamiento especializado en desarrollo de algoritmo"                  | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 6f5876c   | feat: added US12 "Práctica de simulacros de entrevistas técnicas"                          | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 152b7f3   | feat: added US14 "Entrenamiento en resolución de problemas de lógica"                      | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 23e7ebe   | feat: added US15 "Acceso a tutores especializados"                                         | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 1793a36   | feat: added US16 "Planificación de estudio personalizado"                                  | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 52bdc40   | feat: added US17 "Visualización de datos de usuario"                                       | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | c2e90bb   | feat: added US18 "Simulacros de entrevistas en grupo"                                      | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | b7a8590   | feat: added US22 "Entrenamiento en resolución de problemas de codificación en tiempo real" | -                   | 01/05/2024         |
+| Dark7YT/ CodepaceOrganization /Acceptance-Test | Main   | 926c3a1   | feat: added US30 "Evaluación de habilidades antes de la preparación"                       | -                   | 01/05/2024         |
+
+Link para visualizar los acceptance test elaborados en gherkin: [Ver enlace](https://github.com/CodepaceOrganization/Acceptance-Test)
 
 **5.2.2.5.Execution Evidence for Sprint Review.**
 
