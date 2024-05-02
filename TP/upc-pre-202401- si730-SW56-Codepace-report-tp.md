@@ -1970,6 +1970,9 @@ En conlusión, el proyecto "GetWork" de CodePace representa una solución innova
 
 **TP:**
 
+El Sprint 2 demostró ser un periodo de alta productividad y eficiencia para nuestro equipo, ya que logramos completar el desarrollo del FrontEnd de la aplicación web GetWork según lo planeado. Desde la implementación del botón de reserva hasta la creación de secciones como los simulacros de entrevistas técnicas y el acceso a tutores especializados, cada miembro del equipo contribuyó significativamente al avance del proyecto. La colaboración efectiva se reflejó en la entrega exitosa de todas las User Stories asignadas, que abordaron funcionalidades clave como la reserva de tutorías, la visualización de calendarios de entrevistas y la participación en concursos. Todas estas características están diseñadas para mejorar la experiencia del usuario y ofrecer un valor añadido a la plataforma GetWork.
+
+La documentación detallada generada durante el Sprint, incluyendo informes de desarrollo y evidencia de despliegue, facilitó una comprensión clara y completa del trabajo realizado. Esta presentación estructurada y transparente de los resultados del Sprint, que incluyó evidencia visual de la aplicación web en funcionamiento, proporcionó una representación tangible y convincente del progreso logrado. En conjunto, el Sprint 2 estableció una base sólida para el éxito del proyecto GetWork, asegurando que la aplicación web sea atractiva, funcional y satisfactoria para sus usuarios.
 
 **Bibliografía**
 
