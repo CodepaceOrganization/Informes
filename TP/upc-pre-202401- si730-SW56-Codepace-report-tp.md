@@ -1985,6 +1985,16 @@ Enlace My Json :  [Ver enlace](https://my-json-server.typicode.com/jemisas/APIS_
 |/ technical-tests-study-plan|Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas. Cada plan de estudio incluye un título, una descripción y una imagen representativa.|
 |/ "details-3|Ofrece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio, como su descripción, dificultad, progreso y estado. El estado puede indicar si el ejercicio está en progreso, completado o si todavía no se ha comenzado. Además, el progreso puede indicar el nivel de finalización del ejercicio, y la dificultad proporciona una indicación de la complejidad del ejercicio.|
 
+<table><tr><th colspan="1" valign="top"><b>Endpoint</b></th><th colspan="1" valign="top"><b>Operaciones</b></th><th colspan="1" valign="top"><b>Parametros</b></th><th colspan="1" valign="top"><b>URL</b></th></tr>
+<tr><td colspan="1" rowspan="4" valign="top"><p>Tutors ´</p><p>technical-tests-30-days-of</p><p></p><p></p><p>technical-tests-study-plan</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
+<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">`          `{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
+<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors/{id}</td></tr>
+<tr><td colspan="3" valign="top"></td></tr>
+</table>
+
+
+
+
 
 <table><tr><th colspan="1" valign="top"><b>Endpoint</b></th><th colspan="1" valign="top"><b>Operaciones</b></th><th colspan="1" valign="top"><b>Parametros</b></th><th colspan="1" valign="top"><b>URL</b></th></tr>
 <tr><td colspan="1" valign="top"></td><td colspan="1" valign="top">DELETE</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">api/v1/bunkers/{id}</td></tr>
