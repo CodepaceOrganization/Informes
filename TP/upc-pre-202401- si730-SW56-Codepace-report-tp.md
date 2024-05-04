@@ -102,7 +102,7 @@ Evidencias del Insights Contributos de los commits del informe:
 ### Tabla de contenidos
 - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
   
-  - 1.1. [Startup Profile(#1.1. Startup Profile)]
+  - 1.1. [Startup Profile]
   
   - 1.1.1. Descripción de la Startup
   
