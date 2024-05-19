@@ -2024,7 +2024,134 @@ Repositorio Web App:
 ![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/aeeb9d0b-9bd4-427a-9de1-172181125ff9)
 ![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/73f85868-3e30-4938-8099-4c630903fb3f)
 
-      
+5.3. Validation Interviews
+
+En la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar nuestra plataforma, CodePace, para optimizar la preparación de programadores para entrevistas técnicas en empresas de tecnología. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios clave: los programadores en busca de empleo y los reclutadores técnicos. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la plataforma no solo cumpla con los estándares técnicos, sino que también resuene con las dinámicas operativas y las expectativas de nuestros usuarios. Estas entrevistas nos permiten entender mejor las necesidades y desafíos de los programadores en su preparación para entrevistas técnicas, así como las expectativas de los reclutadores en términos de habilidades y competencias, de esta manera, aseguramos que CodePace no solo sea una herramienta eficiente y efectiva para mejorar las habilidades de codificación y la preparación para entrevistas, sino que también se alinee perfectamente con las realidades del proceso de contratación en la industria tecnológica.a. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
+
+5.3.1. Diseño de Entrevistas
+Dentro de esta sección, se detalla los objetivos de usuario específicos que orientan nuestras entrevistas. Estos 'user goals' son cruciales para garantizar que la plataforma web cumpla con las exigencias de los usuarios.
+
+
+**User Goal: Mejora de habilidades de codificación**
+
+User persona: Desarrolladores o estudiantes de programacion
+
+Los usuarios buscan mejorar sus habilidades de codificación a través de ejercicios prácticos y tutoriales interactivos. 
+Este objetivo se enfoca en identificar los tipos de ejercicios y lenguajes de programación más relevantes y útiles para los usuarios, asegurando que la plataforma proporcione prácticas efectivas y alineadas con las necesidades del mercado
+
+**User Goal:Preparación efectiva para entrevistas técnicas**
+
+
+User persona: Estudiantes de software o sistemas o desarrolladores
+
+Los usuarios necesitan prepararse de manera efectiva para entrevistas técnicas, incluyendo preguntas comunes y estrategias de resolución de problemas. 
+Este objetivo guía nuestras entrevistas para identificar las áreas temáticas más desafiantes y las formas más efectivas de practicar y evaluar el conocimiento de los usuarios, facilitando una preparación integral
+
+
+**User Goal:Simulacros de entrevistas en vivo**
+
+User persona: programadores , estudiates de software o sistemas de ciclos avanzados
+
+Los usuarios quieren practicar entrevistas en un entorno realista con expertos para ganar confianza y recibir retroalimentación constructiva.
+Este objetivo se centra en evaluar la calidad y utilidad de las sesiones de simulacro actuales y explorar cómo podrían mejorarse para ofrecer una experiencia más enriquecedora y realista.
+
+
+**User Goal:Acceso a contenido exclusivo y oportunidades de reclutamiento**
+
+Usee persona: Desarrolladores o estudiantes de programacion
+
+Los usuarios buscan tener acceso a contenido exclusivo que no esté disponible en otros lugares y a oportunidades de reclutamiento con empresas de tecnología.
+Este objetivo implica recopilar opiniones sobre el tipo de contenido exclusivo más valorado y cómo CodePace puede facilitar mejor las oportunidades de empleo, conectando a los usuarios con reclutadores.
+
+
+**User Goal:Interfaz de usuario intuitiva y experiencia de usuario optimizada**
+
+Usee persona: Programadores autodidactas y estudiantes de software 
+
+Los usuarios prefieren una plataforma que sea fácil de navegar y que ofrezca una experiencia de usuario sin complicaciones. 
+Este objetivo guía nuestras entrevistas para recoger comentarios sobre la usabilidad actual de la plataforma y sugerencias para mejorar la navegación y la experiencia general del usuario, garantizando una interacción fluida y satisfactoria.
+
+
+5.3.2. Registro de Entrevistas
+
+Primer segmento objetivo (Desarrolladores)
+
+Entrevista 1:
+
+
+
+Entrevista 2:
+
+
+Entrevista 3:
+
+
+
+
+Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
+
+
+Entrevista 1:
+
+
+
+Entrevista 2:
+
+
+Entrevista 3:
+
+
+
+
+
+
+
+
+
+
+5.3.3 Evaluaciones segun heuristicas
+
+SITE o APP A EVALUAR:
+
+**CodePce**
+
+Meta: Encontrar problemas existentes en la aplicación web CodePace 
+Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen
+
+**TAREAS A EVALUAR:**
+1. Desktop landing page
+  
+1. Información y descripción de la aplicación y sus funcionalidades
+2. Visualización de planes de pago y precio de la aplicación
+3. Header y footer apropiado para la landing page
+4. Interacción del landing page con la aplicación
+   
+2. Web Application
+   
+1. Inicio de sesión con usuario existente
+2. Indicadores claros de progreso o estado del proceso
+3. Iconografía comprensible y consistente con el mundo real
+4. Mensajes de error que reflejen el registro de datos incorrectos
+5. Acciones de retroceso dentro de la aplicación
+6. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+7. Evaluar existencia de patrones de diseño o navegación
+8. Elementos de la interfaz de usuario consistentes
+9. Pestañas de navegación dentro de la aplicación
+10. Botones interactivos y de uso intuitivo
+11. Búsqueda de procesos y cultivos con registro previo
+12. Navegación y orientación dentro de la aplicación
+13. Apertura y visualización de cultivos registrados
+14. Visualización de perfil de usuario
+15. Visualización del perfil de la empresa
+16. Mensajes que orienten al usuario sobre el estado del sistema
+17. Cambio de idioma de la aplicación
+18. Estética general de la interfaz atractiva y agradable visualmente
+
+
+ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+
 **Conclusiones**
 
 **TB1:**
