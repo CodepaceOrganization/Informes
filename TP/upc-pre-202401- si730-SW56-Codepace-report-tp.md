@@ -2024,11 +2024,11 @@ Repositorio Web App:
 ![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/aeeb9d0b-9bd4-427a-9de1-172181125ff9)
 ![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/73f85868-3e30-4938-8099-4c630903fb3f)
 
-5.3. Validation Interviews
+**5.3. Validation Interviews**
 
 En la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar nuestra plataforma, CodePace, para optimizar la preparación de programadores para entrevistas técnicas en empresas de tecnología. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios clave: los programadores en busca de empleo y los reclutadores técnicos. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la plataforma no solo cumpla con los estándares técnicos, sino que también resuene con las dinámicas operativas y las expectativas de nuestros usuarios. Estas entrevistas nos permiten entender mejor las necesidades y desafíos de los programadores en su preparación para entrevistas técnicas, así como las expectativas de los reclutadores en términos de habilidades y competencias, de esta manera, aseguramos que CodePace no solo sea una herramienta eficiente y efectiva para mejorar las habilidades de codificación y la preparación para entrevistas, sino que también se alinee perfectamente con las realidades del proceso de contratación en la industria tecnológica.a. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
 
-5.3.1. Diseño de Entrevistas
+**5.3.1. Diseño de Entrevistas**
 Dentro de esta sección, se detalla los objetivos de usuario específicos que orientan nuestras entrevistas. Estos 'user goals' son cruciales para garantizar que la plataforma web cumpla con las exigencias de los usuarios.
 
 
@@ -2072,7 +2072,7 @@ Los usuarios prefieren una plataforma que sea fácil de navegar y que ofrezca un
 Este objetivo guía nuestras entrevistas para recoger comentarios sobre la usabilidad actual de la plataforma y sugerencias para mejorar la navegación y la experiencia general del usuario, garantizando una interacción fluida y satisfactoria.
 
 
-5.3.2. Registro de Entrevistas
+**5.3.2. Registro de Entrevistas**
 
 Primer segmento objetivo (Desarrolladores)
 
@@ -2109,7 +2109,7 @@ Entrevista 3:
 
 
 
-5.3.3 Evaluaciones segun heuristicas
+**5.3.3 Evaluaciones segun heuristicas**
 
 SITE o APP A EVALUAR:
 
