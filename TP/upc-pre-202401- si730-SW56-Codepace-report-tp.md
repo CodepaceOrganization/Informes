@@ -2182,7 +2182,15 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |             |                                                                                                             | 
 
 
+TABLA RESUMEN:
 
+|  #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
+ |------------|--------|-----------|---------------------|--------------------|
+ | Develop | feature/Crop |  57f718e | feat(calendar): calendar now reflects the weather|
+ | Develop | feature/Consultancy | 64edfb5 | feat(consultancy/model): create crop and notification entities |
+ | Develop | feature/Farmer | 26999f1 | feat(finance.component): added lists of collections and payments to s… | 
+ | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management| 
+ 
 
 
 
