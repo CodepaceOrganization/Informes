@@ -2113,7 +2113,7 @@ Primer segmento objetivo (Desarrolladores)
 |----------|---------|
 | Opinion  |         | 
 | Tiempo   |  4 min  |
-| Location |   https://files.fm/u/yuhm6f4rhn |
+| Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F19%5F06%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E91b7abd1%2Dc459%2D4747%2Db5df%2D2d27ed3e85fa|
 
 
 
