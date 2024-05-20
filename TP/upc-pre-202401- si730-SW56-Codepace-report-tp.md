@@ -2089,9 +2089,9 @@ Entrevista 1:
 
 | Entrevistado 1 | Gustavo poma |
 |----------|---------|
-| | Sprint Planning Background |
-| Date | 2024-04-09 |
-| Location | Reunión virtual a través de google meet |
+| | Opinion | 
+| Tiempo | 5 min |
+| Location |  https://files.fm/u/rsx3hqmjhr |
 
 
 
