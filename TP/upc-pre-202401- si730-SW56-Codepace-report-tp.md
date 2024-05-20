@@ -2077,15 +2077,38 @@ Este objetivo guía nuestras entrevistas para recoger comentarios sobre la usabi
 Primer segmento objetivo (Desarrolladores)
 
 Entrevista 1:
-
+┌──────────────────────────────────┬─────────────────────────────────────────────────┐
+│               Entrevistado 1     │            Gustavo Poma                         │
+├──────────────────────────────────┼─────────────────────────────────────────────────┤
+│                  Opinion:                                                          │
+│                  Tiempo:                        5 min                              │
+│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
 
 
 Entrevista 2:
+┌──────────────────────────────────┬─────────────────────────────────────────────────┐
+│               Entrevistado 2     │          Daniel del Castillo                    │
+├──────────────────────────────────┼─────────────────────────────────────────────────┤
+│                  Opinion:                                                          │
+│                  Tiempo:                        5:·30 min                          │
+│                    URL :                     https://files.fm/u/yuhm6f4rhn         │        
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
+
 
 
 Entrevista 3:
 
-
+┌──────────────────────────────────┬─────────────────────────────────────────────────┐
+│               Entrevistado 3     │            Alex Avila                           │
+├──────────────────────────────────┼─────────────────────────────────────────────────┤
+│                  Opinion:                                                          │
+│                  Tiempo:                        8 min                              │
+│                    URL :                       https://files.fm/u/nk85mf34an       │                                     
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
 
 
 Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
@@ -2093,13 +2116,37 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 
 Entrevista 1:
 
+┌──────────────────────────────────┬─────────────────────────────────────────────────┐
+│               Entrevistado 1     │                                                 │
+├──────────────────────────────────┼─────────────────────────────────────────────────┤
+│                  Opinion:                                                          │
+│                  Tiempo:                        5 min                              │
+│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
 
 
 Entrevista 2:
 
+┌──────────────────────────────────┬─────────────────────────────────────────────────┐
+│               Entrevistado 2     │                                                 │
+├──────────────────────────────────┼─────────────────────────────────────────────────┤
+│                  Opinion:                                                          │
+│                  Tiempo:                        5 min                              │
+│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
 
 Entrevista 3:
 
+┌──────────────────────────────────┬─────────────────────────────────────────────────┐
+│               Entrevistado 3     │                                                 │
+├──────────────────────────────────┼─────────────────────────────────────────────────┤
+│                  Opinion:                                                          │
+│                  Tiempo:                        5 min                              │
+│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
 
 
 
@@ -2150,6 +2197,25 @@ Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heu
 
 ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+
+|    Style    |            Characters            |                Usage                 |
+|-------------|----------------------------------|--------------------------------------|
+| none        | ""                               | no comment style applied             |
+| doubleslant | "// "                            | C++/C#/F#/Java/JavaScript/Rust/Swift |
+| hash        | "# "                             | Perl/PowerShell/Python/R/Ruby        |
+| doubledash  | "-- "                            | ada/AppleScript/Haskell/Lua/SQL      |
+| percent     | "% "                             | MATLAB                               |
+| singlespace | " " (1 space)                    | MediaWiki                            |
+| quadspace   | " &nbsp;&nbsp;&nbsp;" (4 spaces) | reddit                               |
+| singlequote | "' " (single quote)              | VBA                                  |
+| rem         | "REM "                           | BASIC/DOS batch file                 |
+| c           | "C "                             | Fortran IV                           |
+| exclamation | "! "                             | Fortran 90                           |
+| slantsplat  | "/* ... */ "                     | CSS                                  |
+| xml         | "&lt;!-- ... --&gt;"             | XML                                  |
+
+
 
 
 **Conclusiones**
