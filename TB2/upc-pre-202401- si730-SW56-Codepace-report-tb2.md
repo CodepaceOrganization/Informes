@@ -1,7 +1,7 @@
 <div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas
-### INFORME DEL TRABAJO PARCIAL (TP)
+### INFORME DEL TRABAJO (TB2)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
 
 **Curso:** Aplicaciones Web
@@ -31,7 +31,7 @@
 
 
 
-### Abril del 2024
+### Mayo del 2024
 </div>
 
 <div align="justify">
@@ -261,6 +261,20 @@ Evidencias del Insights Contributos de los commits del informe:
   - 5.2.2.6.Services Documentation Evidence for Sprint Review.
   - 5.2.2.7.Software Deployment Evidence for Sprint Review.
   - 5.2.2.8.Team Collaboration Insights during Sprint.    
+  - 5.2.3. Sprint 3
+  - 5.2.3.1.Spring Planning 3.
+  - 5.2.3.2.Sprint Backlog 3.
+  - 5.2.3.3.Development Evidence for Sprint Review.
+  - 5.2.3.4.Testing Suite Evidence for Sprint Review.
+  - 5.2.3.5.Execution Evidence for Sprint Review.
+  - 5.2.3.6.Services Documentation Evidence for Sprint Review.
+  - 5.2.3.7.Software Deployment Evidence for Sprint Review.
+  - 5.2.3.8.Team Collaboration Insights during Sprint.
+  - 5.3. Validation Interviews.
+  - 5.3.1. Diseño de Entrevistas.
+  - 5.3.2. Registro de Entrevistas.
+  - 5.3.3. Evaluaciones según heurísticas.
+  - 5.4. Video About-the-Product.
   - Avance de Conclusiones, Bibliografía y Anexos.
 
 ### Studen Outcome
@@ -2022,8 +2036,187 @@ Evidencia de la aplicación desplegada:
 Repositorio Web App:
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/aeeb9d0b-9bd4-427a-9de1-172181125ff9)
-
 ![image](https://github.com/CodepaceOrganization/Informes/assets/133830443/73f85868-3e30-4938-8099-4c630903fb3f)
+
+**5.2.3. Sprint 3**
+**5.2.3.1.Spring Planning 3.**
+**5.2.3.2.Sprint Backlog 3.**
+**5.2.3.3.Development Evidence for Sprint Review.**
+**5.2.3.4.Testing Suite Evidence for Sprint Review.**
+**5.2.3.5.Execution Evidence for Sprint Review.**
+**5.2.3.6.Services Documentation Evidence for Sprint Review.**
+**5.2.3.7.Software Deployment Evidence for Sprint Review.**
+**5.2.3.8.Team Collaboration Insights during Sprint.**
+
+**5.3. Validation Interviews**
+
+En la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar nuestra plataforma, CodePace, para optimizar la preparación de programadores para entrevistas técnicas en empresas de tecnología. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios clave: los programadores en busca de empleo y los reclutadores técnicos. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la plataforma no solo cumpla con los estándares técnicos, sino que también resuene con las dinámicas operativas y las expectativas de nuestros usuarios. Estas entrevistas nos permiten entender mejor las necesidades y desafíos de los programadores en su preparación para entrevistas técnicas, así como las expectativas de los reclutadores en términos de habilidades y competencias, de esta manera, aseguramos que CodePace no solo sea una herramienta eficiente y efectiva para mejorar las habilidades de codificación y la preparación para entrevistas, sino que también se alinee perfectamente con las realidades del proceso de contratación en la industria tecnológica.a. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
+
+**5.3.1. Diseño de Entrevistas**
+Dentro de esta sección, se detalla los objetivos de usuario específicos que orientan nuestras entrevistas. Estos 'user goals' son cruciales para garantizar que la plataforma web cumpla con las exigencias de los usuarios.
+
+
+**User Goal: Mejora de habilidades de codificación**
+
+User persona: Desarrolladores o estudiantes de programacion
+
+Los usuarios buscan mejorar sus habilidades de codificación a través de ejercicios prácticos y tutoriales interactivos. 
+Este objetivo se enfoca en identificar los tipos de ejercicios y lenguajes de programación más relevantes y útiles para los usuarios, asegurando que la plataforma proporcione prácticas efectivas y alineadas con las necesidades del mercado
+
+**User Goal:Preparación efectiva para entrevistas técnicas**
+
+
+User persona: Estudiantes de software o sistemas o desarrolladores
+
+Los usuarios necesitan prepararse de manera efectiva para entrevistas técnicas, incluyendo preguntas comunes y estrategias de resolución de problemas. 
+Este objetivo guía nuestras entrevistas para identificar las áreas temáticas más desafiantes y las formas más efectivas de practicar y evaluar el conocimiento de los usuarios, facilitando una preparación integral
+
+
+**User Goal:Simulacros de entrevistas en vivo**
+
+User persona: programadores , estudiates de software o sistemas de ciclos avanzados
+
+Los usuarios quieren practicar entrevistas en un entorno realista con expertos para ganar confianza y recibir retroalimentación constructiva.
+Este objetivo se centra en evaluar la calidad y utilidad de las sesiones de simulacro actuales y explorar cómo podrían mejorarse para ofrecer una experiencia más enriquecedora y realista.
+
+
+**User Goal:Acceso a contenido exclusivo y oportunidades de reclutamiento**
+
+Usee persona: Desarrolladores o estudiantes de programacion
+
+Los usuarios buscan tener acceso a contenido exclusivo que no esté disponible en otros lugares y a oportunidades de reclutamiento con empresas de tecnología.
+Este objetivo implica recopilar opiniones sobre el tipo de contenido exclusivo más valorado y cómo CodePace puede facilitar mejor las oportunidades de empleo, conectando a los usuarios con reclutadores.
+
+
+**User Goal:Interfaz de usuario intuitiva y experiencia de usuario optimizada**
+
+Usee persona: Programadores autodidactas y estudiantes de software 
+
+Los usuarios prefieren una plataforma que sea fácil de navegar y que ofrezca una experiencia de usuario sin complicaciones. 
+Este objetivo guía nuestras entrevistas para recoger comentarios sobre la usabilidad actual de la plataforma y sugerencias para mejorar la navegación y la experiencia general del usuario, garantizando una interacción fluida y satisfactoria.
+
+
+**5.3.2. Registro de Entrevistas**
+
+Primer segmento objetivo (Desarrolladores)
+
+
+| Entrevistado 1 | Gustavo poma |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo | 5 min |
+| Location |  https://files.fm/u/rsx3hqmjhr |
+
+
+
+| Entrevista 2 | Daniel del Castillo |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  4 min  |
+| Location |   https://files.fm/u/yuhm6f4rhn |
+
+
+
+| Entrevista 3 | Alex Avila |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  8 min  |
+| Location |    https://files.fm/u/nk85mf34an |
+
+
+Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
+
+
+| Entrevistado 1 | Gustavo poma |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo | 5 min |
+| Location |  https://files.fm/u/rsx3hqmjhr |
+
+
+| Entrevista 2 | Daniel del Castillo |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  4 min  |
+| Location |   https://files.fm/u/yuhm6f4rhn |
+
+
+
+| Entrevista 3 | Alex Avila |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  8 min  |
+| Location |    https://files.fm/u/nk85mf34an |
+
+
+
+**5.3.3 Evaluaciones segun heuristicas**
+
+SITE o APP A EVALUAR:
+
+**CodePace**
+
+Meta: Encontrar problemas existentes en la aplicación web CodePace 
+Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen
+
+**TAREAS A EVALUAR:**
+1. Desktop landing page
+  
+1. Información y descripción de la aplicación y sus funcionalidades
+2. Visualización de planes de pago y precio de la aplicación
+3. Header y footer apropiado para la landing page
+4. Interacción del landing page con la aplicación
+   
+2. Web Application
+   
+1. Inicio de sesión con usuario existente
+2. Indicadores claros de progreso o estado del proceso
+3. Iconografía comprensible y consistente con el mundo real
+4. Mensajes de error que reflejen el registro de datos incorrectos
+5. Acciones de retroceso dentro de la aplicación
+6. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+7. Evaluar existencia de patrones de diseño o navegación
+8. Elementos de la interfaz de usuario consistentes
+9. Pestañas de navegación dentro de la aplicación
+10. Botones interactivos y de uso intuitivo
+11. Búsqueda de procesos y cultivos con registro previo
+12. Navegación y orientación dentro de la aplicación
+13. Apertura y visualización de cultivos registrados
+14. Visualización de perfil de usuario
+15. Visualización del perfil de la empresa
+16. Mensajes que orienten al usuario sobre el estado del sistema
+17. Cambio de idioma de la aplicación
+18. Estética general de la interfaz atractiva y agradable visualmente
+
+
+ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|    Nivel    |            Descripcion                                                                                                                                                             |        
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1           |   Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo      |
+|             |                                                                                                     | 
+| 2           |   Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase   |
+|             |                                                                                  |
+|             |                                                                                                                                             | 
+| 3           |    Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe  asignar una prioridad alta.      |
+|             |                                                                                                                                              |
+|             |                                                                                                                                             | 
+| 4           |   Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta.Es imperativo que sea corregido antes del lanzamiento.          |
+|             |                                                                                                             | 
+
+
+TABLA RESUMEN:
+
+|  #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
+ |------------|--------|-----------|---------------------|--------------------|
+ | Develop | feature/Crop |  57f718e | feat(calendar): calendar now reflects the weather|
+ | Develop | feature/Consultancy | 64edfb5 | feat(consultancy/model): create crop and notification entities |
+ | Develop | feature/Farmer | 26999f1 | feat(finance.component): added lists of collections and payments to s… | 
+ | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management| 
+ 
+
+
 
 
 **Conclusiones**
