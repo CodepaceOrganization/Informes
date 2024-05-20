@@ -2076,96 +2076,53 @@ Este objetivo guía nuestras entrevistas para recoger comentarios sobre la usabi
 
 Primer segmento objetivo (Desarrolladores)
 
-Entrevista 1:
-┌──────────────────────────────────┬─────────────────────────────────────────────────┐
-│               Entrevistado 1     │            Gustavo Poma                         │
-├──────────────────────────────────┼─────────────────────────────────────────────────┤
-│                  Opinion:                                                          │
-│                  Tiempo:                        5 min                              │
-│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
-│                                                                                    │
-└────────────────────────────────────────────────────────────────────────────────────┘
-
 
 | Entrevistado 1 | Gustavo poma |
 |----------|---------|
-| | Opinion | 
+| Opinion  |         | 
 | Tiempo | 5 min |
 | Location |  https://files.fm/u/rsx3hqmjhr |
 
 
 
+| Entrevista 2 | Daniel del Castillo |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  4 min  |
+| Location |   https://files.fm/u/yuhm6f4rhn |
 
 
 
-
-
-Entrevista 2:
-┌──────────────────────────────────┬─────────────────────────────────────────────────┐
-│               Entrevistado 2     │          Daniel del Castillo                    │
-├──────────────────────────────────┼─────────────────────────────────────────────────┤
-│                  Opinion:                                                          │
-│                  Tiempo:                        5:·30 min                          │
-│                    URL :                     https://files.fm/u/yuhm6f4rhn         │        
-│                                                                                    │
-└────────────────────────────────────────────────────────────────────────────────────┘
-
-
-
-Entrevista 3:
-
-┌──────────────────────────────────┬─────────────────────────────────────────────────┐
-│               Entrevistado 3     │            Alex Avila                           │
-├──────────────────────────────────┼─────────────────────────────────────────────────┤
-│                  Opinion:                                                          │
-│                  Tiempo:                        8 min                              │
-│                    URL :                       https://files.fm/u/nk85mf34an       │                                     
-│                                                                                    │
-└────────────────────────────────────────────────────────────────────────────────────┘
+| Entrevista 3 | Alex Avila |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  8 min  |
+| Location |    https://files.fm/u/nk85mf34an |
 
 
 Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 
 
-Entrevista 1:
-
-┌──────────────────────────────────┬─────────────────────────────────────────────────┐
-│               Entrevistado 1     │                                                 │
-├──────────────────────────────────┼─────────────────────────────────────────────────┤
-│                  Opinion:                                                          │
-│                  Tiempo:                        5 min                              │
-│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
-│                                                                                    │
-└────────────────────────────────────────────────────────────────────────────────────┘
+| Entrevistado 1 | Gustavo poma |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo | 5 min |
+| Location |  https://files.fm/u/rsx3hqmjhr |
 
 
-Entrevista 2:
-
-┌──────────────────────────────────┬─────────────────────────────────────────────────┐
-│               Entrevistado 2     │                                                 │
-├──────────────────────────────────┼─────────────────────────────────────────────────┤
-│                  Opinion:                                                          │
-│                  Tiempo:                        5 min                              │
-│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
-│                                                                                    │
-└────────────────────────────────────────────────────────────────────────────────────┘
-
-Entrevista 3:
-
-┌──────────────────────────────────┬─────────────────────────────────────────────────┐
-│               Entrevistado 3     │                                                 │
-├──────────────────────────────────┼─────────────────────────────────────────────────┤
-│                  Opinion:                                                          │
-│                  Tiempo:                        5 min                              │
-│                    URL :                     https://files.fm/u/rsx3hqmjhr         │                                     
-│                                                                                    │
-└────────────────────────────────────────────────────────────────────────────────────┘
+| Entrevista 2 | Daniel del Castillo |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  4 min  |
+| Location |   https://files.fm/u/yuhm6f4rhn |
 
 
 
-
-
-
+| Entrevista 3 | Alex Avila |
+|----------|---------|
+| Opinion  |         | 
+| Tiempo   |  8 min  |
+| Location |    https://files.fm/u/nk85mf34an |
 
 
 
