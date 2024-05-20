@@ -2169,8 +2169,8 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 
 | Entrevistado 1 | Gustavo poma |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo | 5 min |
+| Opinion  | Gustavo nos dijo que la app se ve interactiva, le gusta el diseño y el color le parece fuera de lo comun, sin embargo dice que el logo debe estar mas relacionado al tema        | 
+| Tiempo | 6:50 min |
 | Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F18%5F44%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea4d4f43c%2D3bdb%2D40e8%2Dacc4%2D598d002b1a41 |
 
 
