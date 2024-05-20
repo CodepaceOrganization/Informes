@@ -2198,22 +2198,21 @@ Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heu
 ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
-
-|    Style    |            Characters            |                Usage                 |
-|-------------|----------------------------------|--------------------------------------|
-| none        | ""                               | no comment style applied             |
-| doubleslant | "// "                            | C++/C#/F#/Java/JavaScript/Rust/Swift |
-| hash        | "# "                             | Perl/PowerShell/Python/R/Ruby        |
-| doubledash  | "-- "                            | ada/AppleScript/Haskell/Lua/SQL      |
-| percent     | "% "                             | MATLAB                               |
-| singlespace | " " (1 space)                    | MediaWiki                            |
-| quadspace   | " &nbsp;&nbsp;&nbsp;" (4 spaces) | reddit                               |
-| singlequote | "' " (single quote)              | VBA                                  |
-| rem         | "REM "                           | BASIC/DOS batch file                 |
-| c           | "C "                             | Fortran IV                           |
-| exclamation | "! "                             | Fortran 90                           |
-| slantsplat  | "/* ... */ "                     | CSS                                  |
-| xml         | "&lt;!-- ... --&gt;"             | XML                                  |
+|    Style    |            Characters            |        
+|-------------|----------------------------------|
+| none        | ""                               | 
+| doubleslant | "// "                            | 
+| hash        | "# "                             | 
+| doubledash  | "-- "                            | 
+| percent     | "% "                             | 
+| singlespace | " " (1 space)                    | 
+| quadspace   | " &nbsp;&nbsp;&nbsp;" (4 spaces) | 
+| singlequote | "' " (single quote)              | 
+| rem         | "REM "                           | 
+| c           | "C "                             | 
+| exclamation | "! "                             | 
+| slantsplat  | "/* ... */ "                     | 
+| xml         | "&lt;!-- ... --&gt;"             | 
 
 
 
