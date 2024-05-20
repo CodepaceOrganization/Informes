@@ -2100,28 +2100,25 @@ Este objetivo guía nuestras entrevistas para recoger comentarios sobre la usabi
 
 Primer segmento objetivo (Desarrolladores)
 
+| Entrevista 1 |  Piero Periche  |
+|----------|---------|
+| Opinion  |  Piero dijo que la app esta bien desarrollado y la pantalla esta bien proporcionada y ordenada, por otro lado resalto que los colores son agradables a la vista y llamativo, tambien dijo que los apartados estan bien hechos y son entendibles a la vista de usuario, por ultimo el dijo que como desarrollador usaria la aplicacion       | 
+| Tiempo | 3:14 min |
+| Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D20%5F10%5F36%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9bf688a3%2D2650%2D42f5%2Db8b9%2D0c1ea1492c0a | 
 
-| Entrevistado 1 | Gustavo poma |
+
+
+| Entrevista 2 | |
 |----------|---------|
 | Opinion  |         | 
-| Tiempo | 5 min |
-| Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F18%5F44%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee1ee14f0%2D35ab%2D467e%2Da918%2D5e6a8737bca2 |
+| Tiempo   |    |
+| Location | 
 
-
-
-| Entrevista 2 | Daniel del Castillo |
+| Entrevista 3 | |
 |----------|---------|
 | Opinion  |         | 
-| Tiempo   |  4 min  |
-| Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F19%5F06%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E91b7abd1%2Dc459%2D4747%2Db5df%2D2d27ed3e85fa|
-
-
-
-| Entrevista 3 | Alex Avila |
-|----------|---------|
-| Opinion  |         | 
-| Tiempo   |  8 min  |
-| Location |    https://files.fm/u/nk85mf34an |
+| Tiempo   |   |
+| Location |     |
 
 
 Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
@@ -2131,14 +2128,14 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 |----------|---------|
 | Opinion  |         | 
 | Tiempo | 5 min |
-| Location |  https://files.fm/u/rsx3hqmjhr |
+| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F18%5F44%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea4d4f43c%2D3bdb%2D40e8%2Dacc4%2D598d002b1a41 |
 
 
 | Entrevista 2 | Daniel del Castillo |
 |----------|---------|
 | Opinion  |         | 
 | Tiempo   |  4 min  |
-| Location |   https://files.fm/u/yuhm6f4rhn |
+| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F19%5F06%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E80556faf%2D938e%2D43fd%2Db7f7%2De54d4533f69c |
 
 
 
@@ -2146,7 +2143,13 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 |----------|---------|
 | Opinion  |         | 
 | Tiempo   |  8 min  |
-| Location |    https://files.fm/u/nk85mf34an |
+| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F22%5F39%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed481e6d9%2Dacda%2D40d4%2Db075%2D963d1f1edfbb   |
+
+
+
+
+
+
 
 
 
