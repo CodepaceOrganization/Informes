@@ -2087,6 +2087,19 @@ Entrevista 1:
 └────────────────────────────────────────────────────────────────────────────────────┘
 
 
+| Entrevistado 1 | Gustavo poma |
+|----------|---------|
+| | Sprint Planning Background |
+| Date | 2024-04-09 |
+| Location | Reunión virtual a través de google meet |
+
+
+
+
+
+
+
+
 Entrevista 2:
 ┌──────────────────────────────────┬─────────────────────────────────────────────────┐
 │               Entrevistado 2     │          Daniel del Castillo                    │
