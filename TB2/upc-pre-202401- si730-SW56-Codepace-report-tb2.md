@@ -2372,7 +2372,7 @@ Recomendacion: Trabajar en que los botones redirigan a la red social que eliga e
 |9|En el perfil de usuario incluir el lenguaje que estudia actualmente y el rango actual que tiene|3|<p>Usability: Diseño estético y</p><p>minimalista</p>|
 |10|La app no cambia de idioma|` `4 |<p>Information Arquitecture:</p><p>Organaización y Estructura</p>|
 |11|Centrar la barra de menú|2|<p>Usability: Diseño estético y</p><p>minimalista</p>|
-|12|No abre la ventana del simulador de entrevistas|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+
 
 
 
@@ -2469,7 +2469,25 @@ Recomendacion: Incluir un boton para cerrar o cancelar una ventana para que el u
 
 
 
-**PROBLEMA #06: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #06: No se abre una ventana dentro de la app**
+
+Escala de severidad: 03
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+
+
+Descripción del problema: Dentro de la app no se abre otra ventana tampoco de forma externa
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/819b7554-f28d-4148-913f-b970e1587fa1)
+
+
+Recomendacion: Hacer formularios y consolas para que dentro de la app se abran ventanas y el usuario tenga una experincia mas interactiva
+
+
+
+
+
+**PROBLEMA #07: Algunos botones no redirigen a otra pagina o ventana**
 
 Escala de severidad: 04
 
@@ -2484,52 +2502,37 @@ Recomendacion: Trabajar en que los botones redirigan a la red social que eliga e
 
 
 
-
-
-**PROBLEMA #07: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #08: En global ranking falta indicar las instrucciones para que el usuario entienda lo que debe hacer**
 
 Escala de severidad: 04
 
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+Principio violado: Usability: Inclusive Design: Diseño Centrado en el usuario
+
+Descripción del problema: En el ranking no hay explicaciones para que el usuario vea como acceder a su ranking semanal
 
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c5d5b1f2-8b38-46cc-a415-3f8e97fbbef4)
 
 
 
-**PROBLEMA #08: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+Recomendacion: Incluir instrucciones para que los usarios vean como acceder al global ranking con facilidad
 
 
 
 
 
-**PROBLEMA #09: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #09: En el perfil de usuario incluir el lenguaje que estudia actualmente y el rango actual que tiene**
 
-Escala de severidad: 04
+Escala de severidad: 03
 
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+Principio violado: Usability: Diseño estético y minimalista
+
+Descripción del problema: El perfil de usuario no tiene incluido el lenguaje que estudia actualmente y el rango actual que tiene
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/2f858418-8737-44d0-9930-59bb2c95a930)
 
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+Recomendacion: Incluir en el perfil de usuario el lenguaje que estudia actualmente y el rango actual que tiene cada usuario, asi otros usarios veran sus avances y conocimientos
 
 
 
@@ -2537,54 +2540,39 @@ Recomendacion: Trabajar en que los botones redirigan a la red social que eliga e
 
 
 
-**PROBLEMA #10: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #10: La app no cambia de idioma**
 
 Escala de severidad: 04
 
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+Principio violado: Information Arquitecture: Organaización y Estructura
+
+Descripción del problema: La app no cambia de ingles a español
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/3dc19e52-3957-4eb8-b897-81668bbc4595)
 
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-
-**PROBLEMA #11: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+Recomendacion: Incluir el cambio de idioma, asi la app logra ser entendido en el mundo y no solo en un lugar
 
 
 
 
 
 
-**PROBLEMA #12: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #11: Centrar la barra de menú**
 
-Escala de severidad: 04
+Escala de severidad: 02
 
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+Principio violado: Usability: Diseño estético y minimalista
 
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
+Descripción del problema: La barra de menu esta a un costado y no centrada
 
 
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c5bef76a-7d21-4726-8be2-949609c18bd6)
+
+
+Recomendacion: Arreglar el diseño y centrar la barra de menu
+
+
 
 
 
