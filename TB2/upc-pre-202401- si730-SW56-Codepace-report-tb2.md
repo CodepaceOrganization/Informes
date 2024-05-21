@@ -2153,14 +2153,15 @@ Primer segmento objetivo (Desarrolladores)
 
 | Entrevista 2 | Jose Luza |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo   |    |
+| Opinion  |    Jose dijo que la app visualmente se ve bien distribuido y le gusta el encabezado, ademas dice que el calendario sirve para organizarse de forma correcta, la parte context le parece importante al igual que el simulacro y le parece interesante los planes ofrecidos, por lo que piensa que es un app completa y 
+                como desarrollador usaria la app ya que podria desenvolverse mejor en las entrevistas    | 
+| Tiempo   |   4:47 min |
 | Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D20%5F21%5F59%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9b4653ed%2Dddf4%2D48f2%2D934f%2D285f228f3250
 
 | Entrevista 3 | Sergio Guzman |
 |----------|---------|
 | Opinion  |   Sergio dice que la app le parece buena y le gusto la parte de los tutores y simulacros de entrevistas, ademas le parece intereante la variedad de lemguajes que puede aprender en la app , por ultimo recalco que como desarrolador usaria la app      | 
-| Tiempo   |   |
+| Tiempo   |   5:00 min |
 | Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D20%5F22%5F03%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e5dc7c6%2D087d%2D4ae0%2D95f7%2D3080f0724b6d   |
 
 
