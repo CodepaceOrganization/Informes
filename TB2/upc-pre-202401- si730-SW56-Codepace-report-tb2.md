@@ -2207,14 +2207,14 @@ Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heu
 
 **TAREAS A EVALUAR:**
 
-1. Desktop landing page
+**1. Desktop landing page**
   
 1. Información y descripción de la aplicación y sus funcionalidades
 2. Visualización de planes de pago y precio de la aplicación
 3. Header y footer apropiado para la landing page
 4. Interacción del landing page con la aplicación
    
-2. Web Application
+**2. Web Application**
    
 1. Inicio de sesión con usuario existente
 2. Indicadores claros de progreso o estado del proceso
