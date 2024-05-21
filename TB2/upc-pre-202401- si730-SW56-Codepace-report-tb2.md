@@ -2249,6 +2249,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 TABLA RESUMEN:
 
+**Desktop landing page**
 
 
 
