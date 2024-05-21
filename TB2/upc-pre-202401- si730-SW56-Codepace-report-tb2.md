@@ -2176,7 +2176,7 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 
 | Entrevista 2 | Daniel del Castillo |
 |----------|---------|
-| Opinion  |         | 
+| Opinion  |  Daniel nos dijo que la app se ve atrativa, dijo que las redirecciones del calendario son utiles, dice que la pagina esta bien hecha, le gusta la gama de colores y centrar la barra de opciones, ademas dijo que como estudiante si usaria la pagina       | 
 | Tiempo   |  4 min  |
 | Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F19%5F06%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E80556faf%2D938e%2D43fd%2Db7f7%2De54d4533f69c |
 
