@@ -2177,15 +2177,15 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 | Entrevista 2 | Daniel del Castillo |
 |----------|---------|
 | Opinion  |  Daniel nos dijo que la app se ve atrativa, dijo que las redirecciones del calendario son utiles, dice que la pagina esta bien hecha, le gusta la gama de colores y centrar la barra de opciones, ademas dijo que como estudiante si usaria la pagina       | 
-| Tiempo   |  4 min  |
+| Tiempo   |  5:32 min  |
 | Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F19%5F06%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E80556faf%2D938e%2D43fd%2Db7f7%2De54d4533f69c |
 
 
 
 | Entrevista 3 | Alex Avila |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo   |  8 min  |
+| Opinion  |  Alex nos comenta que visualmente le gusta la app, tambien comenta que el calendario deberia tener una racha con un mensaje que diga ¡Vas bien!, le gustaria tambien que en el perfil de usuario se muestre el lenguaje que se esta aprendiendo y que se muestre el ranking actual del usuario, por otro lado dijo que               como estudiante de software usaria la app y el uso de colores en la app es amigable          | 
+| Tiempo   |   min  |
 | Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F22%5F39%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed481e6d9%2Dacda%2D40d4%2Db075%2D963d1f1edfbb   |
 
 
@@ -2206,6 +2206,7 @@ Meta: Encontrar problemas existentes en la aplicación web CodePace
 Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen
 
 **TAREAS A EVALUAR:**
+
 1. Desktop landing page
   
 1. Información y descripción de la aplicación y sus funcionalidades
@@ -2217,22 +2218,16 @@ Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heu
    
 1. Inicio de sesión con usuario existente
 2. Indicadores claros de progreso o estado del proceso
-3. Iconografía comprensible y consistente con el mundo real
-4. Mensajes de error que reflejen el registro de datos incorrectos
-5. Acciones de retroceso dentro de la aplicación
-6. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
-7. Evaluar existencia de patrones de diseño o navegación
-8. Elementos de la interfaz de usuario consistentes
-9. Pestañas de navegación dentro de la aplicación
-10. Botones interactivos y de uso intuitivo
-11. Búsqueda de procesos y cultivos con registro previo
-12. Navegación y orientación dentro de la aplicación
-13. Apertura y visualización de cultivos registrados
-14. Visualización de perfil de usuario
-15. Visualización del perfil de la empresa
-16. Mensajes que orienten al usuario sobre el estado del sistema
-17. Cambio de idioma de la aplicación
-18. Estética general de la interfaz atractiva y agradable visualmente
+3. Mensajes de error que reflejen el registro de datos incorrectos
+4. Acciones de retroceso dentro de la aplicación
+5. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+6. Pestañas de navegación dentro de la aplicación
+7. Botones interactivos y de uso intuitivo
+8. Navegación y orientación dentro de la aplicación
+9. Visualización de perfil de usuario
+10. Cambio de idioma de la aplicación
+11. Estética general de la interfaz atractiva y agradable visualmente
+12. Funcionamiento del simulador de entrevistas en vivo
 
 
 ESCALA DE SEVERIDAD:
@@ -2254,13 +2249,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 TABLA RESUMEN:
 
-|  #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
- |------------|--------|-----------|---------------------|--------------------|
- | Develop | feature/Crop |  57f718e | feat(calendar): calendar now reflects the weather|
- | Develop | feature/Consultancy | 64edfb5 | feat(consultancy/model): create crop and notification entities |
- | Develop | feature/Farmer | 26999f1 | feat(finance.component): added lists of collections and payments to s… | 
- | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management| 
- 
 
 
 
