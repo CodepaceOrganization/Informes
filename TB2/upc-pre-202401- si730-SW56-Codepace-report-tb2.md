@@ -2262,22 +2262,31 @@ TABLA RESUMEN:
 
 
 PROBLEMA #01: En vez de poner acerca de nosotros se debería poner sobre la aplicacion
+
 Escala de severidad: 02
+
 Principio violado: Information Arquitecture: Jerarquía de Información 
+
 Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
 
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
 
+
 Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
 
 
 PROBLEMA #02: Incluir un titulo que diga nuestros planes de esta forma el usuario sabrá donde se ubican los planes 
+
 Escala de severidad: 02
+
 Principio violado: Information Arquitecture: Jerarquía de Información 
+
 Descripción del problema: En el landing es un poco dificil ubicar los planes ya que no hay un titulo que lo explique
 
+
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
+
 
 Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
 
