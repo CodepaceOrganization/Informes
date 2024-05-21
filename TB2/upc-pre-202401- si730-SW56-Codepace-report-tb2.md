@@ -2276,6 +2276,10 @@ Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se h
 Recomendacion: Cambiar el titulo de sobre nostros a sobre el producto para que el contenido tenga relacion con el titulo
 
 
+
+
+
+
 PROBLEMA #02: Incluir un titulo que diga nuestros planes de esta forma el usuario sabrá donde se ubican los planes 
 
 Escala de severidad: 02
@@ -2284,11 +2288,13 @@ Principio violado: Information Arquitecture: Jerarquía de Información
 
 Descripción del problema: En el landing es un poco dificil ubicar los planes ya que no hay un titulo que lo explique
 
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/4f07c97c-7dae-4ba1-b56c-c31fc0ca9f51)
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
 
 
 Recomendacion: Incluir un Titulo que diga nuestros planes asi el usuario identificara mas rapido nuestros planes
+
+
 
 
 
@@ -2302,11 +2308,14 @@ Principio violado: Usability: Diseño estético y minimalista
 
 Descripción del problema: Los logos de las redes sociales son pequeños y desordenados haciendo dificil al usuario ubicarlas o que no sean agradables a la vista
 
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/6690486e-7d38-4acc-a47b-4814ef1a4530)
 
 
 Recomendacion: Ordenar los logos y agrandarlos para que sea agradable a la vista del usuario y este pueda ubicarlos con facilidad
+
+
+
+
 
 
 PROBLEMA #04: No contamos con una sección “About the team” donde hablemos sobre nosotros
@@ -2317,8 +2326,8 @@ Principio violado: Inclusive Design: Diseño Centrado en el usuario
 
 Descripción del problema: En la landing no contamos con una parte donde se hable sobre los miembros del grupo que es importante para que los usuarios conozcan a los team menbers
 
+  ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/053b13a4-fe1e-4a35-844a-486cd395ce0e)
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
 
 
 Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
@@ -2326,7 +2335,7 @@ Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra in
 
 
 
-PROBLEMA #05: 
+PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa
 
 Escala de severidad: 04
 
@@ -2334,11 +2343,10 @@ Principio violado: Usability: Coincidencia entre el sistema y el mundo real
 Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
 
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
-
-Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
 
 
+Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
 
 
 
