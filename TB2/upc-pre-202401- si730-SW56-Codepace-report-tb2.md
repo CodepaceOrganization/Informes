@@ -2273,7 +2273,7 @@ Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se h
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
 
 
-Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
+Recomendacion: Cambiar el titulo de sobre nostros a sobre el producto para que el contenido tenga relacion con el titulo
 
 
 PROBLEMA #02: Incluir un titulo que diga nuestros planes de esta forma el usuario sabrá donde se ubican los planes 
@@ -2288,41 +2288,49 @@ Descripción del problema: En el landing es un poco dificil ubicar los planes ya
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
 
 
-Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
+Recomendacion: Incluir un Titulo que diga nuestros planes asi el usuario identificara mas rapido nuestros planes
 
 
 
 
 
-PROBLEMA #03: En vez de poner acerca de nosotros se debería poner sobre la aplicacion
-Escala de severidad: 02
-Principio violado: Information Arquitecture: Jerarquía de Información 
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+PROBLEMA #03: Los logos de las redes sociales en el footer son muy pequeños y están desordenados
 
+Escala de severidad: 01
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
+Principio violado: Usability: Diseño estético y minimalista
 
-Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
-
-
-
-
-PROBLEMA #04: En vez de poner acerca de nosotros se debería poner sobre la aplicacion
-Escala de severidad: 02
-Principio violado: Information Arquitecture: Jerarquía de Información 
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+Descripción del problema: Los logos de las redes sociales son pequeños y desordenados haciendo dificil al usuario ubicarlas o que no sean agradables a la vista
 
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
 
+
+Recomendacion: Ordenar los logos y agrandarlos para que sea agradable a la vista del usuario y este pueda ubicarlos con facilidad
+
+
+PROBLEMA #04: No contamos con una sección “About the team” donde hablemos sobre nosotros
+
+Escala de severidad: 03
+
+Principio violado: Inclusive Design: Diseño Centrado en el usuario
+
+Descripción del problema: En la landing no contamos con una parte donde se hable sobre los miembros del grupo que es importante para que los usuarios conozcan a los team menbers
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
+
+
 Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
 
 
 
 
-PROBLEMA #05: En vez de poner acerca de nosotros se debería poner sobre la aplicacion
-Escala de severidad: 02
-Principio violado: Information Arquitecture: Jerarquía de Información 
+PROBLEMA #05: 
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
 Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
 
 
