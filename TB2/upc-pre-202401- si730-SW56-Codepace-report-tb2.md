@@ -2377,7 +2377,99 @@ Recomendacion: Trabajar en que los botones redirigan a la red social que eliga e
 
 
 
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #01: Agrandar las letras de inicio de sesion**
+
+Escala de severidad: 01
+
+Principio violado: Usability: Diseño estético y minimalista
+
+Descripción del problema:En el inicio de sesion las letras de ¿No tienes cuenta? Inicia sesion estan un poco pequeñas
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/b729591b-a4cf-4aae-b8f4-e07722029557)
+
+
+Recomendacion: Agrandar las letras de inicio de sesion las letras de ¿No tienes cuenta?
+
+
+
+
+
+
+**PROBLEMA #02: Al crear cuenta no sale un mensaje de registro exito**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+
+Descripción del problema: No sale un mensaje de registro exitoso cuando creas tu cuenta por primera vez
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/adb3740e-6c0d-4fe4-b1c4-7cc470e1919c)
+
+
+
+Recomendacion: Incluir un mensaje de registro exitoso una vez creada la cuenta
+
+
+
+
+
+**PROBLEMA #03: Al cambiar al celular la app se mueve y no se ve de forma estetica**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Inclusive Design: Diseño Centrado en el usuario
+
+Descripción del problema: Al poner el formato celular las cards y la barra de menu se mueven y no se ven de forma estetica
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/9262eab9-c832-440c-9bc0-c6aae2d9a0f0)
+
+
+
+Recomendacion: Hacer la app responsive para que se adapte a todo los tamaños de diapositivos
+
+
+
+
+**PROBLEMA #04: Falta un botón para regresar a la pagina anterior**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Control y libertad del usuario
+
+Descripción del problema: No hay un boton de la app para regresar a la pagina anterior
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/51fca2c8-4dc9-4572-bce7-a6154ce28b8a)
+
+
+Recomendacion: Incluir botones para poder regresar las paginas dentro de la app
+
+
+
+
+
+**PROBLEMA #05: No hay opción de cancelar o salir del registro de procesos para redireccionarse al dashboard**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Control y libertad del usuario
+
+Descripción del problema: No hay botone de cerrar, cancelar , salir al dashboard
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/f6a18883-3e85-4dc0-a0b1-1d1024ba9680)
+
+
+
+Recomendacion: Incluir un boton para cerrar o cancelar una ventana para que el usuario pueda interactuar de una forma mas comoda
+
+
+
+
+
+**PROBLEMA #06: Los logos de las redes no redirigen a ninguna red social externa**
 
 Escala de severidad: 04
 
@@ -2394,7 +2486,22 @@ Recomendacion: Trabajar en que los botones redirigan a la red social que eliga e
 
 
 
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #07: Los logos de las redes no redirigen a ninguna red social externa**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
+
+
+Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+
+
+
+**PROBLEMA #08: Los logos de las redes no redirigen a ninguna red social externa**
 
 Escala de severidad: 04
 
@@ -2411,149 +2518,7 @@ Recomendacion: Trabajar en que los botones redirigan a la red social que eliga e
 
 
 
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
-
-Escala de severidad: 04
-
-Principio violado: Usability: Coincidencia entre el sistema y el mundo real
-Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
-
-
-Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
-
-
-
-
-
-
-
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #09: Los logos de las redes no redirigen a ninguna red social externa**
 
 Escala de severidad: 04
 
@@ -2572,10 +2537,7 @@ Recomendacion: Trabajar en que los botones redirigan a la red social que eliga e
 
 
 
-
-
-
-**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
+**PROBLEMA #10: Los logos de las redes no redirigen a ninguna red social externa**
 
 Escala de severidad: 04
 
@@ -2589,6 +2551,40 @@ Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se h
 Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
 
 
+
+
+
+
+**PROBLEMA #11: Los logos de las redes no redirigen a ninguna red social externa**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
+
+
+Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+
+
+
+
+
+
+**PROBLEMA #12: Los logos de las redes no redirigen a ninguna red social externa**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
+
+
+Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
 
 
 
