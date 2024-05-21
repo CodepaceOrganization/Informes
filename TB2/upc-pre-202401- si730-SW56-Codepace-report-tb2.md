@@ -2288,8 +2288,55 @@ TABLA RESUMEN:
 
 
 
-**2Web Application**
+**Web Application**
    
+|`                 `#|`        `Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :- | :- | :- | :- |
+|1|Agrandar las letras de inicio de sesion|1|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+|2|Al crear cuenta no sale un mensaje de registro exito|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p><p></p>|
+|3|Al cambiar al celular la app se mueve y no se ve de forma estetica|4|<p>Inclusive Design: Diseño Centrado</p><p>en el Usuario</p>|
+|4|Falta un botón para regresar a la pagina anterior|4|<p>Usability: Control y libertad del</p><p>usuario</p>|
+|5|No hay opción de cancelar o salir del registro de procesos para redireccionarse al dashboard|4|<p>Usability: Control y libertad del</p><p>usuario</p>|
+|6|No se abre una ventana dentro de la app|3|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+|7|Algunos botones no redirigen a otra pagina o ventana|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+|8|En global ranking falta indicar las instrucciones para que el usuario entienda lo que debe hacer|4|<p>Inclusive Design: Diseño Centrado</p><p>en el Usuario</p>|
+|9|En el perfil de usuario incluir el lenguaje que estudia actualmente y el rango actual que tiene|3|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+|10|La app no cambia de idioma|` `4 |<p>Information Arquitecture:</p><p>Organaización y Estructura</p>|
+|11|Centrar la barra de menú|2|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+|12|No abre la ventana del simulador de entrevistas|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
