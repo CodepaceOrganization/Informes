@@ -2212,13 +2212,14 @@ Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heu
 1. Información y descripción de la aplicación y sus funcionalidades
 2. Visualización de planes de pago y precio de la aplicación
 3. Header y footer apropiado para la landing page
-4. Interacción del landing page con la aplicación
+4. Informacion about the team
+5. Interaccion de los botones de las redes sociales
    
 **2. Web Application**
    
 1. Inicio de sesión con usuario existente
 2. Indicadores claros de progreso o estado del proceso
-3. Mensajes de error que reflejen el registro de datos incorrectos
+3. Se adaota bien a todos los formatos 
 4. Acciones de retroceso dentro de la aplicación
 5. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
 6. Pestañas de navegación dentro de la aplicación
@@ -2251,6 +2252,51 @@ TABLA RESUMEN:
 
 **Desktop landing page**
 
+|`                  `#|`          `Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :- | :- | :- | :- |
+|1|En vez de poner acerca de nosotros se debería poner sobre la aplicacion|2 |<p>Information Arquitecture:</p><p>Jerarquía de Información</p>|
+|2|Incluir un titulo que diga nuestros planes de esta forma el usuario sabrá donde se ubican los planes|2|<p>Information Arquitecture:</p><p>Jerarquía de Información</p>|
+|3|Los logos de las redes sociales en el footer son muy pequeños y están desordenados|1|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+|4|` `No contamos con una sección “About the team” donde hablemos sobre nosotros|` `3|<p>Inclusive Design: Diseño Centrado</p><p>en el Usuario</p>|
+|5|Los logos de las redes no redirigen a ninguna red social externa|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**2Web Application**
+   
+
+
+
+
+
+
+**5.4. video About the product**
 
 
 
