@@ -2186,7 +2186,7 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 |----------|---------|
 | Opinion  |  Alex nos comenta que visualmente le gusta la app, tambien comenta que el calendario deberia tener una racha con un mensaje que diga ¡Vas bien!, le gustaria tambien que en el perfil de usuario se muestre el lenguaje que se esta aprendiendo y que se muestre el ranking actual del usuario, por otro lado dijo que               como estudiante de software usaria la app y el uso de colores en la app es amigable          | 
 | Tiempo   |  5:37 min  |
-| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F22%5F39%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed481e6d9%2Dacda%2D40d4%2Db075%2D963d1f1edfbb   |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/ERjmSC_WkBhPvXaLkq2EmbsB3Y9mK4POrjrQNqJN7AbPZg?e=IlaQ9F  |
 
 
 
