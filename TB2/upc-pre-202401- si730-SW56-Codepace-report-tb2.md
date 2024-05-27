@@ -2147,7 +2147,7 @@ Primer segmento objetivo (Desarrolladores)
 |----------|---------|
 | Opinion  |  Piero dijo que la app esta bien desarrollado y la pantalla esta bien proporcionada y ordenada, por otro lado resalto que los colores son agradables a la vista y llamativo, tambien dijo que los apartados estan bien hechos y son entendibles a la vista de usuario, por ultimo el dijo que como desarrollador usaria la aplicacion       | 
 | Tiempo | 3:14 min |
-| Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D20%5F10%5F36%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9bf688a3%2D2650%2D42f5%2Db8b9%2D0c1ea1492c0a | 
+| Location | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EYKqBOseLHFFoOeYpMB9CdIBqdHWIpM-fHCEi6kWwQlzDg?e=VPyyoG | 
 
 
 
@@ -2155,13 +2155,15 @@ Primer segmento objetivo (Desarrolladores)
 |----------|---------|
 | Opinion  | Jose dijo que la app visualmente se ve bien distribuido,ademas dice que el calendario sirve para organizarse de forma correcta, la parte context le parece importante al igual que el simulacro y los planes ofrecidos, por lo que piensa que es un app completa y como desarrollador usaria la app ya que podria desenvolverse mejor en las entrevistas    | 
 | Tiempo   |   4:47 min |
-| Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D20%5F21%5F59%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9b4653ed%2Dddf4%2D48f2%2D934f%2D285f228f3250
+| Location | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EeDUeWBuLjNJtPddbutGzFsBYDA7cnMvinCzB0GKp_HYkw?e=E0YKF0 |
+
+
 
 | Entrevista 3 | Sergio Guzman |
 |----------|---------|
 | Opinion  |   Sergio dice que la app le parece buena y le gusto la parte de los tutores y simulacros de entrevistas, ademas le parece intereante la variedad de lemguajes que puede aprender en la app , por ultimo recalco que como desarrolador usaria la app      | 
 | Tiempo   |   5:00 min |
-| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D20%5F22%5F03%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e5dc7c6%2D087d%2D4ae0%2D95f7%2D3080f0724b6d   |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/Edt0L9b8nstJgnIBVbLALdoB5mpi-uc4wmBE4fF-kp57VA?e=8x40VL   |
 
 
 Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
@@ -2171,14 +2173,14 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 |----------|---------|
 | Opinion  | Gustavo nos dijo que la app se ve interactiva, le gusta el diseño y el color le parece fuera de lo comun, sin embargo dice que el logo debe estar mas relacionado al tema        | 
 | Tiempo | 6:50 min |
-| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F18%5F44%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea4d4f43c%2D3bdb%2D40e8%2Dacc4%2D598d002b1a41 |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/ETQRs1NZSgFLmUB63Usc1xcBCzWJ_4ayVTiMEqZCrdaeFw?e=ZJPNFY |
 
 
 | Entrevista 2 | Daniel del Castillo |
 |----------|---------|
 | Opinion  |  Daniel nos dijo que la app se ve atrativa, dijo que las redirecciones del calendario son utiles, dice que la pagina esta bien hecha, le gusta la gama de colores y centrar la barra de opciones, ademas dijo que como estudiante si usaria la pagina       | 
 | Tiempo   |  5:32 min  |
-| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F19%5F06%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E80556faf%2D938e%2D43fd%2Db7f7%2De54d4533f69c |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/Ee-C5sowbVVEvb93Cp6sVNABIQP8S-30RJ2fP3bALrvVeg?e=Wf5fQJ |
 
 
 
