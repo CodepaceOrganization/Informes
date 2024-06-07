@@ -2103,8 +2103,6 @@ Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0
 
 **5.2.3.3.Development Evidence for Sprint Review.**
 
-### Development Evidence for Sprint Review
-
 | Repository                                      | Branch                  | Commit ID  | Commit Message                                 | Commit Message Body                                        | Committed On (Date) |
 |-------------------------------------------------|-------------------------|------------|------------------------------------------------|------------------------------------------------------------|---------------------|
 | Jemisas/CodepaceOrganization/GetWork-Backend    | Feature/Tutors          |e72b309 | feat: added the tutor method "GET" & "POST"    | Implementación de los métodos GET y POST para el registro de tutores. | Jun 7, 2024         |
@@ -2135,7 +2133,6 @@ Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0
 - **Registro de Participación en Concurso**: Se ha reestructurado y mejorado la implementación del módulo de concursos.
 - **Evaluación Técnica**: Se ha trabajado extensamente en la creación, corrección y mejora del módulo de evaluaciones técnicas, incluyendo la adición de servicios, repositorios y consultas.
 
-Estos avances fortalecen la infraestructura y las funcionalidades de la plataforma CodePace, asegurando una experiencia más robusta y fluida para los usuarios y tutores.
 
 **5.2.3.4.Testing Suite Evidence for Sprint Review.**
 
