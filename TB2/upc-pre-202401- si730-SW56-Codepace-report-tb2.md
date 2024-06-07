@@ -1,7 +1,7 @@
 <div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas
-### INFORME DEL TRABAJO (TB2)
+### INFORME DEL TRABAJO (TB3)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
 
 **Curso:** Aplicaciones Web
@@ -60,6 +60,12 @@
 | 2.5       |  2024/05/02    | Yauri Paucar, Elias| Elaboración de Software Deployment Evidence for Sprint Review|
 | 2.6       |  2024/05/02     |  Castillo Castillo, Alexander Jair  |Elaboración de Team Collaboration Insights during Sprint|
 | 2.7       |  2024/05/02     | Cruz Palomino, Adriano Sebastian | Elaboración de Avance de Conclusiones, Bibliografía y Anexos.|
+| 2.8       |  2024/06/02    | Quispe Andia, Jeremy Joel|Elaboración de Sprint 3, Sprint Planning 3, Sprint Backlog 3 y el deployement de la Aplicación Web|
+| 2.9       |  2024/06/02    | Cachis Gonzales, Sebastian Nicolas | Elaboración de Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review.|
+| 3.0       |  2024/06/22    | Cabanillas Gora, Andrea Milagros|Elaboración de Services Documentation Evidence for Sprint Review |
+| 3.1       |  2024/06/02    | Yauri Paucar, Elias| Elaboración de Software Deployment Evidence for Sprint Review|
+| 3.2       |  2024/06/02     |  Castillo Castillo, Alexander Jair  |Elaboración de Team Collaboration Insights during Sprint|
+| 3.3       |  2024/06/02     | Cruz Palomino, Adriano Sebastian | Elaboración de Avance de Conclusiones, Bibliografía y Anexos.|
 
 
 ### Project Report Collaboration Insights
@@ -97,6 +103,22 @@ para cada integrante del equipo:
 Evidencias del Insights Contributos de los commits del informe:
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/70eac177-d9bc-4b18-a112-28efd9e76e57)
+
+**TB3**
+Para el desarrollo del informe perteneciente a la entrega TP, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adriano Sebastian Cruz Palomino| Elaboración de Avance de Conclusiones, Bibliografía y Anexos.  |
+| Sebastian Nicolas Cachis Gonzales | Elaboración de Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review.|
+| Jeremy Joel Quispe Andia         |Elaboración de Sprint 2, Sprint Planning 3, Sprint Backlog 3 y el deployement de la Aplicación Web |
+| Andrea Milagros Cabanillas Gora    |Elaboración de Services Documentation Evidence for Sprint Review   |
+| Elias Yauri Paucar     |  Elaboración de Software Deployment Evidence for Sprint Review |
+| Alexander Jair Castillo Castillo     | Elaboración de Team Collaboration Insights during Sprint |
+
+Evidencias del Insights Contributos de los commits del informe:
+
 
 
 ### Tabla de contenidos
