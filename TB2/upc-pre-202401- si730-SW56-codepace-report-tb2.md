@@ -2103,6 +2103,45 @@ Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0
 
 **5.2.3.3.Development Evidence for Sprint Review.**
 
+Durante este Sprint, se han logrado avances significativos en la implementación de varios componentes clave del sistema. Los desarrolladores han trabajado en proporcionar APIs esenciales para mejorar la funcionalidad de la plataforma CodePace. Los esfuerzos se han centrado en los siguientes módulos:
+
+1. Registro de Tutores
+2. Obtención de Planes
+3. Registro de Participación en Concurso
+4. Evaluación Técnica
+
+A continuación, se presenta una tabla detallada que incluye los commits relacionados con la implementación de estas funcionalidades en sus respectivos repositorios.
+
+#### Tabla de Commits Relacionados con la Implementación
+
+| Repositorio                  | Fecha          | Commit Message                                    | Autor           | Detalles Técnicos                                                    |
+|------------------------------|----------------|---------------------------------------------------|-----------------|-----------------------------------------------------------------------|
+| Feature/Tutors               | Jun 7, 2024    | feat: added the tutor method "GET" & "POST"       | Jemisas         | Implementación de los métodos GET y POST para el registro de tutores. |
+| feature/contest              | Jun 5, 2024    | add: added new structure of Contest BC            | U202211390      | Creación de la nueva estructura del Bounded Context para concursos.   |
+| feature/contest              | Jun 7, 2024    | feat: added directories domain, Application, Infrastructure and Interfaces | EliasYP         | Añadido de directorios para el dominio, aplicación, infraestructura e interfaces del concurso. |
+| feature/technical-evaluation | Jun 2, 2024    | feat(TechnicalTest): added aggregate technical test | AdrianoSCruzP   | Agregado del agregado de pruebas técnicas.                           |
+| feature/technical-evaluation | Jun 2, 2024    | feat: added the value objects, entities and command | Dark7YT         | Añadido de objetos de valor, entidades y comandos.                    |
+| feature/technical-evaluation | Jun 5, 2024    | fix: fixed technicalTest relation                 | AdrianoSCruzP   | Corrección de relaciones en pruebas técnicas.                        |
+| feature/technical-evaluation | Jun 5, 2024    | feat: added GetAllTechnicalTaskByTechnicalTestIdQuery in command service | AdrianoSCruzP   | Añadido de consulta para obtener todas las tareas técnicas por ID de prueba técnica. |
+| feature/technical-evaluation | Jun 5, 2024    | fead: added technical task and technical test repositories and the implementation | Dark7YT         | Añadido de repositorios e implementación de tareas y pruebas técnicas. |
+| feature/technical-evaluation | Jun 5, 2024    | fix: fixed AppDbContext                           | AdrianoSCruzP   | Corrección en la configuración de AppDbContext.                      |
+| feature/technical-evaluation | Jun 5, 2024    | feat(TechnicalEvaluation): added repositories and service | AdrianoSCruzP   | Añadido de repositorios y servicios para evaluación técnica.         |
+| feature/technical-evaluation | Jun 5, 2024    | refactor: renaming bounded context                | Dark7YT         | Refactorización del nombre del contexto delimitado.                  |
+| feature/technical-evaluation | Jun 5, 2024    | feat: added appdbcontext configuration and create queries | Dark7YT         | Añadido de configuración de AppDbContext y creación de consultas.    |
+| feature/technical-evaluation | Jun 6, 2024    | fix: fixed errors and problems in TechnicalTaskCommandService | AdrianoSCruzP   | Corrección de errores y problemas en el servicio de comandos de tareas técnicas. |
+| feature/technical-evaluation | Jun 6, 2024    | refactor: technical task removed userId           | AdrianoSCruzP   | Refactorización para remover userId de tareas técnicas.              |
+| feature/technical-evaluation | Jun 6, 2024    | refactor: create technicalTask and remove attributes from technicalTest | AdrianoSCruzP   | Creación de tareas técnicas y eliminación de atributos de pruebas técnicas. |
+| feature/technical-evaluation | Jun 6, 2024    | fead: added resources and transform               | Dark7YT         | Añadido de recursos y transformación.                                 |
+| feature/technical-evaluation | Jun 6, 2024    | feat: added command and query services implementation | AdrianoSCruzP   | Implementación de servicios de comandos y consultas.                 |
+| users/plans                  | Jun 7, 2024    | Feat: added endpoint plans                        | FlowerpowerA    | Implementación del endpoint para obtener planes.                     |
+
+### Resumen de Avances
+
+- **Registro de Tutores**: Se han añadido los métodos GET y POST necesarios para permitir a los tutores inscribirse en la plataforma.
+- **Obtención de Planes**: Se ha creado un endpoint para que los usuarios puedan visualizar los diferentes planes disponibles.
+- **Registro de Participación en Concurso**: Se ha reestructurado y mejorado la implementación del módulo de concursos.
+- **Evaluación Técnica**: Se ha trabajado extensamente en la creación, corrección y mejora del módulo de evaluaciones técnicas, incluyendo la adición de servicios, repositorios y consultas.
+
 **5.2.3.4.Testing Suite Evidence for Sprint Review.**
 
 **5.2.3.5.Execution Evidence for Sprint Review.**
