@@ -31,7 +31,7 @@
 
 
 
-### Mayo del 2024
+### Junio del 2024
 </div>
 
 <div align="justify">
@@ -2077,6 +2077,11 @@ Repositorio Web App:
 | TS09                |**Registrar Actividad de Usuario**	|W09|Registrar Actividad de Usuario	| <p>**Como** desarrollador que trabaja en la aplicación de CodePace **Quiero** proporcionar una API</p><p>Para que podamos registrar la actividad de los usuarios en la plataforma Para analizar el compromiso de los usuarios y mejorar la experiencia del usuario	</p>                               |3| Andrea Cabanillas               |Done|
 | TS10                |**Eliminar Cuenta de Usuario**	|W10|Eliminar Cuenta de Usuario	| <p>**Como** desarrollador que trabaja en la aplicación de CodePace</p><p>**Quiero** proporcionar una API</p><p>**Para** que los usuarios puedan eliminar permanentemente sus cuentas Para permitir a los usuarios retirarse completamente de nuestra plataforma si así lo desean</p>                  |2| Andrea Cabanillas               |Done|
 
+**Evidencia del Trello:**
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/72002a62-4b2a-4754-941e-6b68ac8f2404)
+
+Link del Trello: [Ver Enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf77758198087805f0691dd9c443d0bc2AD611CA/sprint-1)
 
 
 **5.2.3.3.Development Evidence for Sprint Review.**
