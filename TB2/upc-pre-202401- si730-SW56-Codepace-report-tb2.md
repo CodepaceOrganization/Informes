@@ -1,7 +1,7 @@
 <div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas
-### INFORME DEL TRABAJO (TB2)
+### INFORME DEL TRABAJO (TB3)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
 
 **Curso:** Aplicaciones Web
@@ -31,7 +31,7 @@
 
 
 
-### Mayo del 2024
+### Junio del 2024
 </div>
 
 <div align="justify">
@@ -60,6 +60,12 @@
 | 2.5       |  2024/05/02    | Yauri Paucar, Elias| Elaboración de Software Deployment Evidence for Sprint Review|
 | 2.6       |  2024/05/02     |  Castillo Castillo, Alexander Jair  |Elaboración de Team Collaboration Insights during Sprint|
 | 2.7       |  2024/05/02     | Cruz Palomino, Adriano Sebastian | Elaboración de Avance de Conclusiones, Bibliografía y Anexos.|
+| 2.8       |  2024/06/02    | Quispe Andia, Jeremy Joel|Elaboración de Sprint 3, Sprint Planning 3, Sprint Backlog 3 y el deployement de la Aplicación Web|
+| 2.9       |  2024/06/02    | Cachis Gonzales, Sebastian Nicolas | Elaboración de Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review.|
+| 3.0       |  2024/06/22    | Cabanillas Gora, Andrea Milagros|Elaboración de Services Documentation Evidence for Sprint Review |
+| 3.1       |  2024/06/02    | Yauri Paucar, Elias| Elaboración de Software Deployment Evidence for Sprint Review|
+| 3.2       |  2024/06/02     |  Castillo Castillo, Alexander Jair  |Elaboración de Team Collaboration Insights during Sprint|
+| 3.3       |  2024/06/02     | Cruz Palomino, Adriano Sebastian | Elaboración de Avance de Conclusiones, Bibliografía y Anexos.|
 
 
 ### Project Report Collaboration Insights
@@ -97,6 +103,22 @@ para cada integrante del equipo:
 Evidencias del Insights Contributos de los commits del informe:
 
 ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/70eac177-d9bc-4b18-a112-28efd9e76e57)
+
+**TB3**
+Para el desarrollo del informe perteneciente a la entrega TP, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adriano Sebastian Cruz Palomino| Elaboración de Avance de Conclusiones, Bibliografía y Anexos.  |
+| Sebastian Nicolas Cachis Gonzales | Elaboración de Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review.|
+| Jeremy Joel Quispe Andia         |Elaboración de Sprint 2, Sprint Planning 3, Sprint Backlog 3 y el deployement de la Aplicación Web |
+| Andrea Milagros Cabanillas Gora    |Elaboración de Services Documentation Evidence for Sprint Review   |
+| Elias Yauri Paucar     |  Elaboración de Software Deployment Evidence for Sprint Review |
+| Alexander Jair Castillo Castillo     | Elaboración de Team Collaboration Insights during Sprint |
+
+Evidencias del Insights Contributos de los commits del informe:
+
 
 
 ### Tabla de contenidos
@@ -2077,6 +2099,11 @@ Repositorio Web App:
 | TS09                |**Registrar Actividad de Usuario**	|W09|Registrar Actividad de Usuario	| <p>**Como** desarrollador que trabaja en la aplicación de CodePace **Quiero** proporcionar una API</p><p>Para que podamos registrar la actividad de los usuarios en la plataforma Para analizar el compromiso de los usuarios y mejorar la experiencia del usuario	</p>                               |3| Andrea Cabanillas               |Done|
 | TS10                |**Eliminar Cuenta de Usuario**	|W10|Eliminar Cuenta de Usuario	| <p>**Como** desarrollador que trabaja en la aplicación de CodePace</p><p>**Quiero** proporcionar una API</p><p>**Para** que los usuarios puedan eliminar permanentemente sus cuentas Para permitir a los usuarios retirarse completamente de nuestra plataforma si así lo desean</p>                  |2| Andrea Cabanillas               |Done|
 
+**Evidencia del Trello:**
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/72002a62-4b2a-4754-941e-6b68ac8f2404)
+
+Link del Trello: [Ver Enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf77758198087805f0691dd9c443d0bc2AD611CA/sprint-1)
 
 
 **5.2.3.3.Development Evidence for Sprint Review.**
@@ -2147,21 +2174,23 @@ Primer segmento objetivo (Desarrolladores)
 |----------|---------|
 | Opinion  |  Piero dijo que la app esta bien desarrollado y la pantalla esta bien proporcionada y ordenada, por otro lado resalto que los colores son agradables a la vista y llamativo, tambien dijo que los apartados estan bien hechos y son entendibles a la vista de usuario, por ultimo el dijo que como desarrollador usaria la aplicacion       | 
 | Tiempo | 3:14 min |
-| Location | https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D20%5F10%5F36%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9bf688a3%2D2650%2D42f5%2Db8b9%2D0c1ea1492c0a | 
+| Location | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EYKqBOseLHFFoOeYpMB9CdIBqdHWIpM-fHCEi6kWwQlzDg?e=VPyyoG | 
 
 
 
-| Entrevista 2 | |
+| Entrevista 2 | Jose Luza |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo   |    |
-| Location | 
+| Opinion  | Jose dijo que la app visualmente se ve bien distribuido,ademas dice que el calendario sirve para organizarse de forma correcta, la parte context le parece importante al igual que el simulacro y los planes ofrecidos, por lo que piensa que es un app completa y como desarrollador usaria la app ya que podria desenvolverse mejor en las entrevistas    | 
+| Tiempo   |   4:47 min |
+| Location | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EeDUeWBuLjNJtPddbutGzFsBYDA7cnMvinCzB0GKp_HYkw?e=E0YKF0 |
 
-| Entrevista 3 | |
+
+
+| Entrevista 3 | Sergio Guzman |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo   |   |
-| Location |     |
+| Opinion  |   Sergio dice que la app le parece buena y le gusto la parte de los tutores y simulacros de entrevistas, ademas le parece intereante la variedad de lemguajes que puede aprender en la app , por ultimo recalco que como desarrolador usaria la app      | 
+| Tiempo   |   5:00 min |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/Edt0L9b8nstJgnIBVbLALdoB5mpi-uc4wmBE4fF-kp57VA?e=8x40VL   |
 
 
 Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
@@ -2169,24 +2198,24 @@ Segundo segmento objetivo (Estudiantes de informática y carreras relacionadas)
 
 | Entrevistado 1 | Gustavo poma |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo | 5 min |
-| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F18%5F44%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea4d4f43c%2D3bdb%2D40e8%2Dacc4%2D598d002b1a41 |
+| Opinion  | Gustavo nos dijo que la app se ve interactiva, le gusta el diseño y el color le parece fuera de lo comun, sin embargo dice que el logo debe estar mas relacionado al tema        | 
+| Tiempo | 6:50 min |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/ETQRs1NZSgFLmUB63Usc1xcBCzWJ_4ayVTiMEqZCrdaeFw?e=ZJPNFY |
 
 
 | Entrevista 2 | Daniel del Castillo |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo   |  4 min  |
-| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F19%5F06%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E80556faf%2D938e%2D43fd%2Db7f7%2De54d4533f69c |
+| Opinion  |  Daniel nos dijo que la app se ve atrativa, dijo que las redirecciones del calendario son utiles, dice que la pagina esta bien hecha, le gusta la gama de colores y centrar la barra de opciones, ademas dijo que como estudiante si usaria la pagina       | 
+| Tiempo   |  5:32 min  |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/Ee-C5sowbVVEvb93Cp6sVNABIQP8S-30RJ2fP3bALrvVeg?e=Wf5fQJ |
 
 
 
 | Entrevista 3 | Alex Avila |
 |----------|---------|
-| Opinion  |         | 
-| Tiempo   |  8 min  |
-| Location |  https://upcedupe-my.sharepoint.com/personal/u202211711_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211711%5Fupc%5Fedu%5Fpe%2FDocuments%2Fwww%5Fscreencapture%5Fcom%5F2024%2D5%2D19%5F22%5F39%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed481e6d9%2Dacda%2D40d4%2Db075%2D963d1f1edfbb   |
+| Opinion  |  Alex nos comenta que visualmente le gusta la app, tambien comenta que el calendario deberia tener una racha con un mensaje que diga ¡Vas bien!, le gustaria tambien que en el perfil de usuario se muestre el lenguaje que se esta aprendiendo y que se muestre el ranking actual del usuario, por otro lado dijo que               como estudiante de software usaria la app y el uso de colores en la app es amigable          | 
+| Tiempo   |  5:37 min  |
+| Location |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/ERjmSC_WkBhPvXaLkq2EmbsB3Y9mK4POrjrQNqJN7AbPZg?e=IlaQ9F  |
 
 
 
@@ -2206,33 +2235,29 @@ Meta: Encontrar problemas existentes en la aplicación web CodePace
 Cómo: : Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen
 
 **TAREAS A EVALUAR:**
-1. Desktop landing page
+
+**1. Desktop landing page**
   
 1. Información y descripción de la aplicación y sus funcionalidades
 2. Visualización de planes de pago y precio de la aplicación
 3. Header y footer apropiado para la landing page
-4. Interacción del landing page con la aplicación
+4. Informacion about the team
+5. Interaccion de los botones de las redes sociales
    
-2. Web Application
+**2. Web Application**
    
 1. Inicio de sesión con usuario existente
 2. Indicadores claros de progreso o estado del proceso
-3. Iconografía comprensible y consistente con el mundo real
-4. Mensajes de error que reflejen el registro de datos incorrectos
-5. Acciones de retroceso dentro de la aplicación
-6. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
-7. Evaluar existencia de patrones de diseño o navegación
-8. Elementos de la interfaz de usuario consistentes
-9. Pestañas de navegación dentro de la aplicación
-10. Botones interactivos y de uso intuitivo
-11. Búsqueda de procesos y cultivos con registro previo
-12. Navegación y orientación dentro de la aplicación
-13. Apertura y visualización de cultivos registrados
-14. Visualización de perfil de usuario
-15. Visualización del perfil de la empresa
-16. Mensajes que orienten al usuario sobre el estado del sistema
-17. Cambio de idioma de la aplicación
-18. Estética general de la interfaz atractiva y agradable visualmente
+3. Se adaota bien a todos los formatos 
+4. Acciones de retroceso dentro de la aplicación
+5. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+6. Pestañas de navegación dentro de la aplicación
+7. Botones interactivos y de uso intuitivo
+8. Navegación y orientación dentro de la aplicación
+9. Visualización de perfil de usuario
+10. Cambio de idioma de la aplicación
+11. Estética general de la interfaz atractiva y agradable visualmente
+12. Funcionamiento del simulador de entrevistas en vivo
 
 
 ESCALA DE SEVERIDAD:
@@ -2254,14 +2279,335 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 TABLA RESUMEN:
 
-|  #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
- |------------|--------|-----------|---------------------|--------------------|
- | Develop | feature/Crop |  57f718e | feat(calendar): calendar now reflects the weather|
- | Develop | feature/Consultancy | 64edfb5 | feat(consultancy/model): create crop and notification entities |
- | Develop | feature/Farmer | 26999f1 | feat(finance.component): added lists of collections and payments to s… | 
- | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management| 
- 
+**Desktop landing page**
 
+|`                  `#|`          `Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :- | :- | :- | :- |
+|1|En vez de poner acerca de nosotros se debería poner sobre la aplicacion|2 |<p>Information Arquitecture:</p><p>Jerarquía de Información</p>|
+|2|Incluir un titulo que diga nuestros planes de esta forma el usuario sabrá donde se ubican los planes|2|<p>Information Arquitecture:</p><p>Jerarquía de Información</p>|
+|3|Los logos de las redes sociales en el footer son muy pequeños y están desordenados|1|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+|4|` `No contamos con una sección “About the team” donde hablemos sobre nosotros|` `3|<p>Inclusive Design: Diseño Centrado</p><p>en el Usuario</p>|
+|5|Los logos de las redes no redirigen a ninguna red social externa|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+
+
+**PROBLEMA #01: En vez de poner acerca de nosotros se debería poner sobre la aplicacion**
+
+Escala de severidad: 02
+
+Principio violado: Information Arquitecture: Jerarquía de Información 
+
+Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c4819bb5-a406-47b2-bda0-5e8660de0fed)
+
+
+Recomendacion: Cambiar el titulo de sobre nostros a sobre el producto para que el contenido tenga relacion con el titulo
+
+
+
+
+
+
+**PROBLEMA #02: Incluir un titulo que diga nuestros planes de esta forma el usuario sabrá donde se ubican los planes**
+
+Escala de severidad: 02
+
+Principio violado: Information Arquitecture: Jerarquía de Información 
+
+Descripción del problema: En el landing es un poco dificil ubicar los planes ya que no hay un titulo que lo explique
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/4f07c97c-7dae-4ba1-b56c-c31fc0ca9f51)
+
+
+
+Recomendacion: Incluir un Titulo que diga nuestros planes asi el usuario identificara mas rapido nuestros planes
+
+
+
+
+
+
+
+**PROBLEMA #03: Los logos de las redes sociales en el footer son muy pequeños y están desordenados**
+
+Escala de severidad: 01
+
+Principio violado: Usability: Diseño estético y minimalista
+
+Descripción del problema: Los logos de las redes sociales son pequeños y desordenados haciendo dificil al usuario ubicarlas o que no sean agradables a la vista
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/6690486e-7d38-4acc-a47b-4814ef1a4530)
+
+
+Recomendacion: Ordenar los logos y agrandarlos para que sea agradable a la vista del usuario y este pueda ubicarlos con facilidad
+
+
+
+
+
+
+**PROBLEMA #04: No contamos con una sección “About the team” donde hablemos sobre nosotros**
+
+Escala de severidad: 03
+
+Principio violado: Inclusive Design: Diseño Centrado en el usuario
+
+Descripción del problema: En la landing no contamos con una parte donde se hable sobre los miembros del grupo que es importante para que los usuarios conozcan a los team menbers
+
+  ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/053b13a4-fe1e-4a35-844a-486cd395ce0e)
+
+
+
+Recomendacion: Hacer un apartado sobre About the team que trate sobre nuestra informacion de grupo, asi el usuario se enterara sobre quienes son los team members de la app.
+
+
+
+
+**PROBLEMA #05: Los logos de las redes no redirigen a ninguna red social externa**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
+
+
+Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+
+
+
+
+
+
+
+
+
+
+**Web Application**
+   
+|`                 `#|`        `Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :- | :- | :- | :- |
+|1|Agrandar las letras de inicio de sesion|1|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+|2|Al crear cuenta no sale un mensaje de registro exito|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p><p></p>|
+|3|Al cambiar al celular la app se mueve y no se ve de forma estetica|4|<p>Inclusive Design: Diseño Centrado</p><p>en el Usuario</p>|
+|4|Falta un botón para regresar a la pagina anterior|4|<p>Usability: Control y libertad del</p><p>usuario</p>|
+|5|No hay opción de cancelar o salir del registro de procesos para redireccionarse al dashboard|4|<p>Usability: Control y libertad del</p><p>usuario</p>|
+|6|No se abre una ventana dentro de la app|3|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+|7|Algunos botones no redirigen a otra pagina o ventana|4|<p>Usability: Coincidencia entre el</p><p>sistema y el mundo real</p>|
+|8|En global ranking falta indicar las instrucciones para que el usuario entienda lo que debe hacer|4|<p>Inclusive Design: Diseño Centrado</p><p>en el Usuario</p>|
+|9|En el perfil de usuario incluir el lenguaje que estudia actualmente y el rango actual que tiene|3|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+|10|La app no cambia de idioma|` `4 |<p>Information Arquitecture:</p><p>Organaización y Estructura</p>|
+|11|Centrar la barra de menú|2|<p>Usability: Diseño estético y</p><p>minimalista</p>|
+
+
+
+
+
+**PROBLEMA #01: Agrandar las letras de inicio de sesion**
+
+Escala de severidad: 01
+
+Principio violado: Usability: Diseño estético y minimalista
+
+Descripción del problema:En el inicio de sesion las letras de ¿No tienes cuenta? Inicia sesion estan un poco pequeñas
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/b729591b-a4cf-4aae-b8f4-e07722029557)
+
+
+Recomendacion: Agrandar las letras de inicio de sesion las letras de ¿No tienes cuenta?
+
+
+
+
+
+
+**PROBLEMA #02: Al crear cuenta no sale un mensaje de registro exito**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+
+Descripción del problema: No sale un mensaje de registro exitoso cuando creas tu cuenta por primera vez
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/adb3740e-6c0d-4fe4-b1c4-7cc470e1919c)
+
+
+
+Recomendacion: Incluir un mensaje de registro exitoso una vez creada la cuenta
+
+
+
+
+
+**PROBLEMA #03: Al cambiar al celular la app se mueve y no se ve de forma estetica**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Inclusive Design: Diseño Centrado en el usuario
+
+Descripción del problema: Al poner el formato celular las cards y la barra de menu se mueven y no se ven de forma estetica
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/9262eab9-c832-440c-9bc0-c6aae2d9a0f0)
+
+
+
+Recomendacion: Hacer la app responsive para que se adapte a todo los tamaños de diapositivos
+
+
+
+
+**PROBLEMA #04: Falta un botón para regresar a la pagina anterior**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Control y libertad del usuario
+
+Descripción del problema: No hay un boton de la app para regresar a la pagina anterior
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/51fca2c8-4dc9-4572-bce7-a6154ce28b8a)
+
+
+Recomendacion: Incluir botones para poder regresar las paginas dentro de la app
+
+
+
+
+
+**PROBLEMA #05: No hay opción de cancelar o salir del registro de procesos para redireccionarse al dashboard**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Control y libertad del usuario
+
+Descripción del problema: No hay botone de cerrar, cancelar , salir al dashboard
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/f6a18883-3e85-4dc0-a0b1-1d1024ba9680)
+
+
+
+Recomendacion: Incluir un boton para cerrar o cancelar una ventana para que el usuario pueda interactuar de una forma mas comoda
+
+
+
+
+
+**PROBLEMA #06: No se abre una ventana dentro de la app**
+
+Escala de severidad: 03
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+
+
+Descripción del problema: Dentro de la app no se abre otra ventana tampoco de forma externa
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/819b7554-f28d-4148-913f-b970e1587fa1)
+
+
+Recomendacion: Hacer formularios y consolas para que dentro de la app se abran ventanas y el usuario tenga una experincia mas interactiva
+
+
+
+
+
+**PROBLEMA #07: Algunos botones no redirigen a otra pagina o ventana**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Coincidencia entre el sistema y el mundo real
+Descripción del problema: En nosotros el titulo dice sobre nosotros cuando se habla del producto por lo que el titulo deberia ser sobre el producto.
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/7717cdfa-7584-4967-bd8b-bd71ab9adad4)
+
+
+Recomendacion: Trabajar en que los botones redirigan a la red social que eliga el usuario
+
+
+
+**PROBLEMA #08: En global ranking falta indicar las instrucciones para que el usuario entienda lo que debe hacer**
+
+Escala de severidad: 04
+
+Principio violado: Usability: Inclusive Design: Diseño Centrado en el usuario
+
+Descripción del problema: En el ranking no hay explicaciones para que el usuario vea como acceder a su ranking semanal
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c5d5b1f2-8b38-46cc-a415-3f8e97fbbef4)
+
+
+
+Recomendacion: Incluir instrucciones para que los usarios vean como acceder al global ranking con facilidad
+
+
+
+
+
+**PROBLEMA #09: En el perfil de usuario incluir el lenguaje que estudia actualmente y el rango actual que tiene**
+
+Escala de severidad: 03
+
+Principio violado: Usability: Diseño estético y minimalista
+
+Descripción del problema: El perfil de usuario no tiene incluido el lenguaje que estudia actualmente y el rango actual que tiene
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/2f858418-8737-44d0-9930-59bb2c95a930)
+
+
+Recomendacion: Incluir en el perfil de usuario el lenguaje que estudia actualmente y el rango actual que tiene cada usuario, asi otros usarios veran sus avances y conocimientos
+
+
+
+
+
+
+
+**PROBLEMA #10: La app no cambia de idioma**
+
+Escala de severidad: 04
+
+Principio violado: Information Arquitecture: Organaización y Estructura
+
+Descripción del problema: La app no cambia de ingles a español
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/3dc19e52-3957-4eb8-b897-81668bbc4595)
+
+
+Recomendacion: Incluir el cambio de idioma, asi la app logra ser entendido en el mundo y no solo en un lugar
+
+
+
+
+
+
+**PROBLEMA #11: Centrar la barra de menú**
+
+Escala de severidad: 02
+
+Principio violado: Usability: Diseño estético y minimalista
+
+Descripción del problema: La barra de menu esta a un costado y no centrada
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c5bef76a-7d21-4726-8be2-949609c18bd6)
+
+
+Recomendacion: Arreglar el diseño y centrar la barra de menu
+
+
+
+
+
+
+
+**5.4. video About the product**
 
 
 
