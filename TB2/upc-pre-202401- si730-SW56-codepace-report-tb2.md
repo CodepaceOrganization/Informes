@@ -2626,6 +2626,22 @@ El Sprint 2 demostró ser un periodo de alta productividad y eficiencia para nue
 
 La documentación detallada generada durante el Sprint, incluyendo informes de desarrollo y evidencia de despliegue, facilitó una comprensión clara y completa del trabajo realizado. Esta presentación estructurada y transparente de los resultados del Sprint, que incluyó evidencia visual de la aplicación web en funcionamiento, proporcionó una representación tangible y convincente del progreso logrado. En conjunto, el Sprint 2 estableció una base sólida para el éxito del proyecto GetWork, asegurando que la aplicación web sea atractiva, funcional y satisfactoria para sus usuarios.
 
+
+**TB2:**
+
+
+En el sprint 3 se vio que el compromiso de CodePace es brindar un apoyo integral a los programadores para que logren el éxito en sus entrevistas técnicas y desarrollen sus carreras en la industria tecnológica. La plataforma evidencia una dedicación profunda a mejorar las habilidades de codificación de sus usuarios a través de recursos y entrenamientos personalizados, incluyendo ejercicios prácticos y simulacros de entrevistas en vivo. Además, muestra una estrecha colaboración con empresas tecnológicas, lo que no solo enriquece el contenido de la plataforma, sino que también ofrece oportunidades exclusivas de reclutamiento para sus usuarios. En conjunto, el trabajo de CodePace refleja su misión de ser un compañero confiable y su visión de democratizar el acceso a recursos de calidad y entrenamiento efectivo para todos los programadores, impulsando así el crecimiento y la excelencia en la comunidad global de desarrolladores, ademas la documentación detallada generada durante el Sprint, incluyendo informes de desarrollo y evidencia de despliegue, facilitó una comprensión clara y completa del trabajo realizado.
+
+
+
+
+
+
+
+
+
+
+
 **Bibliografía**
 
   - Apliint. (2024). 10 principales tecnologías frontend para usar en 2022. Recuperado de: [Apliint](https://apliint.com/2022/03/15/10-principales-tecnologias-frontend-para-usar-en-2022/)
