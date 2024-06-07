@@ -223,33 +223,19 @@ Evidencias del Insights Contributos de los commits del informe:
 - [Capítulo V: Product Implementation, Validation & Deployment](#cap%C3%ADtulo-v-product-implementation-validation--deployment)
 
   - 5.1. Software Configuration Management.
-  
   - 5.1.1. Software Development Environment Configuration.
-  
   - 5.1.2. Source Code Management.
-  
   - 5.1.3. Source Code Style Guide & Conventions.
-  
   - 5.1.4. Software Deployment Configuration.
-  
   - 5.2. Landing Page, Services & Applications Implementation.
-  
   - 5.2.1. Sprint 1
-  
   - 5.2.1.1. Sprint Planning 1.
-  
   - 5.2.1.2. Sprint Backlog 1.
-  
   - 5.2.1.3. Development Evidence for Sprint Review.
-  
   - 5.2.1.4. Testing Suite Evidence for Sprint Review.
-  
   - 5.2.1.5. Execution Evidence for Sprint Review.
-  
   - 5.2.1.6. Services Documentation Evidence for Sprint Review.
-  
   - 5.2.1.7. Software Deployment Evidence for Sprint Review.
-  
   - 5.2.1.8. Team Collaboration Insights during Sprint.
 
   - 5.2.2. Sprint 2
@@ -260,7 +246,8 @@ Evidencias del Insights Contributos de los commits del informe:
   - 5.2.2.5.Execution Evidence for Sprint Review.
   - 5.2.2.6.Services Documentation Evidence for Sprint Review.
   - 5.2.2.7.Software Deployment Evidence for Sprint Review.
-  - 5.2.2.8.Team Collaboration Insights during Sprint.    
+  - 5.2.2.8.Team Collaboration Insights during Sprint.
+   
   - 5.2.3. Sprint 3
   - 5.2.3.1.Spring Planning 3.
   - 5.2.3.2.Sprint Backlog 3.
@@ -2094,7 +2081,18 @@ Link del Trello: [Ver Enlace](https://trello.com/invite/b/LttsMJKr/ATTIcf7775819
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. La sección inicia con una introducción explicando qué se ha realizado con respecto a despliegue durante este Sprint. Abarca actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros. Se considera dentro del proceso de Deployment todos los productos: Landing Page, Web Applications y Web Services. A continuación, se presentan capturas en imagen y explicaciones de los pasos realizados durante el Sprint.
+
 **5.2.3.8.Team Collaboration Insights during Sprint.**
+
+| Alumno                             | Actividad                                                           |
+|------------------------------------|---------------------------------------------------------------------|
+| Cruz Palomino, Adriano Sebastian   | Implementación de la sección Planes y Gestión de perfil del backend |
+| Cachis Gonzales, Sebastian Nicolas | Implementación de la sección de Problems del backend                |
+| Quispe Andia, Jeremy Joel          | Implementación de la sección simulacrum y tutors del backend        |
+| Cabanillas Gora, Andrea Milagros   | Implementación de sección de Problems del backend                   |
+| Yauri Paucar, Elias                | Implementación de la sección Contest del backend                    |
+| Castillo Castillo, Alexander Jair  | Implementación de la sección Contest del backend                    |
 
 **5.3. Validation Interviews**
 
