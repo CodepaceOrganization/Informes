@@ -2103,6 +2103,37 @@ Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0
 
 **5.2.3.3.Development Evidence for Sprint Review.**
 
+| Repository                                      | Branch                  | Commit ID  | Commit Message                                 | Commit Message Body                                        | Committed On (Date) |
+|-------------------------------------------------|-------------------------|------------|------------------------------------------------|------------------------------------------------------------|---------------------|
+| Jemisas/CodepaceOrganization/GetWork-Backend    | Feature/Tutors          |e72b309 | feat: added the tutor method "GET" & "POST"    | Implementación de los métodos GET y POST para el registro de tutores. | Jun 7, 2024         |
+| U202211390/CodepaceOrganization/GetWork-Backend | feature/contest         | ceea8a4 | add: added new structure of Contest BC         | Creación de la nueva estructura del Bounded Context para concursos.  | Jun 5, 2024         |
+| EliasYP/CodepaceOrganization/GetWork-Backend    | feature/contest         | a090c3e | feat: added directories domain, Application, Infrastructure and Interfaces | Añadido de directorios para el dominio, aplicación, infraestructura e interfaces del concurso. | Jun 7, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation |cde7b29| feat(TechnicalTest): added aggregate technical test | Agregado del agregado de pruebas técnicas.                | Jun 2, 2024         |
+| Dark7YT/CodepaceOrganization/GetWork-Backend    | feature/technical-evaluation | 1fdf2ca| feat: added the value objects, entities and command | Añadido de objetos de valor, entidades y comandos.         | Jun 2, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | 96d203c | fix: fixed technicalTest relation              | Corrección de relaciones en pruebas técnicas.              | Jun 5, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | b96830a | feat: added GetAllTechnicalTaskByTechnicalTestIdQuery in command service | Añadido de consulta para obtener todas las tareas técnicas por ID de prueba técnica. | Jun 5, 2024         |
+| Dark7YT/CodepaceOrganization/GetWork-Backend    | feature/technical-evaluation | 215168c | fead: added technical task and technical test repositories and the implementation | Añadido de repositorios e implementación de tareas y pruebas técnicas. | Jun 5, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | e75fb38 | fix: fixed AppDbContext                        | Corrección en la configuración de AppDbContext.            | Jun 5, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | cc8bcbf| feat(TechnicalEvaluation): added repositories and service | Añadido de repositorios y servicios para evaluación técnica. | Jun 5, 2024         |
+| Dark7YT/CodepaceOrganization/GetWork-Backend    | feature/technical-evaluation | 012e144 | refactor: renaming bounded context             | Refactorización del nombre del contexto delimitado.        | Jun 5, 2024         |
+| Dark7YT/CodepaceOrganization/GetWork-Backend    | feature/technical-evaluation | 0b2b6ab| feat: added appdbcontext configuration and create queries | Añadido de configuración de AppDbContext y creación de consultas. | Jun 5, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | a39fa2f | fix: fixed errors and problems in TechnicalTaskCommandService | Corrección de errores y problemas en el servicio de comandos de tareas técnicas. | Jun 6, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | 9b37af6 | refactor: technical task removed userId        | Refactorización para remover userId de tareas técnicas.    | Jun 6, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | 9572f49 | refactor: create technicalTask and remove attributes from technicalTest | Creación de tareas técnicas y eliminación de atributos de pruebas técnicas. | Jun 6, 2024         |
+| Dark7YT/CodepaceOrganization/GetWork-Backend    | feature/technical-evaluation | 47ca5ac  | fead: added resources and transform            | Añadido de recursos y transformación.                      | Jun 6, 2024         |
+| AdrianoSCruzP/CodepaceOrganization/GetWork-Backend | feature/technical-evaluation | 9406636| feat: added command and query services implementation | Implementación de servicios de comandos y consultas.       | Jun 6, 2024         |
+| FlowerpowerA/CodepaceOrganization/GetWork-Backend | users/plans              | d9a84e1 | Feat: added endpoint plans                     | Implementación del endpoint para obtener planes.           | Jun 7, 2024         |
+
+**Repositorio**: CodepaceOrganization/GetWork-Backend
+
+### Resumen de Avances
+
+- **Registro de Tutores**: Se han añadido los métodos GET y POST necesarios para permitir a los tutores inscribirse en la plataforma.
+- **Obtención de Planes**: Se ha creado un endpoint para que los usuarios puedan visualizar los diferentes planes disponibles.
+- **Registro de Participación en Concurso**: Se ha reestructurado y mejorado la implementación del módulo de concursos.
+- **Evaluación Técnica**: Se ha trabajado extensamente en la creación, corrección y mejora del módulo de evaluaciones técnicas, incluyendo la adición de servicios, repositorios y consultas.
+
+
 **5.2.3.4.Testing Suite Evidence for Sprint Review.**
 
 **5.2.3.5.Execution Evidence for Sprint Review.**
