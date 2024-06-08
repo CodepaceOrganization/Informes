@@ -2715,6 +2715,8 @@ Recomendacion: Arreglar el diseño y centrar la barra de menu
 
 **5.4. video About the product**
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EeBA1GrkBa1Ep3EvXou7GzABVKfHPZgnuww7Iq8xTFxtsw?e=5r1BMu
+
 
 
 **Conclusiones**
