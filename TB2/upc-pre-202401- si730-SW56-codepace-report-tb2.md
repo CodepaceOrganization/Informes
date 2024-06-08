@@ -2784,6 +2784,6 @@ En el sprint 3 se vio que el compromiso de CodePace es brindar un apoyo integral
 - Enlace para acceder al figma LandingPage: [Ver enlace](https://www.figma.com/file/IBYRstHzBvbdgKjdJMCOF7/LandingPage-GetWork?type=design&node-id=0%3A3&mode=design&t=Lv20k0Frf2z0vmA0-1)
 - Enlace para acceder al figma Aplicación Web: [Ver enlace](https://www.figma.com/file/fBSQdNJJcBVnOnb3b6qj0t/Web-Application-GetWork?type=design&node-id=0%3A1&mode=design&t=ZWpSGbkUwjfRnrYe-1)
 - Enlace para acceder al video de explicación del [<u>Web ApplicationsPrototyping</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211817_upc_edu_pe/EZp3Qo0XnLdCoBRmMhmBUfIB7_6CEbss59x39MwdOPCSnw?e=NWa7dV)
-- Enlace del video about the team https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EeBA1GrkBa1Ep3EvXou7GzABVKfHPZgnuww7Iq8xTFxtsw?e=5r1BMu
+- Enlace del video about the team: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EeBA1GrkBa1Ep3EvXou7GzABVKfHPZgnuww7Iq8xTFxtsw?e=5r1BMu)
 
 </div>
