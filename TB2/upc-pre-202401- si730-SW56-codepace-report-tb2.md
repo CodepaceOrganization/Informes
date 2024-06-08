@@ -2211,7 +2211,10 @@ Commits web service:
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
-En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. La sección inicia con una introducción explicando qué se ha realizado con respecto a despliegue durante este Sprint. Abarca actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros. Se considera dentro del proceso de Deployment todos los productos: Landing Page, Web Applications y Web Services. A continuación, se presentan capturas en imagen y explicaciones de los pasos realizados durante el Sprint.
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. En este sprint se desplego el frontend con las mejoras correspondientes y la landing page, por ahora no desplegamos es backend. A continuación, se presentan capturas en imagen y explicaciones de los pasos realizados durante el Sprint.
+
+
+
 
 **5.2.3.8.Team Collaboration Insights during Sprint.**
 
@@ -2742,10 +2745,6 @@ La documentación detallada generada durante el Sprint, incluyendo informes de d
 
 
 En el sprint 3 se vio que el compromiso de CodePace es brindar un apoyo integral a los programadores para que logren el éxito en sus entrevistas técnicas y desarrollen sus carreras en la industria tecnológica. La plataforma evidencia una dedicación profunda a mejorar las habilidades de codificación de sus usuarios a través de recursos y entrenamientos personalizados, incluyendo ejercicios prácticos y simulacros de entrevistas en vivo. Además, muestra una estrecha colaboración con empresas tecnológicas, lo que no solo enriquece el contenido de la plataforma, sino que también ofrece oportunidades exclusivas de reclutamiento para sus usuarios. En conjunto, el trabajo de CodePace refleja su misión de ser un compañero confiable y su visión de democratizar el acceso a recursos de calidad y entrenamiento efectivo para todos los programadores, impulsando así el crecimiento y la excelencia en la comunidad global de desarrolladores, ademas la documentación detallada generada durante el Sprint, incluyendo informes de desarrollo y evidencia de despliegue, facilitó una comprensión clara y completa del trabajo realizado.
-
-
-
-
 
 
 
