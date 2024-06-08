@@ -2107,7 +2107,76 @@ Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0
 
 **5.2.3.5.Execution Evidence for Sprint Review.**
 
+En el sprint 3 se alcanzo un desarrollo parcial del backend de la web application. La cual muestra los endpoints atravez de swagger. A continuación se muestran algunas evidencias:
+
+**Tutors**
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/133830443/b8d5fd7a-331a-401d-995b-a9447f766765)
+
+**Subscription**
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/133830443/a25ca709-1889-4054-91f4-369b97126178)
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/133830443/9a6f1953-73b1-4a70-a278-b6db836165a2)
+
+**Cursos**
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/133830443/f4b0a448-621f-417e-9b38-476e8cb2544d)
+
 **5.2.3.6.Services Documentation Evidence for Sprint Review.**
+
+Para el sprint 3 únicamente se planificó que el sprint abarcaría el back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta esta entrega el backend fue creado pero no se relaciona con el fronted ya que esa asignación tendra cavida en la entrega final. 
+
+Enlace My Json :  [Ver enlace](https://my-json-server.typicode.com/jemisas/APIS_AppWeb) [Ver enlace](https://my-json-server.typicode.com/Dark7YT/CodepaceOrganization-SW56) 
+
+**README.md**
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130100844/4afe6d86-4b2e-4f20-8b3d-b7471b2ab8ac)
+
+![image](https://github.com/CodepaceOrganization/Informes/assets/130100844/f9748cf0-b7f0-41cd-9e49-3cf2be076f7e)
+
+|**Endpoint**|**Details**|
+| :- | :- |
+|/tutors|Este endpoint podría usarse para mostrar una lista de todos los tutores disponibles para los estudiantes, junto con sus detalles, permitiendo a los estudiantes seleccionar un tutor y programar una sesión de tutoría en uno de los horarios disponibles.|
+|/ technical-tests-30-days-of|Devuelve una lista de programas de estudio de 30 días centrados en tecnologías específicas. Cada elemento de la lista contiene información sobre un programa, incluyendo su título, descripción y una imagen que lo representa|
+|/ technical-tests-study-plan|Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas. Cada plan de estudio incluye un título, una descripción y una imagen representativa.|
+|/ "details-3|Ofrece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio, como su descripción, dificultad, progreso y estado. El estado puede indicar si el ejercicio está en progreso, completado o si todavía no se ha comenzado. Además, el progreso puede indicar el nivel de finalización del ejercicio, y la dificultad proporciona una indicación de la complejidad del ejercicio.|
+
+<table><tr><th colspan="1" valign="top"><b>Endpoint</b></th><th colspan="1" valign="top"><b>Operaciones</b></th><th colspan="1" valign="top"><b>Parametros</b></th><th colspan="1" valign="top"><b>URL</b></th></tr>
+<tr><td colspan="1" rowspan="4" valign="top"><p>Tutors ´</p><p>technical-tests-30-days-of</p><p></p><p></p><p>technical-tests-study-plan</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
+<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">`          `{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
+<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors/{id}</td></tr>
+<tr><td colspan="3" valign="top"></td></tr>
+</table>
+
+Link del repostorio: 
+
+https://github.com/CodepaceOrganization/GetWorkBackend.git 
+
+Commits web service:
+
+| Repository                                      | Branch                  | Commit ID  | Commit Message                                 | Commit Message Body                                        | Committed On (Date) |
+|-------------------------------------------------|-------------------------|------------|------------------------------------------------|------------------------------------------------------------|---------------------|
+| https://github.com/CodepaceOrganization/GetWorkBackend.git   | Feature/Tutors          |e72b309 | feat: added the tutor method "GET" & "POST"    | Implementación de los métodos GET y POST para el registro de tutores. | Jun 7, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/contest         | ceea8a4 | add: added new structure of Contest BC         | Creación de la nueva estructura del Bounded Context para concursos.  | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git     | feature/contest         | a090c3e | feat: added directories domain, Application, Infrastructure and Interfaces | Añadido de directorios para el dominio, aplicación, infraestructura e interfaces del concurso. | Jun 7, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation |cde7b29| feat(TechnicalTest): added aggregate technical test | Agregado del agregado de pruebas técnicas.                | Jun 2, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git     | feature/technical-evaluation | 1fdf2ca| feat: added the value objects, entities and command | Añadido de objetos de valor, entidades y comandos.         | Jun 2, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | 96d203c | fix: fixed technicalTest relation              | Corrección de relaciones en pruebas técnicas.              | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | b96830a | feat: added GetAllTechnicalTaskByTechnicalTestIdQuery in command service | Añadido de consulta para obtener todas las tareas técnicas por ID de prueba técnica. | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git    | feature/technical-evaluation | 215168c | fead: added technical task and technical test repositories and the implementation | Añadido de repositorios e implementación de tareas y pruebas técnicas. | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | e75fb38 | fix: fixed AppDbContext                        | Corrección en la configuración de AppDbContext.            | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | cc8bcbf| feat(TechnicalEvaluation): added repositories and service | Añadido de repositorios y servicios para evaluación técnica. | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git     | feature/technical-evaluation | 012e144 | refactor: renaming bounded context             | Refactorización del nombre del contexto delimitado.        | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git     | feature/technical-evaluation | 0b2b6ab| feat: added appdbcontext configuration and create queries | Añadido de configuración de AppDbContext y creación de consultas. | Jun 5, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | a39fa2f | fix: fixed errors and problems in TechnicalTaskCommandService | Corrección de errores y problemas en el servicio de comandos de tareas técnicas. | Jun 6, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | 9b37af6 | refactor: technical task removed userId        | Refactorización para remover userId de tareas técnicas.    | Jun 6, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | 9572f49 | refactor: create technicalTask and remove attributes from technicalTest | Creación de tareas técnicas y eliminación de atributos de pruebas técnicas. | Jun 6, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git     | feature/technical-evaluation | 47ca5ac  | fead: added resources and transform            | Añadido de recursos y transformación.                      | Jun 6, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | feature/technical-evaluation | 9406636| feat: added command and query services implementation | Implementación de servicios de comandos y consultas.       | Jun 6, 2024         |
+| https://github.com/CodepaceOrganization/GetWorkBackend.git  | users/plans              | d9a84e1 | Feat: added endpoint plans                     | Implementación del endpoint para obtener planes.           | Jun 7, 2024         |
+
+
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
