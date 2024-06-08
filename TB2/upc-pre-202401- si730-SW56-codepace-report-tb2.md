@@ -119,6 +119,7 @@ para cada integrante del equipo:
 
 Evidencias del Insights Contributos de los commits del informe:
 
+![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/ceb95421-7466-4c7a-be82-6b4f9153485d)
 
 
 ### Tabla de contenidos
