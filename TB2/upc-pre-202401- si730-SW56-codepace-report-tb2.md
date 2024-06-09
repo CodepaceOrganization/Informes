@@ -904,7 +904,7 @@ Link en Pivotal Tracker: [Ver enlace]("https://www.pivotaltracker.com/n/projects
     
     **Paleta de colores:** Nuestra aplicación web y landing page, al estar dirigida a desarrolladores y estudiantes, cuenta con colores que denoten confianza, sean sobrios y formales,        por lo     que los colores principales que usaremos para GetWorkserán el blanco, Rojo, el negro y el gris. El blanco en representación del orden y limpieza, el azul la tranquilidad y     relajación      y el gris para la seriedad y modestia. El color principal de las letras será el negro para la formalidad pero también usaremos letras en color blano para un buen          contraste con el          fondo en donde se encuentra.
 
-    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/bd62e087-a892-49b5-adb1-1bcffdb070ad)
+    ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/134337719/321430988-bd62e087-a892-49b5-adb1-1bcffdb070ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T181928Z&X-Amz-Expires=300&X-Amz-Signature=e7be09f6d3ed51660b1b0ed3b610b4822b5b32a6f4021f7fe8e6b2d1200f535f&X-Amz-SignedHeaders=host&actor_id=130623774&key_id=0&repo_id=776844530)
     
     **Tipografía:** La tipografía de nuestra aplicación será fácilmente legible y estética, por lo que se hará uso de la fuente Roboto para botones y títulos y Asap para textos, con          interlineado 1.15 con tamaño base 18px para desktop y para móvil tamaño 16px, no obstante, decidimos hacer uso de la unidad de medida “em” para que las letras sean escalables y           responsivas a la variedad de tamaños de pantalla. Los tamaños variarán según si son títulos principales, subtítulos o textos.
 
@@ -928,7 +928,7 @@ Link en Pivotal Tracker: [Ver enlace]("https://www.pivotaltracker.com/n/projects
     
     Estos ajustes de tamaño de texto proporcionan coherencia en el diseño y la presentación de la página web. La fuente "Roboto" es ampliamente utilizada por su      legibilidad y versatilidad, lo que la hace adecuada para una variedad de contextos en el diseño web.
 
-    ![image](https://github.com/CodepaceOrganization/Informes/assets/134337719/52cdc829-e776-497a-b2c5-06ddda625f2f)
+    ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/134337719/321431509-52cdc829-e776-497a-b2c5-06ddda625f2f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T182019Z&X-Amz-Expires=300&X-Amz-Signature=b0b2c5835230d8a1d4dd10956928942db310d5e10bb727af0ba7271e12a6a9a2&X-Amz-SignedHeaders=host&actor_id=130623774&key_id=0&repo_id=776844530)
 
     **Misión:**
     Revolucionar la preparación para entrevistas técnicas ofreciendo una plataforma integral que equipa a los programadores con las herramientas, conocimientos y     confianza necesarios para lograr el éxito.
@@ -2212,10 +2212,27 @@ Commits web service:
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
-En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. En este sprint se desplego el frontend con las mejoras correspondientes y la landing page, por ahora no desplegamos es backend. A continuación, se presentan capturas en imagen y explicaciones de los pasos realizados durante el Sprint.
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. En este sprint se desplego el frontend con las mejoras correspondientes y la landing page. Tambien, deplegamos el avance del Backend con la base de datos y contenedor en azure. A continuación, se presentan capturas en imagen y explicaciones de los pasos realizados durante el Sprint.
 
+Creación de Base de Datos en Azure:
 
+![image](https://github.com/CodepaceOrganization/Reports/assets/130623774/fa8c0796-4968-4d19-b84d-84f7b12ce014)
 
+Configuración y creación del contenedor:
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130623774/54a5f253-de84-4aad-9ef8-9b5f254a8a6a)
+
+Contenedor de Registro en Azure:
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130623774/d54146b4-02dc-48e7-986d-e18de9ba27b1)
+
+Configuración de la imagen:
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130623774/4e3fe25c-0861-4d95-9a4f-d35dbe9dae4a)
+
+Finalmente el despliegue:
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130623774/6405246b-7516-4b8b-8948-966f701035f7)
 
 **5.2.3.8.Team Collaboration Insights during Sprint.**
 
@@ -2262,7 +2279,7 @@ Este objetivo se centra en evaluar la calidad y utilidad de las sesiones de simu
 
 **User Goal:Acceso a contenido exclusivo y oportunidades de reclutamiento**
 
-Usee persona: Desarrolladores o estudiantes de programacion
+User persona: Desarrolladores o estudiantes de programacion
 
 Los usuarios buscan tener acceso a contenido exclusivo que no esté disponible en otros lugares y a oportunidades de reclutamiento con empresas de tecnología.
 Este objetivo implica recopilar opiniones sobre el tipo de contenido exclusivo más valorado y cómo CodePace puede facilitar mejor las oportunidades de empleo, conectando a los usuarios con reclutadores.
