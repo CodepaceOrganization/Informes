@@ -2137,6 +2137,16 @@ Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0
 
 **5.2.3.4.Testing Suite Evidence for Sprint Review.**
 
+  |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On<br>(Date)|  
+  |----------|------|---------|--------------|-------------------|------------------|
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-Backend|feature/technical-evaluation|7b0abcc|feat: added <br>unit test of <br>task progress and <br>technical task|-|09/06/24|
+  |AdrianoSCruzP/<br>CodepaceOrganization<br>/GetWork-Backend|feature/contest-course|712b45b|feat: added UnitTests of Weekly Contest|-|09/06/24|
+
+
+Link del repostorio: 
+
+https://github.com/CodepaceOrganization/GetWorkBackend.git 
+
 **5.2.3.5.Execution Evidence for Sprint Review.**
 
 En el sprint 3 se alcanzo un desarrollo parcial del backend de la web application. La cual muestra los endpoints atravez de swagger. A continuación se muestran algunas evidencias:
