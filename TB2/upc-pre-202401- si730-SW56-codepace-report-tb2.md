@@ -2777,7 +2777,7 @@ En el sprint 3 se vio que el compromiso de CodePace es brindar un apoyo integral
 
 **TF** 
 
-En el sprint 4 ya tenemos el proyecto listo , por lo que nuestro fronted y backend se encuentran conectados de forma exitosa , haciendo que la app sea facil de usar e interactiva. 
+En el sprint 4 ya tenemos el proyecto listo , por lo que nuestro fronted y backend se encuentran conectados de forma exitosa , haciendo que la app sea facil de usar e interactiva. La plataforma muestra un fuerte compromiso con la mejora de las habilidades de codificación de sus usuarios a través de recursos y entrenamientos personalizados. Esto incluye ejercicios prácticos y simulacros de entrevistas en vivo. Además, mantiene una estrecha colaboración con empresas tecnológicas, lo que enriquece el contenido disponible y proporciona oportunidades exclusivas de reclutamiento para sus usuarios. En conjunto, el trabajo de CodePace refleja su misión de ser un socio confiable y su visión de democratizar el acceso a recursos de calidad y entrenamiento efectivo para todos los programadores. Esto fomenta el crecimiento y la excelencia en la comunidad global de desarrolladores. Asimismo, la documentación detallada generada durante el Sprint, que incluye informes de desarrollo y evidencia de despliegue, facilitó una comprensión clara y completa del trabajo realizado.
 
 
 
