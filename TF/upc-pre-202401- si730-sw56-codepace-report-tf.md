@@ -2816,15 +2816,15 @@ En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en
    |GetWorked-frontend|main|8ff28cc|feat: convert the contest section to responsive|8-06-2024|
    |GetWorked-frontend|main|1095761|feat: Convert the contest section to responsivey|8-06-2024|
    |GetWorked-backend|main|712b45b|feat: added UnitTests of Weekly Contest):|9-06-2024|
-    |GetWorked-backend|main|12f6968|implemented suscriptions:|21-06-2024|
-     |GetWorked-backend|main|9631ce2|fix: corrected the appdbcontext|21-06-2024|
-       |GetWorked-backend|main|857b480|feat: added IAM and Profile)|22-06-2024|
-        |GetWorked-backend|main|22cdb5a|fix:fix the new structure for ranking and connect the backend locally|22-06-2024|
-         |GetWorked-backend|main|e6184fe|feat: delete ranking|22-06-2024|
-          |GetWorked-backend|main|d90ea73|feat(techinicalEvaluation): added update task progress|24-06-2024|
-          |GetWorked-backend|main|5c2ba0e|feat: added CourseContest|25-06-2024|
-          |GetWorked-backend|main|008aada|Merge branch 'main' into feature/contest-course:|25-06-2024|
-          |GetWorked-backend|main|66ce712|Merge pull request #4 from CodepaceOrganization/feature/contest-course|25-06-2024|
+   |GetWorked-backend|main|12f6968|implemented suscriptions:|21-06-2024|
+   |GetWorked-backend|main|9631ce2|fix: corrected the appdbcontext|21-06-2024|
+   |GetWorked-backend|main|857b480|feat: added IAM and Profile)|22-06-2024|
+   |GetWorked-backend|main|22cdb5a|fix:fix the new structure for ranking and connect the backend locally|22-06-2024|
+   |GetWorked-backend|main|e6184fe|feat: delete ranking|22-06-2024|
+   |GetWorked-backend|main|d90ea73|feat(techinicalEvaluation): added update task progress|24-06-2024|
+   |GetWorked-backend|main|5c2ba0e|feat: added CourseContest|25-06-2024|
+   |GetWorked-backend|main|008aada|Merge branch 'main' into feature/contest-course:|25-06-2024|
+   |GetWorked-backend|main|66ce712|Merge pull request #4 from CodepaceOrganization/feature/contest-course|25-06-2024|
 </table>
 
 
