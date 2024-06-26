@@ -2846,14 +2846,24 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/43696968-1d44-4153-8af7-6403b274c08c)
 
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/50f834a5-8cd5-479e-9cef-10ccda1d0f6c)
 
 
 **5.2.4.6. Services Documentation Evidence for Sprint Review**
 
 En este Sprint, integramos el frontend y el backend. Los endpoints implementados y componentes se muestran:
 
-
-
+| EndPoint                                | Detalles                                                                                      |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------|
+|/api/v1/subscription                     | Son los planes de la app                                                                      |
+|/api/v1/technical-tasks/{technicalTestId}/assign/{userId}      | Se encuentran los logros de diferentes usuarios                         |
+|/api/v1/technical-tasks                  | frece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio|
+|/api/v1/technical-tasks/technical-task-{technicalTaskId} | Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas |
+| /api/v1/technical-tasks/details-{technicalTestId} |Devuelve una lista de programas de estudio de 30 días centrados en tecnologías específicas|
+| /api/v1/technical-test                  | En esta ruta se gestionan las notificaciones                               |
+|/api/v1/technical-test/test-type/{testType}   | Obtiene los logros                                                |
+| /api/tutors                             |ste endpoint podría usarse para mostrar una lista de todos los tutores disponibles para los estudiantes, junto con sus detalles|
+| /api/tutors/{id}                        | Puedes eligir tu horario y tutor favorito                                                     |
 
 
 
