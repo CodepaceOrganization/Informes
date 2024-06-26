@@ -2798,7 +2798,7 @@ Reunión realizada a través de Google Meet, para organizar y resolver acuerdos 
 Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0c68c8003e4dd726f4c01fcc8B68B464/sprint-3)
 
 
-**5.2.4.3 ervices Documentation Evidence for Sprint Review**
+**5.2.4.3 Services Documentation Evidence for Sprint Review**
 
 
 En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en esta el usuario encuentra la informacion del producto y startup, en la app web, el usuario puede usar algunas funcionalidades. Para esta entrega hicimos la backend y frontented , utilizamos un BaseURL para unirlos.
@@ -2812,11 +2812,7 @@ En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en
 |/ technical-tests-study-plan|Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas. Cada plan de estudio incluye un título, una descripción y una imagen representativa.|
 |/ "details-3|Ofrece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio, como su descripción, dificultad, progreso y estado. El estado puede indicar si el ejercicio está en progreso, completado o si todavía no se ha comenzado. Además, el progreso puede indicar el nivel de finalización del ejercicio, y la dificultad proporciona una indicación de la complejidad del ejercicio.|
 
-<table><tr><th colspan="1" valign="top"><b>Endpoint</b></th><th colspan="1" valign="top"><b>Operaciones</b></th><th colspan="1" valign="top"><b>Parametros</b></th><th colspan="1" valign="top"><b>URL</b></th></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p>Tutors ´</p><p>technical-tests-30-days-of</p><p></p><p></p><p>technical-tests-study-plan</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
-<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">`          `{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
-<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors/{id}</td></tr>
-<tr><td colspan="3" valign="top"></td></tr>
+
 </table>
 
 
