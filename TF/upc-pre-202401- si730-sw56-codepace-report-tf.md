@@ -2836,8 +2836,7 @@ Link del repostorio:  https://github.com/CodepaceOrganization/GetWorkBackend.git
 
 
 
-** 
-- #### 5.2.4.5. Execution Evidence for Sprint Review**
+**#### 5.2.4.5. Execution Evidence for Sprint Review**
 
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/27baf3f4-f719-4b40-8d18-a837f638ddcc)
