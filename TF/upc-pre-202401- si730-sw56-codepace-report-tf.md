@@ -1998,7 +1998,7 @@ Responsive:
 En el sprint 2 hicimos un enntregable con el landing page complento , en esta el usuario encuentra la informacion del producto y startup, tambien desarrollamos la app web, donde el usuario puede usar algunas funcionalidades.
 Para esta entrega hicimos la landing page y frontented , utilizamos un fake Api , primero trabajamos en un json server local y luego se implemento en My Json server.
 
-Enlace My Json :  [Ver enlace](https://my-json-server.typicode.com/jemisas/APIS_AppWeb) [Ver enlace](https://my-json-server.typicode.com/Dark7YT/CodepaceOrganization-SW56) 
+Enlace: https://github.com/CodepaceOrganization/Reports/edit/main/TF/upc-pre-202401-%20si730-sw56-codepace-report-tf.md
 
 **README.md**
 
@@ -2796,6 +2796,41 @@ Reunión realizada a través de Google Meet, para organizar y resolver acuerdos 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/72002a62-4b2a-4754-941e-6b68ac8f2404)
 
 Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0c68c8003e4dd726f4c01fcc8B68B464/sprint-3)
+
+
+**5.2.4.3 ervices Documentation Evidence for Sprint Review**
+
+
+En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en esta el usuario encuentra la informacion del producto y startup, en la app web, el usuario puede usar algunas funcionalidades. Para esta entrega hicimos la backend y frontented , utilizamos un BaseURL para unirlos.
+
+
+
+**Endpoint**|**Details**|
+| :- | :- |
+|/tutors|muestra una lista de todos los tutores disponibles para los estudiantes, junto con sus detalles, permitiendo a los estudiantes seleccionar un tutor y programar una sesión de tutoría en uno de los horarios disponibles.|
+|/ technical-tests-30-days-of|Devuelve una lista de programas de estudio de 30 días centrados en tecnologías específicas. Cada elemento de la lista contiene información sobre un programa, incluyendo su título, descripción y una imagen que lo representa|
+|/ technical-tests-study-plan|Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas. Cada plan de estudio incluye un título, una descripción y una imagen representativa.|
+|/ "details-3|Ofrece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio, como su descripción, dificultad, progreso y estado. El estado puede indicar si el ejercicio está en progreso, completado o si todavía no se ha comenzado. Además, el progreso puede indicar el nivel de finalización del ejercicio, y la dificultad proporciona una indicación de la complejidad del ejercicio.|
+
+<table><tr><th colspan="1" valign="top"><b>Endpoint</b></th><th colspan="1" valign="top"><b>Operaciones</b></th><th colspan="1" valign="top"><b>Parametros</b></th><th colspan="1" valign="top"><b>URL</b></th></tr>
+<tr><td colspan="1" rowspan="4" valign="top"><p>Tutors ´</p><p>technical-tests-30-days-of</p><p></p><p></p><p>technical-tests-study-plan</p></td><td colspan="1" valign="top">GET</td><td colspan="1" valign="top">No tiene</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
+<tr><td colspan="1" valign="top">POST</td><td colspan="1" valign="top">`          `{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors</td></tr>
+<tr><td colspan="1" valign="top">PUT</td><td colspan="1" valign="top">{id}</td><td colspan="1" valign="top">/technical-tests-30-days-of/tutors/{id}</td></tr>
+<tr><td colspan="3" valign="top"></td></tr>
+</table>
+
+
+Link del repostorio:  https://github.com/CodepaceOrganization/GetWorkBackend.git 
+
+
+**5.2.2.7.Software Deployment Evidence for Sprint Review.**
+Para este entregable hemos hecho uso de uno de los recursos del curso, "Firebase", con ella pudimos desplegar nuestra Aplicación Web, la cual ofrece distintos enrutamientos y muestra secciones prinicipales de nuestro proyecto:   https://getwork-1b139.web.app/
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/27baf3f4-f719-4b40-8d18-a837f638ddcc)
+
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/95c89858-b33e-4328-a920-64be8e701e18)
+
 
 **Conclusiones**
 
