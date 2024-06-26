@@ -2805,6 +2805,10 @@ En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en
 
 
 
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c7da7c3f-f890-44d9-8231-3abda1b8fe43)
+
+
+
 **Endpoint**|**Details**|
 | :- | :- |
 |/tutors|muestra una lista de todos los tutores disponibles para los estudiantes, junto con sus detalles, permitiendo a los estudiantes seleccionar un tutor y programar una sesión de tutoría en uno de los horarios disponibles.|
@@ -2820,7 +2824,9 @@ Link del repostorio:  https://github.com/CodepaceOrganization/GetWorkBackend.git
 
 
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
+
 Para este entregable hemos hecho uso de uno de los recursos del curso, "Firebase", con ella pudimos desplegar nuestra Aplicación Web, la cual ofrece distintos enrutamientos y muestra secciones prinicipales de nuestro proyecto:   https://getwork-1b139.web.app/
+
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/27baf3f4-f719-4b40-8d18-a837f638ddcc)
 
