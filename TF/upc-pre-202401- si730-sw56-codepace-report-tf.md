@@ -2798,15 +2798,7 @@ Reunión realizada a través de Google Meet, para organizar y resolver acuerdos 
 Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0c68c8003e4dd726f4c01fcc8B68B464/sprint-3)
 
 
-**5.2.4.3 Services Documentation Evidence for Sprint Review**
-
-
-En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en esta el usuario encuentra la informacion del producto y startup, en la app web, el usuario puede usar algunas funcionalidades. Para esta entrega hicimos la backend y frontented , utilizamos un BaseURL para unirlos.
-
-
-
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c7da7c3f-f890-44d9-8231-3abda1b8fe43)
-
+**5.2.4.3. Development Evidence for Sprint Review**
 
 
 | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
@@ -2831,15 +2823,31 @@ En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en
 Link del repostorio:  https://github.com/CodepaceOrganization/GetWorkBackend.git 
 
 
-**5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
-Para este entregable hemos hecho uso de uno de los recursos del curso, "Firebase", con ella pudimos desplegar nuestra Aplicación Web, la cual ofrece distintos enrutamientos y muestra secciones prinicipales de nuestro proyecto:   https://getwork-1b139.web.app/
+
+**5.2.4.4. Testing Suite Evidence for Sprint Review**
+
+
+| Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+   |------------|--------|-----------|---------------------|--------------------|
+   |GetworkedBackEnd|feature-contest|008aada|Merge branch 'main' into feature/contest-course|25-06-2024|
+   |GetworkedBackEnd|feature-contest|5c2ba0e|feat: added CourseContest|25-06-2024|
+   |GetworkedBackEnd|feature-contest|d90ea73|feat(techinicalEvaluation): added update task progress|24-06-2024|
+
+
+
+** 
+- #### 5.2.4.5. Execution Evidence for Sprint Review**
 
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/27baf3f4-f719-4b40-8d18-a837f638ddcc)
 
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/95c89858-b33e-4328-a920-64be8e701e18)
+
+
+
+
 
 
 **Conclusiones**
