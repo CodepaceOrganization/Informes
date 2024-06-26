@@ -2809,14 +2809,22 @@ En el sprint 4  hicimos un enntregable con el frontend y backend integrados , en
 
 
 
-**Endpoint**|**Details**|
-| :- | :- |
-|/tutors|muestra una lista de todos los tutores disponibles para los estudiantes, junto con sus detalles, permitiendo a los estudiantes seleccionar un tutor y programar una sesión de tutoría en uno de los horarios disponibles.|
-|/ technical-tests-30-days-of|Devuelve una lista de programas de estudio de 30 días centrados en tecnologías específicas. Cada elemento de la lista contiene información sobre un programa, incluyendo su título, descripción y una imagen que lo representa|
-|/ technical-tests-study-plan|Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas. Cada plan de estudio incluye un título, una descripción y una imagen representativa.|
-|/ "details-3|Ofrece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio, como su descripción, dificultad, progreso y estado. El estado puede indicar si el ejercicio está en progreso, completado o si todavía no se ha comenzado. Además, el progreso puede indicar el nivel de finalización del ejercicio, y la dificultad proporciona una indicación de la complejidad del ejercicio.|
-
-
+| Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+   |------------|--------|-----------|---------------------|--------------------|
+   |GetWorked-frontend|main|8b4c0a|fix(index): fixed test import|21-06-2024|
+   |GetWorked-frontend|main|5d38d1a|fix:fix the new structure for ranking and connect the backend locally|22-06-2024|
+   |GetWorked-frontend|main|8ff28cc|feat: convert the contest section to responsive|8-06-2024|
+   |GetWorked-frontend|main|1095761|feat: Convert the contest section to responsivey|8-06-2024|
+   |GetWorked-backend|main|712b45b|feat: added UnitTests of Weekly Contest):|9-06-2024|
+    |GetWorked-backend|main|12f6968|implemented suscriptions:|21-06-2024|
+     |GetWorked-backend|main|9631ce2|fix: corrected the appdbcontext|21-06-2024|
+       |GetWorked-backend|main|857b480|feat: added IAM and Profile)|22-06-2024|
+        |GetWorked-backend|main|22cdb5a|fix:fix the new structure for ranking and connect the backend locally|22-06-2024|
+         |GetWorked-backend|main|e6184fe|feat: delete ranking|22-06-2024|
+          |GetWorked-backend|main|d90ea73|feat(techinicalEvaluation): added update task progress|24-06-2024|
+          |GetWorked-backend|main|5c2ba0e|feat: added CourseContest|25-06-2024|
+          |GetWorked-backend|main|008aada|Merge branch 'main' into feature/contest-course:|25-06-2024|
+          |GetWorked-backend|main|66ce712|Merge pull request #4 from CodepaceOrganization/feature/contest-course|25-06-2024|
 </table>
 
 
