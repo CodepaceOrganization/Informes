@@ -2798,7 +2798,7 @@ Reunión realizada a través de Google Meet, para organizar y resolver acuerdos 
 Link del Trello: [Ver Enlace](https://trello.com/invite/b/RMWy28el/ATTIc9fc841e0c68c8003e4dd726f4c01fcc8B68B464/sprint-3)
 
 
-**5.2.4.3. Development Evidence for Sprint Review**
+**5.5.S.4.3 sprint 4 backlog Development Evidence for Sprint Review**
 
 
 | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
@@ -2825,7 +2825,7 @@ Link del repostorio:  https://github.com/CodepaceOrganization/GetWorkBackend.git
 
 
 
-**5.2.4.4. Testing Suite Evidence for Sprint Review**
+**5.2.4.4.Services Documentation Evidence for Sprint Review**
 
 
 | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
@@ -2836,16 +2836,44 @@ Link del repostorio:  https://github.com/CodepaceOrganization/GetWorkBackend.git
 
 
 
-**#### 5.2.4.5. Execution Evidence for Sprint Review**
+**5.2.4.5. Execution Evidence for Sprint Review**
+
+Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes, se hizo el frontend y backend. Ademas logramos conecta el back y el front lo testeamos , para presentar una app sin eroreres:
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/4a168de3-4563-4224-8e33-b59aeefaaefd)
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/464d27d6-404b-409c-9331-020320bef925)
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/43696968-1d44-4153-8af7-6403b274c08c)
 
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/27baf3f4-f719-4b40-8d18-a837f638ddcc)
+
+**5.2.4.6. Services Documentation Evidence for Sprint Review**
+
+En este Sprint, integramos el frontend y el backend. Los endpoints implementados y componentes se muestran:
 
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/95c89858-b33e-4328-a920-64be8e701e18)
 
 
 
+
+**5.2.4.7. Software Deployment Evidence for Sprint Review**
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/9f39f9a8-9f15-49f8-bec2-9b0cf3ded651)
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/c87aae55-2a27-42e1-a409-3278d306c625)
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/2c53362e-10f7-42d3-8329-1aab84ac736a)
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/043b11e8-de28-4b48-8f68-8ed97d4f1c6f)
+
+
+
+
+
+**5.2.4.8. Team Collaboration Insights during Sprint**
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/0c4c6bbb-fa06-42b4-82b6-f12cea34ce5d)
 
 
 
