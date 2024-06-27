@@ -2726,8 +2726,6 @@ Recomendacion: Incluir en el perfil de usuario el lenguaje que estudia actualmen
 
 
 
-
-
 **PROBLEMA #10: La app no cambia de idioma**
 
 Escala de severidad: 04
@@ -2905,7 +2903,18 @@ En este Sprint, integramos el frontend y el backend. Los endpoints implementados
 
 **5.2.4.8. Team Collaboration Insights during Sprint**
 
-![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/0c4c6bbb-fa06-42b4-82b6-f12cea34ce5d)
+
+| Alumno                             | Actividad                                                           |
+|------------------------------------|---------------------------------------------------------------------|
+| Cruz Palomino, Adriano Sebastian   | Implementación de la sección Planes y Gestión de perfil del backend |
+| Cachis Gonzales, Sebastian Nicolas | Implementación de la sección de Problems del backend                |
+| Quispe Andia, Jeremy Joel          | Implementación de la sección simulacrum y tutors del backend        |
+| Cabanillas Gora, Andrea Milagros   | Implementación de sección de Problems del backend                   |
+| Yauri Paucar, Elias                | Implementación de la sección Contest del backend                    |
+| Castillo Castillo, Alexander Jair  | Implementación de la sección Contest del backend                    |
+
+![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/18ca0efe-4da0-483b-b920-0553ce3fb91e)
+
 
 
 
