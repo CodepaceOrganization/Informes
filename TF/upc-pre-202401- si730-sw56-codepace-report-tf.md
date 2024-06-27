@@ -2770,7 +2770,9 @@ Recomendacion: Arreglar el diseño y centrar la barra de menu para que sea mas a
 
 **5.4. video About the product**
 
-[Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EeBA1GrkBa1Ep3EvXou7GzABVKfHPZgnuww7Iq8xTFxtsw?e=5r1BMu)
+![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/2dbfd379-5b5c-4c16-ab25-26ef3bcf58fa)
+
+[Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EWG9rFdWW2BPmQehToc8fM4BrjjfAdskZf1X7DNW8MiGYw?e=7SYrc6)
 
 **5.2.4. Sprint 4**
 
@@ -2882,17 +2884,29 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 
 En este Sprint, integramos el frontend y el backend. Los endpoints implementados y componentes se muestran:
 
-| EndPoint                                | Detalles                                                                                      |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------|
-|/api/v1/subscription                     | Son los planes de la app                                                                      |
-|/api/v1/technical-tasks/{technicalTestId}/assign/{userId}      | Se encuentran los logros de diferentes usuarios                         |
-|/api/v1/technical-tasks                  | frece detalles específicos sobre una serie de desafíos técnicos. Cada elemento de la lista contiene información detallada sobre un ejercicio|
-|/api/v1/technical-tasks/technical-task-{technicalTaskId} | Proporciona una lista de planes de estudio para prepararse para entrevistas técnicas |
-| /api/v1/technical-tasks/details-{technicalTestId} |Devuelve una lista de programas de estudio de 30 días centrados en tecnologías específicas|
-| /api/v1/technical-test                  | En esta ruta se gestionan las notificaciones                               |
-|/api/v1/technical-test/test-type/{testType}   | Obtiene los logros                                                |
-| /api/tutors                             |ste endpoint podría usarse para mostrar una lista de todos los tutores disponibles para los estudiantes, junto con sus detalles|
-| /api/tutors/{id}                        | Puedes eligir tu horario y tutor favorito                                                     |
+| EndPoint                                           | Detalles                                                                                                                                                                   |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `/api/v1/authentication/sign-in`                   | Permite a los usuarios iniciar sesión en la plataforma.                                                                                                                    |
+| `/api/v1/authentication/sign-up`                   | Permite a los nuevos usuarios registrarse en la plataforma.                                                                                                                |
+| `/api/v1/detail`                                   | Permite publicar y obtener detalles específicos, como planes de estudio o cursos.                                                                                          |
+| `/api/v1/detail/{courseDetailId}`                  | Permite obtener, actualizar o eliminar detalles específicos por ID.                                                                                                        |
+| `/api/v1/goal`                                     | Permite a los usuarios establecer y consultar sus objetivos personales dentro de la plataforma.                                                                            |
+| `/api/v1/goal/{goalId}`                            | Permite obtener, actualizar o eliminar un objetivo específico por ID.                                                                                                      |
+| `/api/v1/profiles`                                 | Permite la creación de nuevos perfiles de usuario y la consulta de todos los perfiles disponibles.                                                                         |
+| `/api/v1/profiles/{profileId}`                     | Permite obtener detalles de un perfil específico por ID.                                                                                                                   |
+| `/api/v1/subscription`                             | Gestiona las suscripciones de los usuarios a los planes de la aplicación.                                                                                                  |
+| `/api/v1/technical-tasks`                          | Ofrece detalles sobre desafíos técnicos disponibles en la plataforma, incluyendo descripciones detalladas de cada tarea técnica.                                           |
+| `/api/v1/technical-tasks/{technicalTaskId}`       | Permite actualizar las tareas técnicas específicas por ID.                                                                                                                 |
+| `/api/v1/technical-tasks/{technicalTestId}/assign/{userId}` | Asigna tareas técnicas a los usuarios basados en sus ID.                                                                                                                   |
+| `/api/v1/technical-tasks/details-{technicalTestId}` | Devuelve programas de estudio específicos para prepararse para entrevistas técnicas, centrados en tecnologías específicas por un período de 30 días.                      |
+| `/api/v1/technical-test`                           | Gestiona las notificaciones relacionadas con las pruebas técnicas en la plataforma.                                                                                        |
+| `/api/v1/technical-test/test-type/{testType}`      | Permite consultar las pruebas técnicas disponibles por tipo de prueba.                                                                                                     |
+| `/api/tutors`                                      | Muestra una lista de todos los tutores disponibles en la plataforma, junto con sus detalles como especialidades y disponibilidad.                                           |
+| `/api/tutors/{id}`                                 | Permite a los usuarios elegir su tutor favorito y programar sesiones de acuerdo a la disponibilidad del tutor especificado por su ID.                                       |
+| `/api/v1/users/{id}`                               | Permite obtener la información de usuario específica por ID.                                                                                                               |
+| `/api/v1/users`                                    | Permite obtener una lista de todos los usuarios registrados en la plataforma.                                                                                              |
+| `/api/v1/weekly-contest`                           | Gestiona los concursos semanales en los que pueden participar los usuarios.                                                                                                 |
+| `/api/v1/weekly-contest/{weeklyContestId}`         | Permite actualizar o eliminar concursos semanales específicos por ID.                                                                                                      |
 
 
 
@@ -2905,9 +2919,6 @@ En este Sprint, integramos el frontend y el backend. Los endpoints implementados
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/2c53362e-10f7-42d3-8329-1aab84ac736a)
 
 ![image](https://github.com/CodepaceOrganization/Reports/assets/130100844/043b11e8-de28-4b48-8f68-8ed97d4f1c6f)
-
-
-
 
 
 **5.2.4.8. Team Collaboration Insights during Sprint**
@@ -2925,7 +2936,11 @@ En este Sprint, integramos el frontend y el backend. Los endpoints implementados
 ![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/18ca0efe-4da0-483b-b920-0553ce3fb91e)
 
 
+**5.5. video About the product**
 
+![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/2dbfd379-5b5c-4c16-ab25-26ef3bcf58fa)
+
+[Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EWG9rFdWW2BPmQehToc8fM4BrjjfAdskZf1X7DNW8MiGYw?e=7SYrc6)
 
 **Conclusiones y recomendaciones**
 
