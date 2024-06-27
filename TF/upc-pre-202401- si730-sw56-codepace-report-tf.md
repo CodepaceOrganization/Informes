@@ -2999,24 +2999,58 @@ COmo grupo recomendamos trabajar mediante llamada para poder coordinar y lograr 
 
 **Bibliografía**
 
-  - Apliint. (2024). 10 principales tecnologías frontend para usar en 2022. Recuperado de: [Apliint](https://apliint.com/2022/03/15/10-principales-tecnologias-frontend-para-usar-en-2022/)
-  
-  - HackerRank. (2024). Skills speak louder than words. Recuperado de: [HackerRank](https://www.hackerrank.com/)
-  
-  - LeetCode. (2024). A New Way to Learn. Recuperado de: [LeetCode](https://leetcode.com/)
-  
-  - Indeed. (2023). Las 10 mejores aplicaciones para buscar trabajo por internet. Recuperado de: [Indeed](https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/mejores-aplicaciones-buscar-trabajo-internet)
-  
-  - Interviewbit. (2024). Everything you need to crack your Next Tech Interview. Recuperado de: [Interviewbit](https://www.interviewbit.com/)
-    
-  - The Markdown Guide. (s.f.). Recuperado de: [Markdown Guide](https://www.markdownguide.org/)
+- Evans, E. (2004). _Domain-Driven Design: Tackling Complexity in the Heart of Software_. Addison-Wesley. [Link](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- Fowler, M. (2002). _Patterns of Enterprise Application Architecture_. Addison-Wesley. [Link](https://martinfowler.com/books/eaa.html)
+- Vaughn, V. (2016). _Implementing Domain-Driven Design_. Addison-Wesley. [Link](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- Richards, M. (2015). _Software Architecture Patterns_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
+- Freeman, E., Robson, E., Bates, B., & Sierra, K. (2004). _Head First Design Patterns_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). _Design Patterns: Elements of Reusable Object-Oriented Software_. Addison-Wesley. [Link](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- Nilsson, J. (2010). _Applying Domain-Driven Design and Patterns With Examples in C# and .NET_. Addison-Wesley. [Link](https://www.amazon.com/Applying-Domain-Driven-Design-Patterns-Examples/dp/0321268202)
+- Lerman, J. & Miller, R. (2011). _Programming Entity Framework: DbContext_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/programming-entity-framework/9781449312961/)
+- Bishop, J. (2014). _C# 6.0 and the .NET 4.6 Framework_. Apress. [Link](https://www.apress.com/gp/book/9781484213339)
+- Troelsen, A. (2018). _Pro C# 7: With .NET and .NET Core_. Apress. [Link](https://www.apress.com/gp/book/9781484230183)
+- Albahari, J., & Albahari, B. (2017). _C# 7.0 in a Nutshell: The Definitive Reference_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/c-70-in/9781491987643/)
+- Seemann, M. (2012). _Dependency Injection in .NET_. Manning Publications. [Link](https://www.manning.com/books/dependency-injection-in-dot-net)
+- DuBois, P. (2013). _MySQL_. Addison-Wesley. [Link](https://www.amazon.com/MySQL-Paul-DuBois/dp/0321833872)
+- Ullman, L. (2020). _PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition)_. Peachpit Press. [Link](https://www.peachpit.com/store/php-and-mysql-for-dynamic-web-sites-visual-quickpro-guide-9780134301846)
+- Nelson, B. (2018). _Vue.js: Up and Running_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/)
+- Nuxt.js Team. (s.f.). _Nuxt.js Documentation_. [Link](https://nuxtjs.org/docs/2.x/get-started/installation)
+- HackerRank. (2024). _Skills Speak Louder Than Words_. [Link](https://www.hackerrank.com/)
+- LeetCode. (2024). _A New Way to Learn_. [Link](https://leetcode.com/)
+- InterviewBit. (2024). _Everything You Need to Crack Your Next Tech Interview_. [Link](https://www.interviewbit.com/)
+- Fowler, M. (s.f.). _Ubiquitous Language_. [Link](https://martinfowler.com/bliki/UbiquitousLanguage.html)
+- Progressa Lean. (s.f.). _5W+2H - Técnica de análisis de problemas_. [Link](https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/)
+- Kent, D. (s.f.). _Domain Model Layer: Supple Design_. [Link](https://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+- Stack Overflow. (2024). _Discover More About .NET and C#_. [Link](https://stackoverflow.com/questions/tagged/c%23)
+- GitLab. (2024). _Vue.js Projects_. [Link](https://gitlab.com/explore/projects?utf8=%E2%9C%93&name=vue.js&sort=latest_activity_desc)
+- MSDN. (2024). _Microsoft Developer Network_. [Link](https://msdn.microsoft.com/)
+- MySQL. (2024). _MySQL Documentation_. [Link](https://dev.mysql.com/doc/)
+- Apache. (2024). _Apache Cassandra Documentation_. [Link](http://cassandra.apache.org/doc/)
+- Mozilla MDN. (2024). _Learn Web Development_. [Link](https://developer.mozilla.org/en-US/docs/Learn)
+- W3Schools. (2024). _Learn SQL, PHP, JavaScript, and More_. [Link](https://www.w3schools.com/)
+- Codecademy. (2024). _Learn to Code for Free_. [Link](https://www.codecademy.com/)
+- Martin, R. C. (2008). _Clean Code: A Handbook of Agile Software Craftsmanship_. Prentice Hall. [Link](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- Beck, K. (1999). _Extreme Programming Explained: Embrace Change_. Addison-Wesley Professional. [Link](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+- Sutherland, J. (2014). _Scrum: The Art of Doing Twice the Work in Half the Time_. Crown Business. [Link](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+- Schwaber, K., & Sutherland, J. (2020). _The Scrum Guide_. [Link](https://scrumguides.org/)
+- Kniberg, H. (2015). _Lean from the Trenches_. Pragmatic Bookshelf. [Link](https://www.pragprog.com/titles/hklean/lean-from-the-trenches/)
+- Kim, G., Debois, P., Willis, J., & Humble, J. (2016). _The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations_. IT Revolution Press. [Link](https://itrevolution.com/book/the-devops-handbook/)
+- Kerth, N. L. (2001). _Project Retrospectives: A Handbook for Team Reviews_. Dorset House. [Link](https://www.amazon.com/Project-Retrospectives-Handbook-Team-Reviews/dp/0932633447)
+- Derby, E., & Larsen, D. (2006). _Agile Retrospectives: Making Good Teams Great_. Pragmatic Bookshelf. [Link](https://pragprog.com/titles/dlret/agile-retrospectives/)
+- Cohn, M. (2005). _Agile Estimating and Planning_. Prentice Hall. [Link](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)
+- Poppendieck, M., & Poppendieck, T. (2003). _Lean Software Development: An Agile Toolkit_. Addison-Wesley Professional. [Link](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+- Appelo, J. (2011). _Management 3.0: Leading Agile Developers, Developing Agile Leaders_. Addison-Wesley. [Link](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471)
+- Anderson, D. J. (2010). _Kanban: Successful Evolutionary Change for Your Technology Business_. Blue Hole Press. [Link](https://www.amazon.com/Kanban-Successful-Evolutionary-Change-Business/dp/0984521402)
+- Sedgewick, R. (2011). _Algorithms (4th Edition)_. Addison-Wesley Professional. [Link](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
+- Bloch, J. (2008). _Effective Java (2nd Edition)_. Addison-Wesley. [Link](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)
+- Meyer, B. (1997). _Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition)_. Prentice Hall. [Link](https://www.amazon.com/Object-Oriented-Software-Construction-Book-CD-ROM/dp/0136291554)
+- Spolsky, J. (2004). _Joel on Software_. Apress. [Link](https://www.apress.com/us/book/9781590593899)
+- Beck, K., & Andres, C. (2004). _Extreme Programming Explained: Embrace Change, 2nd Edition_. Addison-Wesley Professional. [Link](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+- Meszaros, G. (2007). _xUnit Test Patterns: Refactoring Test Code_. Addison-Wesley Professional. [Link](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
+- Larman, C. (2004). _Agile and Iterative Development: A Manager's Guide_. Addison-Wesley Professional. [Link](https://www.amazon.com/Agile-Iterative-Development-Managers-Guide/dp/0131111558)
+- Beck, K. (2000). _Test-Driven Development: By Example_. Addison-Wesley Professional. [Link](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
-  - Mendel, J. (s.f.). Seriously, what’s your (startup’s) problem? Recuperado de: [Medium](https://medium.com/@jakemendel/seriously-whats-your-startup-s-problemb3a884c54ab4)
-
-  - Progressa Lean. (s.f.). 5W+2H - Técnica de análisis de problemas. Recuperado de: [ProgessaLean](https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/)
-
-  - Fowler, M. (s.f.). Ubiquitous Language. Recuperado de: [MartinFowler](https://martinfowler.com/bliki/UbiquitousLanguage.html)
-
+  
 **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
 - Enlace para acceder la aplicación web: [Ver enlace](https://getwork-1b139.web.app/)
@@ -3029,7 +3063,7 @@ COmo grupo recomendamos trabajar mediante llamada para poder coordinar y lograr 
 - Repositorio GitHub Acceptance-Test: [Ver enlace](https://github.com/CodepaceOrganization/Acceptance-Test)
 - Enlace para acceder al figma LandingPage: [Ver enlace](https://www.figma.com/file/IBYRstHzBvbdgKjdJMCOF7/LandingPage-GetWork?type=design&node-id=0%3A3&mode=design&t=Lv20k0Frf2z0vmA0-1)
 - Enlace para acceder al figma Aplicación Web: [Ver enlace](https://www.figma.com/file/fBSQdNJJcBVnOnb3b6qj0t/Web-Application-GetWork?type=design&node-id=0%3A1&mode=design&t=ZWpSGbkUwjfRnrYe-1)
-- Enlace para acceder al video: [<u>Web ApplicationsPrototyping</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211817_upc_edu_pe/EZp3Qo0XnLdCoBRmMhmBUfIB7_6CEbss59x39MwdOPCSnw?e=NWa7dV)
+- Enlace para acceder al video: [Web ApplicationsPrototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211817_upc_edu_pe/EZp3Qo0XnLdCoBRmMhmBUfIB7_6CEbss59x39MwdOPCSnw?e=NWa7dV)
 - Enlace del video about the product: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/EWG9rFdWW2BPmQehToc8fM4BrjjfAdskZf1X7DNW8MiGYw?e=7SYrc6)
 - Enlace del video about the team: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210846_upc_edu_pe/EWy7zxzYWUpHp6z1ZkVtIEMBsi2lJqyp70z9kgdg10j1Zg?e=uRwujO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 </div>
