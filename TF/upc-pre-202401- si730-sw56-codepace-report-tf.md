@@ -2918,9 +2918,7 @@ En este Sprint, integramos el frontend y el backend. Los endpoints implementados
 
 
 
-**Conclusiones**
-
-**TB1:**
+**Conclusiones Fiinales**
 
 El proyecto "GetWork" de la startup CodePace se presenta como una solución innovadora y necesaria para abordar un desafío comúnmente enfrentado por los estudiantes universitarios: la falta de preparación adecuada para enfrentar entrevistas técnicas y el mercado laboral en el campo de la tecnología. Mediante una cuidadosa investigación y análisis de las necesidades de los estudiantes y las demandas de la industria, CodePace ha desarrollado una plataforma integral que tiene como objetivo cerrar la brecha entre la educación académica y las expectativas del mundo laboral. Esta iniciativa demuestra un profundo compromiso de la startup con el éxito y el crecimiento profesional de los estudiantes, así como con la creación de una fuerza laboral altamente calificada en el campo de la tecnología.
 
@@ -2930,20 +2928,14 @@ Además de su enfoque en el desarrollo de habilidades técnicas, el proyecto "Ge
 
 En conlusión, el proyecto "GetWork" de CodePace representa una solución innovadora y necesaria para abordar la brecha entre la educación académica y las demandas del mercado laboral en el campo de la tecnología. Su enfoque centrado en el usuario, la oferta integral de recursos y herramientas, así como la promoción de competencias interpersonales y habilidades de trabajo en equipo, demuestran el compromiso de la startup con el éxito y el crecimiento profesional de los estudiantes. Este proyecto no solo prepara a los estudiantes para enfrentar entrevistas técnicas, sino que también los equipa con las habilidades necesarias para sobresalir en la industria tecnológica y contribuir al desarrollo de soluciones innovadoras.
 
-**TP:**
 
 El Sprint 2 demostró ser un periodo de alta productividad y eficiencia para nuestro equipo, ya que logramos completar el desarrollo del FrontEnd de la aplicación web GetWork según lo planeado. Desde la implementación del botón de reserva hasta la creación de secciones como los simulacros de entrevistas técnicas y el acceso a tutores especializados, cada miembro del equipo contribuyó significativamente al avance del proyecto. La colaboración efectiva se reflejó en la entrega exitosa de todas las User Stories asignadas, que abordaron funcionalidades clave como la reserva de tutorías, la visualización de calendarios de entrevistas y la participación en concursos. Todas estas características están diseñadas para mejorar la experiencia del usuario y ofrecer un valor añadido a la plataforma GetWork.
 
 La documentación detallada generada durante el Sprint, incluyendo informes de desarrollo y evidencia de despliegue, facilitó una comprensión clara y completa del trabajo realizado. Esta presentación estructurada y transparente de los resultados del Sprint, que incluyó evidencia visual de la aplicación web en funcionamiento, proporcionó una representación tangible y convincente del progreso logrado. En conjunto, el Sprint 2 estableció una base sólida para el éxito del proyecto GetWork, asegurando que la aplicación web sea atractiva, funcional y satisfactoria para sus usuarios.
 
 
-**TB2:**
-
-
 En el sprint 3 se vio que el compromiso de CodePace es brindar un apoyo integral a los programadores para que logren el éxito en sus entrevistas técnicas y desarrollen sus carreras en la industria tecnológica. La plataforma evidencia una dedicación profunda a mejorar las habilidades de codificación de sus usuarios a través de recursos y entrenamientos personalizados, incluyendo ejercicios prácticos y simulacros de entrevistas en vivo. Además, muestra una estrecha colaboración con empresas tecnológicas, lo que no solo enriquece el contenido de la plataforma, sino que también ofrece oportunidades exclusivas de reclutamiento para sus usuarios. En conjunto, el trabajo de CodePace refleja su misión de ser un compañero confiable y su visión de democratizar el acceso a recursos de calidad y entrenamiento efectivo para todos los programadores, impulsando así el crecimiento y la excelencia en la comunidad global de desarrolladores, ademas la documentación detallada generada durante el Sprint, incluyendo informes de desarrollo y evidencia de despliegue, facilitó una comprensión clara y completa del trabajo realizado..
 
-
-**TF** 
 
 Al culminar el sprint 4, nuestro proyecto ha alcanzado una integración exitosa entre el frontend y el backend, resultando en una aplicación que no solo es fácil de usar sino también altamente interactiva. CodePace ha demostrado un compromiso sólido con el desarrollo de las habilidades de codificación de sus usuarios mediante la oferta de recursos educativos personalizados, que incluyen ejercicios prácticos y simulacros de entrevistas en vivo. Además, nuestra colaboración continua con empresas líderes en tecnología no solo enriquece el contenido educativo, sino que también abre puertas a oportunidades únicas de reclutamiento para nuestros usuarios. Este esfuerzo conjunto refleja la dedicación de CodePace a su misión de ser un recurso confiable y a su visión de democratizar el acceso a la educación de calidad en programación para programadores en todo el mundo, promoviendo así el crecimiento y la excelencia dentro de la comunidad global de desarrolladores. La meticulosa documentación realizada durante este sprint, que incluye informes de desarrollo y pruebas de despliegue, ha proporcionado una visión transparente y detallada del progreso y los logros del equipo, asegurando una comunicación efectiva y la alineación de todos los stakeholders con los objetivos del proyecto.
 
@@ -2954,6 +2946,16 @@ Además, la retroalimentación obtenida de los primeros usuarios ha sido invalua
 Mirando hacia el futuro, estamos preparando el terreno para futuras expansiones y mejoras. Con el respaldo de nuestros colaboradores y la comunidad que hemos construido, estamos configurando CodePace no solo como una herramienta educativa, sino como una plataforma integral que apoya el desarrollo profesional continuo de los programadores. Esto incluye la expansión de nuestras ofertas de cursos, el desarrollo de nuevas herramientas interactivas y la incorporación de tecnologías emergentes que puedan facilitar aún más el aprendizaje y el desarrollo profesional de nuestros usuarios.
 
 En conclusión, este sprint ha sido un ejemplo sobresaliente de lo que se puede lograr cuando la pasión por la educación se combina con tecnología avanzada y colaboración estratégica. El equipo de CodePace está más motivado que nunca para continuar con esta trayectoria de innovación y excelencia, asegurando que cada paso adelante nos acerque más a nuestra visión de transformar la manera en que el mundo aprende y mejora sus habilidades en programación.
+
+
+
+
+**Conclusiones del proyecto**
+
+
+COmo grupo recomendamos trabajar mediante llamada para poder coordinar y lograr un  trabajo exitoso, organisarse con tiempo ayudara a comcluir el trabajo de forma exitosa y a tiempo , por ultimo revisar el trabajo etnre todos ya que a veces alguna aprte puede tener error y como gruupo ayudamos a solucionar.
+
+
 
 **Informe Final del Proyecto**
 
