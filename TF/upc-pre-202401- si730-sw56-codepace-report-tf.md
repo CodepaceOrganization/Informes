@@ -2925,7 +2925,7 @@ En este Sprint, integramos el frontend y el backend. Los endpoints implementados
 
 
 
-**Conclusiones Fiinales**
+**Conclusiones y recomendaciones**
 
 El proyecto "GetWork" de la startup CodePace se presenta como una solución innovadora y necesaria para abordar un desafío comúnmente enfrentado por los estudiantes universitarios: la falta de preparación adecuada para enfrentar entrevistas técnicas y el mercado laboral en el campo de la tecnología. Mediante una cuidadosa investigación y análisis de las necesidades de los estudiantes y las demandas de la industria, CodePace ha desarrollado una plataforma integral que tiene como objetivo cerrar la brecha entre la educación académica y las expectativas del mundo laboral. Esta iniciativa demuestra un profundo compromiso de la startup con el éxito y el crecimiento profesional de los estudiantes, así como con la creación de una fuerza laboral altamente calificada en el campo de la tecnología.
 
@@ -2954,17 +2954,15 @@ Mirando hacia el futuro, estamos preparando el terreno para futuras expansiones 
 
 En conclusión, este sprint ha sido un ejemplo sobresaliente de lo que se puede lograr cuando la pasión por la educación se combina con tecnología avanzada y colaboración estratégica. El equipo de CodePace está más motivado que nunca para continuar con esta trayectoria de innovación y excelencia, asegurando que cada paso adelante nos acerque más a nuestra visión de transformar la manera en que el mundo aprende y mejora sus habilidades en programación.
 
+**Recomendaciones**
 
+Para optimizar el desempeño del equipo en el proyecto, es crucial adoptar una estrategia de comunicación efectiva. Realizar llamadas regulares y videoconferencias permite no solo mantener al equipo alineado, sino también fomentar un espacio abierto para compartir ideas innovadoras y resolver problemas en tiempo real. Este enfoque de comunicación constante asegura que todos los miembros estén informados y comprometidos con el progreso del proyecto.
 
+Una buena organización es igualmente esencial. Establecer un calendario claro desde el inicio, con hitos bien definidos y plazos específicos, permite a cada miembro del equipo gestionar su tiempo de manera eficiente. Utilizar herramientas de gestión de proyectos puede ayudar a visualizar las tareas pendientes y completadas, facilitando así el seguimiento del avance general y la identificación temprana de posibles retrasos o cuellos de botella.
 
-**Conclusiones del proyecto**
+Además, realizar revisiones periódicas del trabajo en conjunto es vital. Estas revisiones deben ser constructivas y enfocarse en la mejora continua. Cada miembro del equipo debe tener la oportunidad de recibir y ofrecer retroalimentación, lo que no solo ayuda a identificar y corregir errores, sino que también promueve un entorno de respeto y aprendizaje mutuo. Esta práctica no solo mejora la calidad del trabajo entregado, sino que también refuerza la cohesión del equipo, creando una atmósfera de colaboración efectiva y apoyo continuo.
 
-
-COmo grupo recomendamos trabajar mediante llamada para poder coordinar y lograr un  trabajo exitoso, organisarse con tiempo ayudara a comcluir el trabajo de forma exitosa y a tiempo , por ultimo revisar el trabajo etnre todos ya que a veces alguna aprte puede tener error y como gruupo ayudamos a solucionar.
-
-
-
-**Informe Final del Proyecto**
+**Ciclo de vida del proyecto**
 
 **Capítulo I: Introducción**
 - **Startup Profile y Solution Profile**
@@ -3004,7 +3002,6 @@ COmo grupo recomendamos trabajar mediante llamada para poder coordinar y lograr 
 - Vaughn, V. (2016). _Implementing Domain-Driven Design_. Addison-Wesley. [Link](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - Richards, M. (2015). _Software Architecture Patterns_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - Freeman, E., Robson, E., Bates, B., & Sierra, K. (2004). _Head First Design Patterns_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/head-first-design/0596007124/)
-- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). _Design Patterns: Elements of Reusable Object-Oriented Software_. Addison-Wesley. [Link](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - Nilsson, J. (2010). _Applying Domain-Driven Design and Patterns With Examples in C# and .NET_. Addison-Wesley. [Link](https://www.amazon.com/Applying-Domain-Driven-Design-Patterns-Examples/dp/0321268202)
 - Lerman, J. & Miller, R. (2011). _Programming Entity Framework: DbContext_. O'Reilly Media. [Link](https://www.oreilly.com/library/view/programming-entity-framework/9781449312961/)
 - Bishop, J. (2014). _C# 6.0 and the .NET 4.6 Framework_. Apress. [Link](https://www.apress.com/gp/book/9781484213339)
