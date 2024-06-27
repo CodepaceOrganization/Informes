@@ -769,22 +769,33 @@ Segmento objetivo 2: Maria Sanchez
 
 **2.4. Ubiquitous Language**
   
-  **Entrevistas Técnicas:** Procesos de evaluación utilizados por las empresas de tecnología para evaluar las habilidades técnicas y la idoneidad de los candidatos para un puesto.
-  
-- **Recursos de Preparación:** Materiales educativos y herramientas utilizadas para mejorar las habilidades técnicas y prepararse para entrevistas técnicas, incluyendo preguntas frecuentes de entrevistas, ejercicios de codificación práctica y simulacros de entrevistas en vivo.
+**Ubiquitous Language** es un aspecto fundamental del **Domain-Driven Design**, asegurando una comunicación clara y consistente entre todos los miembros del equipo y los stakeholders. Define los términos clave y conceptos utilizados dentro del proyecto, estableciendo una comprensión común crucial para una colaboración efectiva y alineación. A continuación, se presentan los términos clave ampliados y las definiciones para la plataforma GetWork:
 
-- **Plataforma de Preparación para Entrevistas Técnicas:** Sistema en línea diseñado para ayudar a los programadores y desarrolladores a mejorar sus habilidades técnicas y prepararse para entrevistas técnicas, proporcionando una amplia gama de recursos de preparación y oportunidades de práctica.
+**Conceptos Principales**
+- **Entity:** Un objeto que no se define por sus atributos, sino por una continuidad e identidad (por ejemplo, un Usuario o Entrevista en la plataforma GetWork).
+- **Value Object:** Un objeto que representa aspectos descriptivos del dominio sin identidad conceptual, tratado como inmutable (por ejemplo, Credenciales de Usuario, Fecha de Entrevista).
+- **Aggregate:** Un conjunto de objetos asociados que se tratan como una unidad para fines de cambios de datos. Cada agregado tiene una raíz y un límite definido alrededor de ellos (por ejemplo, Agregado de Perfil de Usuario).
+- **Repository:** Métodos para recuperar objetos del dominio que abstraen la lógica de acceso a bases de datos de bajo nivel.
+- **Domain Event:** Un evento empresarial significativo que desencadena transacciones o cambios en el modelo de dominio (por ejemplo, Entrevista Programada, Perfil Actualizado).
+- **Service:** Una operación ofrecida como una interfaz que se mantiene independiente en el modelo, no perteneciendo a ningún objeto.
 
+**Términos Específicos**
+- **GetWork:** Una plataforma digital destinada a facilitar la programación y preparación de entrevistas de trabajo, ofreciendo un puente entre los buscadores de empleo y los empleadores.
+- **User Persona:** Arquetipos que representan las diversas demografías de usuarios, guiando el diseño de UI/UX y el desarrollo de características.
+- **Sprint Review:** Reuniones regulares para presentar el progreso del proyecto a los stakeholders, demostrando nuevas características y discutiendo tareas en curso.
+- **Mock-up:** Modelos o prototipos tempranos de características dentro de la plataforma GetWork utilizados para demostración y validación de diseño.
+- **Landing Page:** La página inicial vista por los usuarios, diseñada para convertir visitantes en usuarios registrados destacando los beneficios de la plataforma.
+- **Wireframe:** Una guía visual que sugiere la disposición de elementos en las interfaces de usuario de la plataforma, esencial para el diseño de UI.
+
+**Términos Adicionales del Dominio Específico**
+- **Entrevistas Técnicas:** Procesos de evaluación utilizados por las empresas de tecnología para evaluar las habilidades técnicas y la idoneidad de los candidatos para un puesto.
+- **Recursos de Preparación:** Materiales educativos y herramientas utilizadas para mejorar las habilidades técnicas y prepararse para entrevistas técnicas.
+- **Plataforma de Preparación para Entrevistas Técnicas:** Sistema en línea diseñado para ayudar a los programadores y desarrolladores a mejorar sus habilidades técnicas y prepararse para entrevistas técnicas.
 - **Usuarios Objetivo:** Grupos específicos de personas a quienes está dirigido el producto, incluyendo desarrolladores en búsqueda de empleo y estudiantes de informática y carreras relacionadas.
-
 - **Valor Agregado:** Beneficios adicionales proporcionados por la plataforma de preparación para entrevistas técnicas, como acceso a contenido exclusivo de empresas de tecnología, oportunidades de reclutamiento integradas y sesiones de tutoría personalizada.
-
 - **Lean UX Process:** Método de desarrollo centrado en la optimización del producto mediante la validación, el pensamiento y la acción, incluyendo la identificación de problemas, suposiciones, hipótesis y el uso de lienzos para organizar ideas y estrategias.
-
 - **Problem Statements:** Declaraciones que identifican los problemas principales que enfrentan los usuarios y guían el proceso de diseño y desarrollo del producto.
-
 - **Hypothesis Statements:** Declaraciones que expresan creencias sobre cómo resolver los problemas identificados y establecen criterios para evaluar el éxito del producto.
-
 - **Lean UX Canvas:** Herramienta visual utilizada para definir y organizar los elementos clave del proceso de diseño y desarrollo del producto, incluyendo problemas, soluciones, suposiciones y métricas de éxito.
 
 
