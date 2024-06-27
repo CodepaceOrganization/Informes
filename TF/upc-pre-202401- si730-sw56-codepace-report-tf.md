@@ -937,7 +937,7 @@ Link en Pivotal Tracker: [Ver enlace]("https://www.pivotaltracker.com/n/projects
     
     **Paleta de colores:** Nuestra aplicación web y landing page, al estar dirigida a desarrolladores y estudiantes, cuenta con colores que denoten confianza, sean sobrios y formales,        por lo     que los colores principales que usaremos para GetWorkserán el blanco, Rojo, el negro y el gris. El blanco en representación del orden y limpieza, el azul la tranquilidad y     relajación      y el gris para la seriedad y modestia. El color principal de las letras será el negro para la formalidad pero también usaremos letras en color blano para un buen          contraste con el          fondo en donde se encuentra.
 
-    ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/134337719/321430988-bd62e087-a892-49b5-adb1-1bcffdb070ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T181928Z&X-Amz-Expires=300&X-Amz-Signature=e7be09f6d3ed51660b1b0ed3b610b4822b5b32a6f4021f7fe8e6b2d1200f535f&X-Amz-SignedHeaders=host&actor_id=130623774&key_id=0&repo_id=776844530)
+    ![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/ddf615ac-e398-47e6-855b-4a13fec09730)
     
     **Tipografía:** La tipografía de nuestra aplicación será fácilmente legible y estética, por lo que se hará uso de la fuente Roboto para botones y títulos y Asap para textos, con          interlineado 1.15 con tamaño base 18px para desktop y para móvil tamaño 16px, no obstante, decidimos hacer uso de la unidad de medida “em” para que las letras sean escalables y           responsivas a la variedad de tamaños de pantalla. Los tamaños variarán según si son títulos principales, subtítulos o textos.
 
@@ -961,7 +961,9 @@ Link en Pivotal Tracker: [Ver enlace]("https://www.pivotaltracker.com/n/projects
     
     Estos ajustes de tamaño de texto proporcionan coherencia en el diseño y la presentación de la página web. La fuente "Roboto" es ampliamente utilizada por su      legibilidad y versatilidad, lo que la hace adecuada para una variedad de contextos en el diseño web.
 
-    ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/134337719/321431509-52cdc829-e776-497a-b2c5-06ddda625f2f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T182019Z&X-Amz-Expires=300&X-Amz-Signature=b0b2c5835230d8a1d4dd10956928942db310d5e10bb727af0ba7271e12a6a9a2&X-Amz-SignedHeaders=host&actor_id=130623774&key_id=0&repo_id=776844530)
+    ![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/7a3f4de3-35f8-40a1-b34a-618df95a611b)
+
+    ![image](https://github.com/CodepaceOrganization/Reports/assets/134337719/2e012775-90bc-41da-9614-a21a47b3780f)
 
     **Misión:**
     Revolucionar la preparación para entrevistas técnicas ofreciendo una plataforma integral que equipa a los programadores con las herramientas, conocimientos y     confianza necesarios para lograr el éxito.
